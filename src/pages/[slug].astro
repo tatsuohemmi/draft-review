@@ -1,0 +1,18 @@
+---
+import DraftLayout from '../layouts/DraftLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const drafts = await getCollection('drafts');
+  return drafts.map((draft) => ({
+    params: { slug: draft.slug },
+    props: { draft },
+  }));
+}
+
+const { draft } = Astro.props;
+const { Content } = await draft.render();
+---
+<DraftLayout title={draft.data.title} slug={draft.slug}>
+  <Content />
+</DraftLayout>

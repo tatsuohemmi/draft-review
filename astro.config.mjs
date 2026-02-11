@@ -5,7 +5,7 @@ import rehypeParagraphWrapper from './src/plugins/rehype-paragraph-wrapper.mjs';
 
 export default defineConfig({
   site: 'https://tatsuohemmi.github.io',
-  base: '/draft-review',
+  base: '/draft-review/',
   markdown: {
     remarkPlugins: [
       remarkObsidianCleanup,

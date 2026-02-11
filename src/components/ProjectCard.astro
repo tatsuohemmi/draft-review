@@ -1,0 +1,13 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  sourceFolder: string;
+}
+const { title, slug, sourceFolder } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<a href={`${base}${slug}/`} class="project-card">
+  <h2>{title}</h2>
+  <p class="source-folder">{sourceFolder}</p>
+</a>

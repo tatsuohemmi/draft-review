@@ -1,0 +1,37 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { SITE_CONFIG } from '../config';
+
+interface Props {
+  title: string;
+  slug: string;
+}
+const { title, slug } = Astro.props;
+---
+<BaseLayout title={title}>
+  <article class="draft-content">
+    <h1>{title}</h1>
+    <slot />
+  </article>
+
+  <script define:vars={{ owner: SITE_CONFIG.owner, repo: SITE_CONFIG.repo, templateFile: SITE_CONFIG.issueTemplateFile, draftTitle: title }}>
+    document.querySelectorAll('.comment-button').forEach(btn => {
+      const pid = btn.dataset.pid;
+      if (!pid) return;
+
+      const paragraph = btn.closest('.commentable-paragraph');
+      const context = paragraph ? paragraph.textContent.slice(0, 140) : '';
+      const pageUrl = window.location.href;
+
+      const params = new URLSearchParams({
+        template: templateFile,
+        title: `[${pid}] ${draftTitle}`,
+        'paragraph-id': pid,
+        'paragraph-context': context,
+        'page-url': pageUrl,
+      });
+
+      btn.href = `https://github.com/${owner}/${repo}/issues/new?${params.toString()}`;
+    });
+  </script>
+</BaseLayout>

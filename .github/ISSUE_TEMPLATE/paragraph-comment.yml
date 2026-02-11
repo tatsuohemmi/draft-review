@@ -1,0 +1,56 @@
+name: Paragraph Comment
+description: Comment on a specific paragraph in a draft
+title: "[${paragraph-id}] "
+labels: ["review-comment"]
+body:
+  - type: input
+    id: paragraph-id
+    attributes:
+      label: Paragraph ID
+      description: The paragraph identifier (e.g., p0001)
+      placeholder: p0001
+    validations:
+      required: true
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: URL of the draft page
+      placeholder: https://tatsuohemmi.github.io/draft-review/...
+    validations:
+      required: false
+  - type: textarea
+    id: paragraph-context
+    attributes:
+      label: Paragraph Context
+      description: First 140 characters of the paragraph text
+      render: text
+    validations:
+      required: false
+  - type: dropdown
+    id: type
+    attributes:
+      label: Comment Type
+      description: What type of issue is this?
+      options:
+        - Structure
+        - Claim
+        - Evidence
+        - Objection
+        - Terminology
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Description
+      description: Describe the issue or suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: evidence-needed
+    attributes:
+      label: Evidence / References
+      description: Supporting evidence or references (optional)
+    validations:
+      required: false

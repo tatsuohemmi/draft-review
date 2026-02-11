@@ -1,0 +1,141 @@
+:root {
+  --font-body: 'Noto Serif JP', 'Georgia', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --color-bg: #fafaf9;
+  --color-text: #1c1917;
+  --color-accent: #2563eb;
+  --color-border: #d6d3d1;
+  --color-hover-bg: #f5f5f4;
+  --max-width: 48rem;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.8;
+  padding: 2rem 1rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+header nav {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+header nav a {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.85rem;
+  color: #78716c;
+}
+
+h1 { font-size: 1.75rem; margin-bottom: 1.5rem; }
+h2 { font-size: 1.35rem; margin: 1.5rem 0 0.75rem; }
+
+a { color: var(--color-accent); }
+
+/* Draft content */
+.draft-content p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+/* Commentable paragraphs */
+.commentable-paragraph {
+  position: relative;
+  padding-right: 1rem;
+  transition: background 0.2s;
+}
+
+.commentable-paragraph:hover {
+  background: var(--color-hover-bg);
+}
+
+.paragraph-tools {
+  display: inline-flex;
+  gap: 0.5rem;
+  margin-left: 0.5rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+  font-size: 0.8rem;
+  vertical-align: baseline;
+}
+
+.commentable-paragraph:hover .paragraph-tools {
+  opacity: 1;
+}
+
+.paragraph-anchor {
+  color: #a8a29e;
+  text-decoration: none;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+}
+
+.paragraph-anchor:hover { color: var(--color-accent); }
+
+.comment-button {
+  background: var(--color-accent);
+  color: white;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.comment-button:hover {
+  background: #1d4ed8;
+}
+
+/* Project grid */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  display: block;
+  padding: 1.25rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.project-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.project-card h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+.project-card .source-folder { font-size: 0.85rem; color: #78716c; }
+
+/* Highlight marks */
+mark {
+  background: #fef08a;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+}
+
+/* Superscript footnotes */
+sup {
+  font-size: 0.7em;
+  vertical-align: super;
+}

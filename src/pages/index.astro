@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProjectCard from '../components/ProjectCard.astro';
+import { getCollection } from 'astro:content';
+
+const drafts = await getCollection('drafts');
+---
+<BaseLayout title="Index">
+  <h1>Draft Review</h1>
+  <p>学術翻訳ドラフトの公開レビュー。段落ごとにコメントできます。</p>
+  <div class="project-grid">
+    {drafts.map((draft) => (
+      <ProjectCard
+        title={draft.data.title}
+        slug={draft.slug}
+        sourceFolder={draft.data.sourceFolder}
+      />
+    ))}
+  </div>
+</BaseLayout>
