@@ -58,6 +58,44 @@ function injectFrontmatter(rawYaml, extraFields) {
   return rawYaml.trimEnd() + '\n' + lines.join('\n');
 }
 
+/**
+ * Strip Markdown and Obsidian wiki-style image references from the body.
+ *
+ * Patterns handled:
+ *   - Markdown images:  `![alt](path)`
+ *   - Obsidian wiki images:  `![[filename]]`
+ *
+ * If the image line also carries a paragraph ID (`^pNNNN`), the ID is
+ * preserved as a standalone line so downstream paragraph anchoring is
+ * not broken.
+ *
+ * @param {string} body - Document body (after frontmatter).
+ * @returns {{ body: string, imageCount: number }}
+ */
+function stripImageReferences(body) {
+  let imageCount = 0;
+
+  // Markdown images: ![alt](path)  optional ^pNNNN at end of line
+  const pass1 = body.replace(
+    /^!\[([^\]]*)\]\([^)]+\)([ \t]*\^p\d{4})?[ \t]*$/gm,
+    (_match, _alt, pid) => {
+      imageCount++;
+      return pid ? pid.trim() : '';
+    },
+  );
+
+  // Obsidian wiki images: ![[filename]]  optional ^pNNNN at end of line
+  const pass2 = pass1.replace(
+    /^!\[\[([^\]]+)\]\]([ \t]*\^p\d{4})?[ \t]*$/gm,
+    (_match, _file, pid) => {
+      imageCount++;
+      return pid ? pid.trim() : '';
+    },
+  );
+
+  return { body: pass2, imageCount };
+}
+
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
@@ -115,6 +153,12 @@ function main() {
       console.warn(`[copy-drafts] WARN: no ^p IDs found in "${project}/draft.md" — copying anyway`);
     }
 
+    // Strip image references (Markdown & Obsidian wiki syntax)
+    const { body: cleanedBody, imageCount } = stripImageReferences(parsed.body);
+    if (imageCount > 0) {
+      console.log(`[copy-drafts] INFO: removed ${imageCount} image reference(s) from "${project}/draft.md"`);
+    }
+
     // Build output
     const slug = folderToSlug(project);
 
@@ -124,7 +168,7 @@ function main() {
       lastCopied:   now,
     });
 
-    const output = `---\n${newYaml}\n---\n${parsed.body}`;
+    const output = `---\n${newYaml}\n---\n${cleanedBody}`;
 
     // Write
     const outPath = resolve(outDir, `${slug}.md`);

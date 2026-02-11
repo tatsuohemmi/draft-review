@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-cigue"
 sourceFolder: "2026-02_tr_CIGUE"
-lastCopied: "2026-02-11T13:51:09.803Z"
+lastCopied: "2026-02-11T14:00:50.405Z"
 ---
 
 ## 原文
@@ -314,13 +314,13 @@ Cricta aquatica。Phollandriamを参照。
 
 éd.1690 ^p0117
 
-<!-- image removed for web build -->
+
 CICUE. f.f. Herbe reffemblante au perfil, qui eft d'une exceffive froideur. Sa tige eft nouée \& grande comme celle du fenouil. Ses feuilles font femblables à celles de la ferule, mais elles font plus eftroites, \& ont une odeur pefante, fafcheufe \& puante. Ses fleurs font blancheaftres, \& viennent à fa cime en petits bouquets. Sa graine eft plus blanche que celle de l'anis. Sa racine eft creufe, \& n'eft gueres profonde en terre. Elle a beaucoup d'ufage en Medccine, quoy que ce foit un poifon. Quelques-uns font devenus fous pour avoir mis en leur potage des feuilles de ciguë, au lieu de perfil. La ciguë eft ennemie du cerveau, comme les cantharides de la veffie, \& le lievre marin du poulmon. Socrate condamné à mort, beut de la ciguë. La ciguë prife en breuvage caufe des vertiges \& convulfions, trouble la veuë \& l'entendement, rend les extremitez froides, \& bouche les conduits de la refpiration. La ciguë eft aliment à l'étourneau, \& poifon à l'oye. La ciguë fait mieux fon effet quand elle eft prife avec du vin. La ciguë eft moins dangereufe icy que dans les pays chauds. On l'appelle autrement en François feguë, ou cocuë, en Latin cicuta: lequel mot, felon Ifidore, vient de ce que la ciguë babel cacos nodos, id eft, occultos, de ce que la ciguë a des nœuds cachés. C'eft pourquoy dans les Poëtes cicuta fe prend pour internodia cannarum, pour l'efpace qui eft entre les nœuds des cannes, des rofeaux. D'autres difent que cicuta eft dite comme circa cutem. Elle a une peau, une efpece d'écorce tout autour, mais elle eft vuide au dedans.
 Il y a auffi une efpece de plante qu'on appelle cicutaire, qui eft une efpece de cigué. ^p0118
 
 1727, Basnage-de Beauval
  Les Atheniens condamnerent Socrate à boire du suc de ciguë, qui était une sorte de supplice fort usité parmi eux.
-<!-- image removed for web build -->
+^p0119
 
 C1GUE. f.f. Plante qui pouffe une tige à la hauteur de quatre ou cinq pieds, groffe, liffé, marbrée de petites rouges, creule en dedans. Ses feuilles font decoupécs fort menu, approchanres de celles du perfil; d'une odeur defagreable, \& d'un goût un peu acre. Sa fleur eft en parafol, compofée de cinq feuilles blanches, difpofées en fleur-de-lis de France. Elle eft fuivie d'un fruit compofé de deux graines arondies, cannelées fur le dos. Sa racine eft groffe comme le doigt, longuc d'environ un pied, blanche. En Latin cicuta major, C. B A U H. La ciguë prife en bruvage trouble la vuë \& l'en:endement, caufe le vertige, la difficulté de refpirer, le hoquet, la defaillance, \& enfin la mort. Quelques - uns font devenus fous pour avoir mis en leur potage des feuilles de ciguë, au lieu de perfil. Les Atheniens condamnerent Socrate à boire du fuc de ciguë, qui étoit une forte de fupplice fort ufité parmi cux. La ciguë eft aliment à l'étourneau, \& poifon à l'oye. Ce, andant la ciguë eft un fort bon remede, ap. liquée exterieurement. Ses feuilles font très-adonciffantes \&e très-refolutives; on les fait bouillir avec du lait, \& on les applique avec fuccez fur les hemorrhoïdes, \& fur les endroits où la goutte fe fait feutir. L'emplatre de ciguë eft très-propre pour fondre les duretiz fquirreufes. - Le mor de cicuta fignifie les euyaux filuleux qui font entre les nœuds des tiges du blé; \& l'on croit qu'on a donné ce nom à la ciguë, parceque fes tiges font creufes d'un nœud à l'autre. ^p0120
 
@@ -697,7 +697,7 @@ Morris 「とりわけ、ジョクールが最も温かい敬意を表してい�
 →Hardouin Jean, Caii Plinii Secundi historiae naturalis libri XXXVII, sans lieu, typis Antonii-Urbani Coustelier, 1723.このテクストをDL,Zoteroに記載した。 ^p0239
 
 
-<!-- image removed for web build -->
+^p0240
 
 cf. [202503310903_プリニウス「イチジク」とカトーのカルタゴ脅威論](202503310903_プリニウス「イチジク」とカトーのカルタゴ脅威論.md)
 この古代期の『百科全書』が自在に植物と故事、自然誌と市民史を融合させる手法。
@@ -730,7 +730,7 @@ DPV12, # ルモニエ師によるペルシウス翻訳について
 ### □ホラティウス　ホラティウス『書簡詩』第2巻第2詩
 - 詩行のラテン語解説
 [202504051159_Sed quod non desit_habentem Quae poterunt unquam satis expurgare cicutae_Ni melius dormire putem quam scribere versus(CIGUE)](Clippings/202504051159_Sed%20quod%20non%20desit_habentem%20Quae%20poterunt%20unquam%20satis%20expurgare%20cicutae_Ni%20melius%20dormire%20putem%20quam%20scribere%20versus(CIGUE).md)
-<!-- image removed for web build -->
+
 ### □Phocionj
 やはりJaucourtが頻繁に引用する古代政治家のひとり（Enccreによると、11回）。
 プリュタルク、Dacier版だと(1721年パリ版,1735年アムステルダム版、1739年リヨン版ともに)、435－436ページである。Jaucourtの引用はDacierの原文とは異なっている。
@@ -794,7 +794,7 @@ sed quod non desit, habentem Quae poterunt unquam satis expurgare cicutae? Ni me
 « <pen>==Présentement que j'ai plus de bien qu'il ne m'en-- 3:450 -- [Click here for original page image]faut, ma folie ne seroit - elle pas à l'épreuve de toute la ciguë, si je n'étois persuadé qu'il vaut mieux dormir que de faire des vers?»この仏訳はDacier版279-281を微修正したもの。==</pen> ^p0266
 
 <pen>==Pline, liv. XIV. ch. xxij==</pen>. vante la ciguë pour prévenir l'yvresse, & prétend qu'on en peut tirer plusieurs remedes. <pen>==Lescale==</pen> rapporte quelque part, que voyageant en Lombardie, on lui servit de la salade où il y avoit de la ciguë, ce qui l'étonna fort; mais qu'il revint de sa surprise quand il sçut que les gens du pays en mangeoient, & qu'ils n'en étoient point incommodés. Les chevres en broutent la racine, & les oiseaux en mangent la graine sans inconvénient; mais les effets des plantes sur les animaux ne concluent rien pour l'homme, & toutes les autorités qu'on vient de citer ne sauroient contre - balancer le poids de celles qu'on leur oppose. ==<c/HMAS_Table>[Table_1731,t.6,1711-1720, p.83.]Il reste toûjours certain, par le grand nombre d'exemples funestes rapportés dans les transactions philosophiques, dans les Mémoires de l'académie des Sciences, dans Wepfer, & ailleurs, que toutes les especes de ciguës sont venimeuses.</c/HMAS_Table>==
-<!-- image removed for web build -->
+^p0267
 
 
 Nous l'employons extérieurement. On doit donc se contenter de s'en servir pour l'application extérieure, & de cette maniere on en fait usage avec succès. Ses feuilles sont adoucissantes & résolutives; bouillies avec du lait on les applique sur les hémorroïdes, & sur les endroits où la goutte se fait sentir. Le cataplasme de feuilles de ciguë pilées avec des limaçons, & malaxées avec les quatre farines résolutives, est vanté pour l'inflammation des testicules, les douleurs de goutte & de sciatique. ==<cit/Geoffroy> Henri d'Heer, observ. 7. les recommande bouillies dans l'eau de fleurs de sureau avec un peu de camfre,==</cit/Geoffroy> pour l'inflammation & la tumeur de la verge qui vient d'échauffement. En général ==<cit/Geoffroy>［G:Henri de Heer, Observ. 7. recommande fort la Ciguë pour l'inflammation & la tumeur de la verge qui vient d'un trop grand exercice à l'amour ; car elle dissipe & résout la tumeur. On prend pour cela des feuilles de Ciguë que l'on pile, si elles sont fraîches ; & que l'on fait macérer ou bouillir dans l'eau de fleurs de Sureau avec un peu de Camphre, si elles sont sèches ; & on les introduit entre le prépuce & le gland.］les feuilles & les racines sont estimées pour amollir les tumeursskirrheuses des parties externes & des visceres du bas - ventre, surtout du foie & de la rate.==</cit/Geoffroy>  C'est dans le même but que nos Apothicaires préparent une emplâtre de ciguë, qui passe pour un bon fondant.==<cit/Geoffroy> On employe aussi la ciguë dans l'emplâtre diabotanum de Blondel.== ^p0268
