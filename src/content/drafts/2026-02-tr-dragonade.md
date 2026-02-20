@@ -10,16 +10,20 @@ tags:
   - draft
 slug: "2026-02-tr-dragonade"
 sourceFolder: "2026-02_tr_DRAGONADE"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
 
 DRAGONADE, s. f. ( Hist. mod .) nom donné par les Calvinistes à l’exécution faite contr’eux en France, en 1684. Vous trouverez dans l’histoire du siecle de Louis XIV . l’origine du mot dragonade , & des détails sur cette exécution, que la nation condamne unanimement aujourd’hui. En effet, toute persécution est contre le but de la bonne politique, & ce qui n’est pas moins important, contre la doctrine, contre la morale de la religion, qui ne respire que douceur, que charité, que miséricorde. Article de M. le Chevalier de Jaucourt . ^p0001
 
+---
+
 ## 翻訳
 
 竜騎兵による強制改宗（ドラゴナード） DRAGONADE（女性名詞）（近代史）カルヴァン派が自分たちが1684年にフランスで行った処置に自ら与えた名称。『ルイ14世の世紀』にこの語の起源とその実行の詳細があり、今日では国民が一致してこれを非難している。あらゆる迫害は良き政治の目的に反しているからである。迫害はまた、このこともまた劣らず重要なことに、穏和・慈愛・慈悲のみを希求する宗教の教義にも道徳にも反しているからである。— ジュクール騎士の項目。 ^p0002
+
+---
 
 ## 注釈
 

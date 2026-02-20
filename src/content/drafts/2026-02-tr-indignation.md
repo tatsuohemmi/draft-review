@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-indignation"
 sourceFolder: "2026-02_tr_INDIGNATION"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
@@ -20,7 +20,9 @@ Primary source ^p0001
 
 [INDIGNATION](INDIGNATION.md) ^p0002
 
- INDIGNATION, s. f. (Gramm.)​2​ sentiment mêlé de mépris & de colere que certaines injustices inattendues excitent en nous. L’indignation approuve la vengeance, mais n’y conduit pas. La colere passe ; l’indignation plus réfléchie dure : elle nous éloigne de l’indigne. L’indignation est muette ; c’est moins par le propos que par les mouvemens qu’elle se montre. Elle ne transporte pas, elle gonfle ; il est rare qu’elle soit injuste ; nous sommes souvent indignés d’un mauvais procédé, dont nous ne sommes pas l’objet. Une ame délicate s’indigne quelquefois des obstacles qu’on lui oppose, des motifs qu’on lui croit, des rivaux qu’on lui donne, des récompenses qu’on lui promet, des éloges qu’on lui adresse, des préférences mêmes qu’on lui accorde ; en un mot,​ de tout ce qui marque qu’on n’a pas d’elle l’estime qu’elle croit mériter. ^p0003
+ INDIGNATION, s. f. (Gramm.)² sentiment mêlé de mépris & de colere que certaines injustices inattendues excitent en nous. L’indignation approuve la vengeance, mais n’y conduit pas. La colere passe ; l’indignation plus réfléchie dure : elle nous éloigne de l’indigne. L’indignation est muette ; c’est moins par le propos que par les mouvemens qu’elle se montre. Elle ne transporte pas, elle gonfle ; il est rare qu’elle soit injuste ; nous sommes souvent indignés d’un mauvais procédé, dont nous ne sommes pas l’objet. Une ame délicate s’indigne quelquefois des obstacles qu’on lui oppose, des motifs qu’on lui croit, des rivaux qu’on lui donne, des récompenses qu’on lui promet, des éloges qu’on lui adresse, des préférences mêmes qu’on lui accorde ; en un mot,​ de tout ce qui marque qu’on n’a pas d’elle l’estime qu’elle croit mériter. ^p0003
+
+---
 
 ## 翻訳
 
@@ -31,7 +33,7 @@ Imbruglia Girolamo, « Indignation et droits de l’homme », dans Gianluigi G
 - 翻訳版: [IMBRUGLIA_orgtxt_translated](file:///D:/Obs_Recmd/01__Diderot/01__Diderot_Etudes/IMBRUGLIA_Indignation_et_droits_de_l%27homme_chez_le_dernier_Diderot_orgtxt_translated.md)
 - 原文: [IMBRUGLIA_orgtxt](file:///F:/Dropbox/ArticlesPDF/_Recmd/01__Diderot/01__Diderot_Etudes/IMBRUGLIA_Indignation_et_droits_de_l%27homme_chez_le_dernier_Diderot_orgtxt.md) ^p0005
 
- INDIGNATION（憤慨）, 女性名詞（文法）— ある種の予期せぬ不正が我々のうちに引き起こす、軽蔑と怒りの混じった感情。憤慨は復讐を是認するが、復讐へと導くことはない。怒りは過ぎ去る。しかし憤慨はより内省的であり、持続する。それは我々を、憤慨に値する者から遠ざける。憤慨は無言である。それは言葉よりも、むしろ身体の動きによって現れる。憤慨は人を我を忘れさせるのではなく、内に膨らませる。憤慨が不当であることは稀である。我々はしばしば、自分が当事者でない不当な仕打ちに対しても憤慨する。繊細な魂は、時として、自らに立ちはだかる障害に、自らに帰せられる動機に、自らに与えられる競争相手に、自らに約束される報酬に、自らに向けられる賞賛に、さらには自らに与えられる優遇にさえも憤慨する。一言でいえば、自分が値すると信じている敬意を相手が抱いていないことを示すあらゆるものに対して、憤慨するのである。 ^p0006
+ INDIGNATION（憤慨）, 女性名詞（文法）²— ある種の予期せぬ不正が我々のうちに引き起こす、軽蔑と怒りの混じった感情。憤慨は復讐を是認するが、復讐へと導くことはない。怒りは過ぎ去る。しかし憤慨はより内省的であり、持続する。それは我々を、憤慨に値する者から遠ざける。憤慨は無言である。それは言葉よりも、むしろ身体の動きによって現れる。憤慨は人を我を忘れさせるのではなく、内に膨らませる。憤慨が不当であることは稀である。我々はしばしば、自分が当事者でない不当な仕打ちに対しても憤慨する。繊細な魂は、時として、自らに立ちはだかる障害に、自らに帰せられる動機に、自らに与えられる競争相手に、自らに約束される報酬に、自らに向けられる賞賛に、さらには自らに与えられる優遇にさえも憤慨する。一言でいえば、自分が値すると信じている敬意を相手が抱いていないことを示すあらゆるものに対して、憤慨するのである。 ^p0006
 
 ## 注釈
 

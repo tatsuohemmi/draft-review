@@ -10,18 +10,18 @@ tags:
   - draft
 slug: "2026-02-tr-massacre"
 sourceFolder: "2026-02_tr_MASSACRE"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
 
-MASSACRE, s. m. (Gramm.)​1​ c'est l'action de tuer impitoyablement ceux sur lesquels on a quelque avantage qui les a mis sans défense. Il ne se dit guere que d'une troupe d'hommes à une autre. Le massacre de la saint Barthélemi, l'opprobre éternel de ceux qui le conseillerent, de ceux qui le permirent, de ceux qui l'exécuterent, & de l'homme infâme qui a osé depuis en faire l'apologie. Le massacre des Innocens. Le massacre des habitans d'une ville. ^p0001
+MASSACRE, s. m. (Gramm.)¹ c'est l'action de tuer impitoyablement ceux sur lesquels on a quelque avantage qui les a mis sans défense. Il ne se dit guere que d'une troupe d'hommes à une autre. Le massacre de la saint Barthélemi, l'opprobre éternel de ceux qui le conseillerent, de ceux qui le permirent, de ceux qui l'exécuterent, & de l'homme infâme qui a osé depuis en faire l'apologie. Le massacre des Innocens. Le massacre des habitans d'une ville. ^p0001
 
 ---
 
 ## 翻訳
 
-MASSACRE（男性名詞）（文法）無防備な状態に追い込まれた者たちを無慈悲に殺す行為。この語はもっぱら、ある人間の集団が別の集団に対して行う場合にのみ用いられる。サン・バルテルミの虐殺は、それを勧告した者たち、許可した者たち、実行した者たち、そしてその後あえてその弁護を行った不名誉な男にとっての、永遠の汚名である。幼児の虐殺。ある都市の住民の虐殺。 ^p0002
+MASSACRE（男性名詞）（文法）¹無防備な状態に追い込まれた者たちを無慈悲に殺す行為。この語はもっぱら、ある人間の集団が別の集団に対して行う場合にのみ用いられる。サン・バルテルミの虐殺は、それを勧告した者たち、許可した者たち、実行した者たち、そしてその後あえてその弁護を行った不名誉な男にとっての、永遠の汚名である。幼児の虐殺。ある都市の住民の虐殺。 ^p0002
 
 ---
 

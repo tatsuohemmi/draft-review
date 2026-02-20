@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-besancon"
 sourceFolder: "2026-02_tr_BESANÇON"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
@@ -23,6 +23,8 @@ Un troisieme observateur descendit quatre fois dans la grotte, une fois dans cha
 
 Qui ne croiroit sur les variétés de ces relations, que la grotte dont il s’agit étoit à la Cochinchine,& qu’il a fallu un intervalle de trente à quarante ans, pour que des voyageurs s’y succédassent les uns aux autres,& nous détrompassent peu à peu de ses merveilles ? cependant il n’est rien de cela ; la grotte est dans notre voisinage ; l’accès en est facile en tout tems ; ce ne sont point des voyageurs qui y descendent ;**ce sont des philosophes,& ils nous en rapportent des faits faux, des préjugés, de mauvais raisonnemens, que d’autres philosophes reçoivent, impriment,& accréditent de leur témoignage**. ^p0004
 
+---
+
 ## 翻訳
 
 ブザンソンから5里のところ、ある山の中腹に大きな洞窟が穿たれており、樫の木など大木で覆われている。『アカデミー紀要』にこの洞窟についての報告が三つある。第一は『旧紀要』第2巻、第二は1712年号、第三は1726年号だ。信じやすい読者は、これら三つの報告にすべて目を通すよう勧めたい。それはさして超自然的（merveille)ともいえぬこの洞窟の奇妙さについてなにか教わるためと言うよりも、\<mark>むしろものを疑うのを学ぶ</mark>ためである。洞窟の状態を正確に教わることなど実にたやすいものでなかろうか。自分が欺されたり、他者に騙しを押しつけることが、この世にこれほど容易でないものはあろうか。ところが、第一の報告にはいい加減な事が羅列してある。それはたとえばこんな具合で、いずれも事実だと断じられているのだ。この洞窟は、夏には荷車とラバで人びとが駆けつけ、氷の蓄えをあらゆる地方に運んでいく。ところが氷洞は尽きることなく、酷暑の日には、ふだん一週間でそこからえる氷よりも多くの氷ができる。この膨大な量の氷は、洞窟の一部を流れる小さな小川からつくられる。この小川は夏は凍っている。しかし冬になすと水になって流れる。この地下洞中に蒸気が発生すれば、それは翌日雨が降るという誤りない徴である。やりたいと思っているいろいろな作業について、天気がどうか知ろうとするときには、近隣の農民たちはこの奇妙な暦のたぐいを必ず調べるのだ、と。 ^p0005
@@ -32,6 +34,8 @@ Qui ne croiroit sur les variétés de ces relations, que la grotte dont il s’a
 第三の観察者はこの洞窟に四季毎に降りて四回の観察を行い、その超自然的なものをすっかり剥ぎ取った。1726年には、それは他と変わらぬただの洞窟にすぎなくなった。外が暑くなると、中も温かくなった。小川は夏に凍結しないだけではなく、冬になって氷が溶けたりもしなくなった。小川すらなくなり、洞窟内の水は残雪や雨水となった。あらゆる奇妙さのうち最後まで残ったものは、四季を通じて確かに氷がほぼ確かにあるということだけである。 ^p0007
 
 これら各種報告の多様性から、くだんの洞窟はラ・コシャンシーヌにあって、旅行者たちがそこに旅をするのは30年か40年も間隔を空けていて、こうした超自然なるものの嘘をわれわれが見抜くようになったのには、かなりの時間がかかったのだ、と信じない者がいるだろうか。ところが事実はそうではまったくないのである。この洞窟のある場所はわれわれのすぐ近くである。そこにはいつでもたやすく行ける。そこに降りたのは旅行者ではない。哲学者である。かれら哲学者が偽りの事実と偏見、誤った議論をわれわれに報告したのだ。そして別な哲学者がこれらを受け取り、印刷し、みずからの証言で信用を高めたのである。 ^p0008
+
+---
 
 ## 注釈
 

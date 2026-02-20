@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-refugies"
 sourceFolder: "2026-02_tr_RÉFUGIÉS"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
@@ -29,6 +29,8 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 [^note1]: ここでディドロは、Ancien Régimeにおける「君主の評議会」（le conseil d'un souverain）の制度的性格を踏まえつつ、啓蒙思想的理想と実際の制度的欠陥との対比を鋭く示している。詳細は本文「『le conseil d'un souverain』の制度史的意味」を参照。 ^p0004
 
 [2] 不寛容の支持者たちの人間性と宗教についてどのような考えを抱くべきだろうか。暴力が他者の信仰を揺るがしうると信じる者たちは、自らの感情と自らの不動の信念(constance)について実に軽蔑すべき評価を与えている。**迫害**および**寛容**の項目を参照せよ。 ^p0005
+
+---
 
 ## 注釈
 

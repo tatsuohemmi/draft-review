@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-pacification"
 sourceFolder: "2026-02_tr_PACIFICATION"
-lastCopied: "2026-02-13T08:59:41.325Z"
+lastCopied: "2026-02-20T06:08:05.906Z"
 ---
 
 ## 原文
@@ -37,6 +37,8 @@ En Angleterre, par édit de pacification on entend ceux que fit le roi Charles I
 
 On appelle aussi pacification en Hongrie des conditions proposées par les états du royaume, & acceptées par l’archiduc Léopold en 1655 ; mais ce prince devenu empereur, ne se piqua pas de les observer exactement, ce qui causa de nouveaux troubles dans ce royaume pendant tout son regne. ^p0011
 
+---
+
 ## 翻訳
 
 PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と安寧を取り戻す、あるいは回復する行為である。 ^p0012
@@ -58,6 +60,8 @@ PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と�
 イングランドでは、平定勅令とはチャールズ1世が1638年にイングランドとスコットランドの内乱を終わらせるために出したものを指す。参照：Edit。 ^p0020
 
 またハンガリーでは、王国の諸身分が提案し、1655年に大公レオポルトが受け入れた条件を平定と呼ぶ。しかしこの君主は皇帝となると、それらを厳密に守ろうとせず、そのため在位中ずっと新たな混乱が生じた。 ^p0021
+
+---
 
 ## 注釈
 
