@@ -5,15 +5,12 @@ project: reel6
 creation-date: 2026-02-25
 source: "[[DÉMON DE SOCRATE]]"
 enccre_url: "https://enccre.academie-sciences.fr/encyclopedie/article/v4-2188-0/"
-reel6_step: annotation
 tags:
   - project/reel6
   - draft
-related:
-  - "[[260225_Demon_de_Socrate_百科全書ダイモン合理化]]"
-  - "[[260225_Rollin_Socrate_BR書評_異教徒の限界と理性の殉教者]]"
 slug: "2026-02-tr-demon-de-socrate"
 sourceFolder: "2026-02_tr_DEMON_DE_SOCRATE"
+lastCopied: "2026-02-25T14:45:00.000Z"
 ---
 
 ## 原文
