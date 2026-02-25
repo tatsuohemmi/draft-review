@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-croisades"
 sourceFolder: "2026-02_tr_CROISADES"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -179,35 +179,16 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 ## 注釈
 
-十字軍（聖地回復のための戦争、異端・異教撲滅のための戦争）に関する長大な歴史項目。ディドロとダランベール共著。十字軍を「狂信」「愚行」として批判的に描き、ヴォルテールとフルリ神父の著作を典拠として明示。約200万人の犠牲者と2億フラン以上の費用を算出し、十字軍がヨーロッパにもたらした災厄を列挙する。 ^p0078
+本項目は、十字軍——すなわち聖地回復のための戦争、および異端・異教撲滅のための戦争——を扱った長大な歴史項目であり、ディドロとダランベールの共著である。全体を貫くのは、十字軍を「狂信」と「愚行」として批判的に描く啓蒙主義的視点であり、ヴォルテールとフルリ神父の著作が典拠として明示されている。項目末尾では約200万人の犠牲者と2億フラン以上の費用が算出され、十字軍がヨーロッパにもたらした災厄が具体的に数量化されている。 ^p0078
 
-- 十字軍批判（啓蒙主義的視点）
-- ピエール隠者（Pierre l'Hermite）の狂信
-- ゴドフロワ・ド・ブイヨン
-- 聖王ルイ（Louis IX）の2度の十字軍
-- フリードリヒ・バルバロッサ
-- アルビジョワ十字軍（異端撲滅）
-- 北方十字軍（異教徒撲滅）
-- 経済的・人口的損失の算定
-
-- 十字軍による犠牲者：約200万人
-- 聖王ルイの身代金：900万リーヴル
-- 総費用：2億900万フラン以上と推計
+項目の叙述は、ピエール隠者（Pierre l'Hermite）の狂信に始まり、ゴドフロワ・ド・ブイヨンによるエルサレム征服、聖王ルイ（Louis IX）の2度にわたる十字軍、フリードリヒ・バルバロッサの遠征と死を経て、アルビジョワ十字軍（異端撲滅）および北方十字軍（異教徒撲滅）にまで及んでいる。これら一連の遠征を通じて、ディドロは経済的・人口的損失の算定を行っており、十字軍による犠牲者は約200万人、聖王ルイの身代金は900万リーヴル、総費用は2億900万フラン以上と推計されている。
 
 ### 明示的典拠（引用が明確）
-- Voltaire「ouvrages」
-- Fleury, abbé「discours sur l'histoire ecclésiastique」
-  - Claude Fleury (1640-1723)『Histoire ecclésiastique』全20巻、1691年パリ初版
-  - Proustによれば、ディドロは第IV、V、VI巻を本項目の典拠として使用
-  - ヴォルテール評：「これまで書かれた中で最良の教会史」（『ルイ14世の世紀』）
-  - ローカル所在:
-    - 第1巻: `F:\Dropbox\ArticlesPDF\_Rec\Fleury_Histoire_ecclesiastique_par_M_Fleury_Tom1_ocr.pdf`
-    - 第IV、V、VI巻: Google Booksからダウンロード済み（Gallica版は圧縮されておりOCR不可）
-  - Gallica参照リンク:
-    - [Tome I](https://gallica.bnf.fr/ark:/12148/bpt6k9737193h) | [Tome IV](https://gallica.bnf.fr/ark:/12148/bpt6k9737526g) | [Tome VI](https://gallica.bnf.fr/ark:/12148/bpt6k97372696)
+
+項目末尾でディドロが明示的に参照を指示しているのは、Voltaireの「ouvrages」（諸著作）と、Fleury神父の「discours sur l'histoire ecclésiastique」（教会史講話）の二つである。後者はClaude Fleury (1640-1723)による『Histoire ecclésiastique』全20巻（1691年パリ初版）を指しており、Proustによれば、ディドロは第IV、V、VI巻を本項目の典拠として使用している。ヴォルテールはこの著作を「これまで書かれた中で最良の教会史」と評している（『ルイ14世の世紀』）。ローカル所在としては、第1巻が `F:\Dropbox\ArticlesPDF\_Rec\Fleury_Histoire_ecclesiastique_par_M_Fleury_Tom1_ocr.pdf` に、第IV、V、VI巻がGoogle Booksからダウンロード済みである（Gallica版は圧縮されておりOCR不可）。Gallica参照リンクは以下の通りである: [Tome I](https://gallica.bnf.fr/ark:/12148/bpt6k9737193h) | [Tome IV](https://gallica.bnf.fr/ark:/12148/bpt6k9737526g) | [Tome VI](https://gallica.bnf.fr/ark:/12148/bpt6k97372696)。
 
 ### 暗黙的典拠（引用が不明確または暗示的）
--
+
 
 ## 書誌
 

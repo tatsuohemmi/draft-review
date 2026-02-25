@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-persecuter"
 sourceFolder: "2026-02_tr_PERSÉCUTER"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -157,11 +157,7 @@ Lactance a fait un traité de la mort des persécuteurs , qui a été long-tems 
 
 ## 注釈
 
-「迫害する」「迫害者」「迫害」に関する百科全書項目。ディドロ執筆。宗教的迫害を批判する一連の項目の一つ。 ^p0069
-
-- 迫害（persécution）の定義と批判
-- 宗教的不寛容への批判
-- 狂信（fanatisme）との関連
+「迫害する」「迫害者」「迫害」に関する百科全書項目であり、ディドロが執筆した。宗教的迫害を批判する一連の項目の一つとして、迫害（persécution）の定義とその批判を展開し、宗教的不寛容への批判を通じて、狂信（fanatisme）との関連を明らかにしている。 ^p0069
 
 ## 書誌
 

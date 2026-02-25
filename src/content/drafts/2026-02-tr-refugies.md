@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-refugies"
 sourceFolder: "2026-02_tr_RÉFUGIÉS"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -38,10 +38,7 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 宗教的迫害と亡命の問題を扱い、啓蒙思想の寛容論と関連する重要項目。 ^p0007
 
-- ナント勅令廃止（Révocation de l'Édit de Nantes, 1685）
-- プロテスタント迫害
-- 宗教的寛容
-- 亡命と経済的影響
+本項目が扱う主題は、ナント勅令廃止（Révocation de l'Édit de Nantes, 1685）に伴うプロテスタント迫害、宗教的寛容の問題、および亡命がもたらした経済的影響である。
 
 ### 「le conseil d'un souverain」の制度史的意味
 
@@ -67,13 +64,9 @@ Leca-Tsiomis『Écrire l'Encyclopédie』（1999, p.490）は、Vandeul写本（
 
 > Châtiment — Convenance — Famille — Fantaisie — Fantôme — Homme — Honnête — Glorieux — Indocile, Indocillité — Jouissance — **Intolérance** — Irrévérence — Lubricité, Lubrique — Odieux — Postérité — Préface — Promesse — **Réfugiés** — Regret — Retenue — Rigorisme — Saint — Scandaleux — Sensé — Subvenir
 
-この資料が示す重要な事実： ^p0015
+この資料が示す重要な事実は以下のとおりである。 ^p0015
 
-1. **ディドロ自身の分類意識**: ディドロはRÉFUGIÉSを単なる歴史記事ではなく、「道徳・文法の定義」の補遺として位置づけていた。すなわち**道徳哲学の文脈**で捉えていた。
-
-2. **INTOLÉRANCEとの並置**: 同一リストにINTOLÉRANCE（不寛容）が含まれていることは、両記事が**寛容論**という共通の思想的基盤を持つことを示す。
-
-3. **作品群としての意識**: Leca-Tsiomisによれば、「ディドロは、Naigeonが述べたように、これらをコレクションにまとめる意図を持っていた」（p.490）。Vandeul家とその写字生は「哲学者の望みを尊重し、彼の作品の散在する断片を一つにまとめた」のである。
+第一に、**ディドロ自身の分類意識**について言えば、ディドロはRÉFUGIÉSを単なる歴史記事ではなく「道徳・文法の定義」の補遺として位置づけていた。すなわち**道徳哲学の文脈**で捉えていたことになる。第二に、**INTOLÉRANCEとの並置**が注目される。同一リストにINTOLÉRANCE（不寛容）が含まれていることは、両記事が**寛容論**という共通の思想的基盤を持つことを示している。第三に、**作品群としての意識**が認められる。Leca-Tsiomisによれば、「ディドロは、Naigeonが述べたように、これらをコレクションにまとめる意図を持っていた」（p.490）。Vandeul家とその写字生は「哲学者の望みを尊重し、彼の作品の散在する断片を一つにまとめた」のである。
 
 **参照**: [Leca1999_Ecrire_Encyclopedie_orgtxt](file:\\C:\Obs_Recmd\01__Encyclopedie_Etudes\Leca1999_Ecrire_Encyclopedie_orgtxt.md) （p.490, 行11660-11676） ^p0016
 
@@ -83,13 +76,7 @@ Leca-Tsiomis『Écrire l'Encyclopédie』（1999, p.490）は、Vandeul写本（
 
 ディドロは本項目において、ナント勅令廃止の責任者を**複数の語彙で段階的に**批判している。これらを混同せず整理することが解釈の鍵となる。 ^p0017
 
-| 語彙 | 原文 | 指示対象の推定 |
-|------|------|----------------|
-| **hommes assez aveugles ou impudens** | 「盲目的あるいは厚顔無恥に正当化する人々」 | 後付けの正当化者（論者・パンフレティスト・宮廷知識人） |
-| **le conseil d'un souverain** | 「君主の評議会」 | 政策決定機構（王権の制度的装置） |
-| **quelques mauvais citoyens** | 「一部の悪しき市民」 | 迫害政策の推進者（政治的派閥＋宗教的権威の複合体） |
-| **les ennemis de toute liberté de penser** | 「あらゆる思考の自由の敵」 | 思想的類型（道徳哲学的カテゴリー） |
-| **les perturbateurs** | 「擾乱者」 | 現在形で批判される迫害実行者 |
+まず「hommes assez aveugles ou impudens」（盲目的あるいは厚顔無恥に正当化する人々）は、後付けの正当化者すなわち論者・パンフレティスト・宮廷知識人を指すと推定される。次に「le conseil d'un souverain」（君主の評議会）は、政策決定機構としての王権の制度的装置を指す。「quelques mauvais citoyens」（一部の悪しき市民）は、迫害政策の推進者であり政治的派閥と宗教的権威の複合体を意味する。「les ennemis de toute liberté de penser」（あらゆる思考の自由の敵）は、道徳哲学的カテゴリーとしての思想的類型を示す。そして「les perturbateurs」（擾乱者）は、現在形で批判される迫害実行者を指している。
 
 #### 三層モデル（本文語彙に基づく再構成）
 
@@ -97,8 +84,7 @@ Leca-Tsiomis『Écrire l'Encyclopédie』（1999, p.490）は、Vandeul写本（
 
 「la plus funeste démarche qu'ait jamais pu entreprendre le conseil d'un souverain」（君主の評議会がかつて企てた最も忌まわしい措置）という表現は、ナント勅令廃止が**制度的決定**であったことを強調する。 ^p0019
 
-- 想定される具体例：ル・テリエ、ルーヴォワ等の評議会高官
-- ただし本文は個人名を明示せず、**制度批判**として構成されている
+想定される具体例としてはル・テリエ、ルーヴォワ等の評議会高官が挙げられるが、本文は個人名を明示せず**制度批判**として構成されている。
 
 **第二層：正当化・論証層（hommes qui justifient）** ^p0020
 
@@ -108,13 +94,7 @@ Leca-Tsiomis『Écrire l'Encyclopédie』（1999, p.490）は、Vandeul写本（
 
 Adams著『The Huguenots and French Opinion, 1685-1787』によれば、1750年代の最も著名なナント勅令廃止擁護論者はCaveiracである。 ^p0023
 
-| 項目 | 内容 |
-|------|------|
-| 出身 | ニーム（南仏プロテスタント地域） |
-| 立場 | 南仏司教団の「影の参謀」（éminence grise） |
-| 主著 | 『Apologie de Louis XIV et de son Conseil, sur la Révocation de l'Edit de Nantes』(1758) |
-
-Caveiracは自身の著作を、ナント勅令廃止に関する議論の「arsenal（兵器庫）」と呼んでいた。プロテスタンティズムを「人民主権」思想と結びつけ、国家秩序への脅威として廃止を正当化した。 ^p0024
+Caveiracはニーム（南仏プロテスタント地域）の出身で、南仏司教団の「影の参謀」（éminence grise）として活動し、主著『Apologie de Louis XIV et de son Conseil, sur la Révocation de l'Edit de Nantes』(1758)を著した。Caveiracは自身の著作を、ナント勅令廃止に関する議論の「arsenal（兵器庫）」と呼んでいた。プロテスタンティズムを「人民主権」思想と結びつけ、国家秩序への脅威として廃止を正当化した。 ^p0024
 
 **ディドロの直接的反応（要出典確認）**：
 Adamsによれば、ディドロは『Apologie』を読んだ怒りからEncyclopédieの「journée de la Saint-Barthélemy」項目を執筆したとされる。 ^p0025
@@ -125,72 +105,49 @@ Adamsによれば、ディドロは『Apologie』を読んだ怒りからEncyclo
 
 **第二候補：フランシスク・ベルティエ神父（François-Xavier Berthier, 1703-1762）** ^p0027
 
-| 項目 | 内容 |
-|------|------|
-| 所属 | イエズス会（Société de Jésus） |
-| 職務 | 『トレヴォー紀要』(*Mémoires de Trévoux*)編集者（1751-1762年） |
-| 活動 | 『百科全書』への組織的批判 |
-| 立場 | 反啓蒙、反プロテスタント的イエズス会論客 |
-
-ベルティエは1751年12月号以降、『トレヴォー紀要』で『百科全書』を激烈に批判。単なる技術的批判（剽窃問題等）を超えて、「思考の自由」という啓蒙思想の根本価値に対抗した。その活動の背景には、ナント勅令廃止のような宗教的統制を維持・正当化する制度的コミットメントがあった。 ^p0028
+ベルティエはイエズス会（Société de Jésus）に所属し、『トレヴォー紀要』(*Mémoires de Trévoux*)の編集者（1751-1762年）として『百科全書』への組織的批判を展開した反啓蒙・反プロテスタント的イエズス会論客である。ベルティエは1751年12月号以降、『トレヴォー紀要』で『百科全書』を激烈に批判。単なる技術的批判（剽窃問題等）を超えて、「思考の自由」という啓蒙思想の根本価値に対抗した。その活動の背景には、ナント勅令廃止のような宗教的統制を維持・正当化する制度的コミットメントがあった。 ^p0028
 
 **参照**: [[Berthier_Memoire_de_Trevoux_1751_decembre]] ^p0029
 
 ---
 
-**その他の推定候補**：
-- 反啓蒙的パンフレティスト（Chaumeix、Fréron等）
-- 高位聖職者（カトリック的秩序維持派）
-- 宮廷保守派知識人 ^p0030
+**その他の推定候補**として、反啓蒙的パンフレティスト（Chaumeix、Fréron等）、高位聖職者（カトリック的秩序維持派）、および宮廷保守派知識人が挙げられる。 ^p0030
 
-- この層は「mauvais citoyens」とは区別されるべき
+ただし、この層は「mauvais citoyens」とは区別されるべきである。
 
 **第三層：迫害推進層／思想類型（mauvais citoyens / perturbateurs）** ^p0031
 
 「quelques mauvais citoyens, qui sont les ennemis de toute liberté de penser, parce qu'ils ne peuvent régner qu'à l'ombre de l'ignorance」は、三重の特徴づけを持つ： ^p0032
 
-1. **利己的・野心的動機**（vûes intéressées & ambitieuses）
-2. **思考の自由への敵対**（ennemis de toute liberté de penser）
-3. **無知による支配**（régner qu'à l'ombre de l'ignorance）
+第一に**利己的・野心的動機**（vûes intéressées & ambitieuses）、第二に**思考の自由への敵対**（ennemis de toute liberté de penser）、第三に**無知による支配**（régner qu'à l'ombre de l'ignorance）である。
 
 この表現は特定個人の「同定」ではなく、**思想的類型の提示**と解すべきである。 ^p0033
 
-- 想定される具体例：イエズス会、カトリック高位聖職者、迫害政策の宗教的正当化者
-- ただし「régner」（支配する）は宗教者限定ではなく、**政治的統治者・政策推進者にも適用可能**
+想定される具体例としてはイエズス会、カトリック高位聖職者、迫害政策の宗教的正当化者が挙げられる。ただし「régner」（支配する）は宗教者限定ではなく、**政治的統治者・政策推進者にも適用可能**である。
 
 #### 経済・国家利益の枠組み
 
 本文の批判は宗教論争よりも**国家理性の語り**で構成されている： ^p0034
 
-- 「sujets utiles」（有用な臣民）
-- 「un million d'hommes industrieux」（100万人の勤勉な人々）
-- 「des arts, des talens, & des ressources」（技芸、才能、資源）
-
-「悪しき市民」の動機が「利己的・野心的」（intéressées & ambitieuses）と規定されることで、彼らは**国益を私益に従属させた者**として批判される。これはVandeul写本での「道徳哲学的分類」と整合的である。 ^p0035
+具体的には「sujets utiles」（有用な臣民）、「un million d'hommes industrieux」（100万人の勤勉な人々）、「des arts, des talens, & des ressources」（技芸、才能、資源）といった表現に見られるように、損失は経済的語彙で定量化されている。「悪しき市民」の動機が「利己的・野心的」（intéressées & ambitieuses）と規定されることで、彼らは**国益を私益に従属させた者**として批判される。これはVandeul写本での「道徳哲学的分類」と整合的である。 ^p0035
 
 #### 結論
 
-「悪しき市民」は特定個人への「同定」ではなく、以下の複合的指示対象を持つ**推定的類型**として理解すべきである： ^p0036
+「悪しき市民」は特定個人への「同定」ではなく、複合的指示対象を持つ**推定的類型**として理解すべきである。 ^p0036
 
-1. 政策決定機構内の迫害推進派閥（評議会高官）
-2. 宗教的権威に基づく迫害正当化者（聖職者・イエズス会）
-3. 啓蒙思想が対置する「無知による支配者」という道徳哲学的類型
-
-本文が個人名を回避しているのは、検閲回避の戦略であると同時に、批判を**普遍的原理**へと昇華させる修辞的選択でもある。 ^p0037
+すなわち、政策決定機構内の迫害推進派閥（評議会高官）、宗教的権威に基づく迫害正当化者（聖職者・イエズス会）、そして啓蒙思想が対置する「無知による支配者」という道徳哲学的類型の三者が重層的に含意されている。本文が個人名を回避しているのは、検閲回避の戦略であると同時に、批判を**普遍的原理**へと昇華させる修辞的選択でもある。 ^p0037
 
 ### 訳語決定記録
 
-| 原語 | 訳語 | 決定理由 |
-|------|------|----------|
-| zèle | 熱狂 | Shaftesbury『熱狂についての書簡』との概念的対照。「zèle aveugle」は宗教的狂信の否定的意味で使用。詳細は[[Enthousiasme_Zele_概念分析]]参照。 |
-| le conseil | 評議会 | Ancien Régimeの制度史的文脈（Conseil d'en haut）を踏まえた訳語。詳細は本文「le conseil d'un souverainの制度史的意味」参照。 |
-| constance | 不動の信念 | TOLÉRANCE項目での並行用例（「cette constance qui vous irrite」）およびCicero『De Officis』の「constans voluntas」との関連。宗教的文脈での「信仰の堅さ」を表現。 |
+「zèle」は「熱狂」と訳した。Shaftesbury『熱狂についての書簡』との概念的対照を踏まえたものであり、「zèle aveugle」は宗教的狂信の否定的意味で使用されている。詳細は[[Enthousiasme_Zele_概念分析]]を参照されたい。「le conseil」は「評議会」と訳した。これはAncien Régimeの制度史的文脈（Conseil d'en haut）を踏まえた訳語であり、詳細は本文「le conseil d'un souverainの制度史的意味」で論じている。「constance」は「不動の信念」と訳した。TOLÉRANCE項目での並行用例（「cette constance qui vous irrite」）およびCicero『De Officis』の「constans voluntas」との関連に基づき、宗教的文脈での「信仰の堅さ」を表現するものである。
 
 ### 明示的典拠（引用が明確）
--
+
+現時点で特定される明示的典拠はない。
 
 ### 暗黙的典拠（引用が不明確または暗示的）
--
+
+現時点で特定される暗黙的典拠はない。
 
 ## 書誌
 

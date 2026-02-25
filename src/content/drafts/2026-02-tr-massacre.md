@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-massacre"
 sourceFolder: "2026-02_tr_MASSACRE"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -33,45 +33,23 @@ MASSACRE項目は、定義部分で直ちにサン・バルテルミ虐殺（157
 
 ### 批判的特徴
 
-1. **サン・バルテルミ虐殺への非難**
-   - 「opprobre éternel（永遠の汚名）」という強烈な表現
-   - 勧告者、許可者、実行者、擁護者（Caveiracを暗指？）の四者を明確に非難
+本項目の批判的特徴として、まずサン・バルテルミ虐殺への非難が挙げられる。「opprobre éternel（永遠の汚名）」という強烈な表現を用い、勧告者、許可者、実行者、擁護者（Caveiracを暗指か）の四者を明確に非難している。
 
-2. **擁護者への言及**
-   - 「l'homme infâme qui a osé depuis en faire l'apologie」
-   - 1750年代寛容論争の文脈で、Caveirac『Apologie de Louis XIV』(1758)を間接的に批判している可能性
-   - INTOLÉRANCE項目「l'apologiste de la révocation」との関連性
+次に、擁護者への言及が注目される。「l'homme infâme qui a osé depuis en faire l'apologie」という表現は、1750年代寛容論争の文脈で、Caveirac『Apologie de Louis XIV』(1758)を間接的に批判している可能性がある。この記述はINTOLÉRANCE項目における「l'apologiste de la révocation」という表現とも関連している。
 
-3. **聖書的参照**
-   - 「Le massacre des Innocens（幼児虐殺）」：ヘロデの幼児虐殺（マタイ2:16-18）を暗示
-   - プロテスタント迫害を聖書的蛮行と位置づける
+さらに、聖書的参照も重要な要素である。「Le massacre des Innocens（幼児虐殺）」はヘロデの幼児虐殺（マタイ2:16-18）を暗示しており、プロテスタント迫害を聖書的蛮行と位置づけている。
 
 ### 項目ネットワーク（Duflo 2025に基づく）
 
-MASSACREは以下の項目群と思想的ネットワークを形成： ^p0004
+MASSACREは複数の項目群と思想的ネットワークを形成している。 ^p0004
 
-**ルイ14世プロテスタント迫害批判項目群：**
-- [[DRAGONADE]]（竜騎兵による強制改宗）
-- [[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]（サン・バルテルミの日）
-- [[MASSACRE]]（虐殺）← 本項目
-- [[PACIFICATION]]（平定）
-- [[PERSÉCUTER, PERSÉCUTEUR, & PERSÉCUTION]]（迫害）
-- [[VINGTIÈME]]（20分の1税） ^p0005
+ルイ14世プロテスタント迫害批判項目群としては、[[DRAGONADE]]（竜騎兵による強制改宗）、[[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]（サン・バルテルミの日）、[[MASSACRE]]（虐殺、本項目）、[[PACIFICATION]]（平定）、[[PERSÉCUTER, PERSÉCUTEUR, & PERSÉCUTION]]（迫害）、[[VINGTIÈME]]（20分の1税）が挙げられる。 ^p0005
 
-**宗教的寛容擁護項目群：**
-- [[INTOLÉRANCE]]（不寛容）
-- [[TOLÉRANCE]]（寛容）
-- [[ZÉLE de religion]]（宗教的熱狂）
-- [[FANATISME]]（狂信） ^p0006
+また、宗教的寛容擁護項目群として、[[INTOLÉRANCE]]（不寛容）、[[TOLÉRANCE]]（寛容）、[[ZÉLE de religion]]（宗教的熱狂）、[[FANATISME]]（狂信）が関連している。 ^p0006
 
 ### 用語・概念分析
 
-| 用語 | 意味・含意 |
-|------|-----------|
-| impitoyablement | 無慈悲に、容赦なく |
-| sans défense | 無防備（殺害者の優位性を強調） |
-| opprobre éternel | 永遠の汚名（道徳的断罪） |
-| faire l'apologie | 擁護する、弁明する（Caveirac批判） |
+本項目における主要用語として、impitoyablementは「無慈悲に、容赦なく」を意味し、殺害行為の残虐性を強調している。sans défenseは「無防備」の意で、殺害者の優位性を際立たせている。opprobre éternelは「永遠の汚名」であり、道徳的断罪の意図を含んでいる。faire l'apologieは「擁護する、弁明する」という意味で、Caveirac批判の文脈で用いられている。
 
 ---
 

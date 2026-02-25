@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-equite"
 sourceFolder: "2026-02_tr_ÉQUITÉ"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -55,24 +55,15 @@ En effet, ce n'est point des conventions humaines & arbitraires que dépend l'é
 
 Jaucourtによる百科全書項目。衡平（équité）を「各人に正当に属するものを、個々の状況に応じて返す徳」と定義し、正義（justice）との区別を論じる。イングランド大法官裁判所（cour de chancellerie）を衡平の制度的実現として高く評価し、法の一般性と個別事情の乖離を補正する主権者の義務を説く。衡平の究極的根拠を自然法に求め、Montesquieu『ペルシア人の手紙』第81書簡を引用して締めくくる。 ^p0017
 
-- 衡平（équité）と正義（justice）の区別：正義は確立された法・規則に従い賞罰を行うのに対し、衡平は行為の可変的状況を考慮する
-- イングランド大法官裁判所（cour de chancellerie）：法の文言の厳格さを緩和し、衡平と良心の規則のみに基づいて判断する制度
-- 立法の一般性と個別事情の乖離：法の一般的表現や人間精神の限界により、立法者が全ての場合を予見できないことへの対処
-- 自然法（loi naturelle）としての衡平：衡平の権威は自然法に由来し、人為的・恣意的な取り決めに依拠しない
-- Montesquieu『ペルシア人の手紙』引用：書簡81（Usbek à Rhédi）における衡平の内面的実践への賛美
-
-- ^p0018
+本項目の論点構成は以下のとおりである。まず衡平（équité）と正義（justice）の区別として、正義が確立された法・規則に従い賞罰を行うのに対し、衡平は行為の可変的状況を考慮するものとされる。次にイングランド大法官裁判所（cour de chancellerie）が取り上げられ、法の文言の厳格さを緩和し、衡平と良心の規則のみに基づいて判断する制度として紹介される。さらに立法の一般性と個別事情の乖離の問題として、法の一般的表現や人間精神の限界により、立法者が全ての場合を予見できないことへの対処が論じられる。また衡平の権威は自然法（loi naturelle）に由来し、人為的・恣意的な取り決めには依拠しないとされる。最後にMontesquieu『ペルシア人の手紙』書簡81（Usbek à Rhédi）が引用され、衡平の内面的実践が賛美される。 ^p0018
 
 ### 明示的典拠（引用が明確）
 
-- Montesquieu, *Lettres persanes*, LXXXI（Usbek à Rhédi）
+明示的に引用される典拠として、Montesquieu, *Lettres persanes*, LXXXI（Usbek à Rhédi）が挙げられる。
 
 ### 暗黙的典拠（引用が不明確または暗示的）
 
-- **Chambers, Ephraim, *Cyclopaedia*, vol. 1 [A-K], "CHANCERY" (1741)** — ^p0010 に対応。制度論段落の直接典拠。"equity and conscience" / "moderate the rigor ... strict letter of the law" 等の定型表現をJaucourtが抽出・仏訳。1728初版〜1741版で確認、百科全書第5巻（1755）に先行。URL: https://artflsrv04.uchicago.edu/philologic4.7/chambers_new/navigate/1/0/0/0/0/0/0/0/355?byte=4445139&byte=4445145&byte=4445148
-- **Jacob, Giles, *A New Law-Dictionary*, "CHANCERY" (1729)** — ^p0010 に対応。Chambersと同一の定型表現（"Rules of Equity and Conscience" / "moderates the Rigour of the Common Law" / "Words of the Law"）を含む英国法律辞典。18世紀前半の標準的定義であったことの補強証拠。
-- Cicéron, *De Officiis* — équité/justiceの区別、共通善（bien commun）概念の源流
-- Aristotle, *Ethica Nicomachea*, V, 10 — ἐπιείκεια（epieikeia）概念。法の一般性と個別事情の乖離への古典的議論
+暗黙的典拠としては、まず **Chambers, Ephraim, *Cyclopaedia*, vol. 1 [A-K], "CHANCERY" (1741)** が ^p0010 に対応する制度論段落の直接典拠であり、"equity and conscience" / "moderate the rigor ... strict letter of the law" 等の定型表現をJaucourtが抽出・仏訳している（1728初版〜1741版で確認、百科全書第5巻（1755）に先行する。URL: https://artflsrv04.uchicago.edu/philologic4.7/chambers_new/navigate/1/0/0/0/0/0/0/0/355?byte=4445139&byte=4445145&byte=4445148 ）。同じく ^p0010 に対応する典拠として、**Jacob, Giles, *A New Law-Dictionary*, "CHANCERY" (1729)** があり、Chambersと同一の定型表現（"Rules of Equity and Conscience" / "moderates the Rigour of the Common Law" / "Words of the Law"）を含む英国法律辞典であって、18世紀前半の標準的定義であったことの補強証拠となる。さらに古典的源流として、Cicéron, *De Officiis* がéquité/justiceの区別および共通善（bien commun）概念の源流に位置づけられ、Aristotle, *Ethica Nicomachea*, V, 10 がἐπιείκεια（epieikeia）概念すなわち法の一般性と個別事情の乖離への古典的議論を提供している。
 
 ## 書誌
 
