@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-droit-naturel"
 sourceFolder: "2026-02_tr_DROIT_NATUREL"
-lastCopied: "2026-03-11T13:42:40.819Z"
+lastCopied: "2026-03-11T14:01:48.451Z"
 ---
 
 ## 原文
@@ -73,13 +73,13 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 
 本項の弁証法的構造は冒頭から顕著である。ディドロは「自然法について問いを立てられる者には二種類ある」という形で哲学者と素朴な人間の二重の無知を措定し、いかなる問いの立て方も「良心の法廷（tribunal de la conscience）」を前提として成立することを示す²。この議論は、自然法を命題的規則の列挙として提示してきたトレヴー辞典（*Dictionnaire de Trévoux*）の伝統とは無言のうちに鋭く対立する。前者が「loi naturelle」の内容を列挙可能な規則として固定しようとするのに対し、ディドロは自然法の根拠を人間の理性的本性そのものへの問いとして再設定するのである。 ^n0002
 
-議論の転換点は§IIIにおける「暴力的推論者（raisonneur violent）」の登場である。この人物はホッブズ的自然状態論を体現する仮想敵として徹底的に構築された後、§Vにおいて「裁判官にして当事者（juge & partie）」たりえないという論理によって論駁される³。暴力的推論者は自己利益の絶対化を主張するが、その主張それ自体が他者の反論を招く構造を内包しており、争いの解決は個別意志（volonté particulière）の外部、すなわち一般意志に委ねる以外にないことが示される。 ^n0003
+議論の転換点は¶5における「暴力的推論者（raisonneur violent）」の登場である。この人物はホッブズ的自然状態論を体現する仮想敵として徹底的に構築された後、¶7において「裁判官にして当事者（juge & partie）」たりえないという論理によって論駁される³。暴力的推論者は自己利益の絶対化を主張するが、その主張それ自体が他者の反論を招く構造を内包しており、争いの解決は個別意志（volonté particulière）の外部、すなわち一般意志に委ねる以外にないことが示される。 ^n0003
 
-本項の哲学的頂点は§VIにおける一般意志の定義に存する。ここでディドロは人類（*humanité*）を単一の「種（*espèce*）」として概念化し、その全体の一般意志と個人の個別意志との緊張関係を倫理的秩序の根拠として提示する⁴。ジョルジュ・ベンレカッサ（Benrekassa）が「資本的（capital）」と評価したこの *espèce* 概念の導入は、規則命題的自然法（loi naturelle）の伝統からの決定的な離脱を意味する。なぜなら、自然法はもはや神的理性から演繹される命題集合ではなく、種全体の一般意志を通じて動的に生成されるものとして理解されるからである。またルソーの一般意志論との分岐もここで明確になる。ルソーが一般意志を特定の政治共同体（cité）の枠内で定義するのに対し、ディドロの一般意志は人類（humanité）全体に及ぶ普遍的射程を持つ。 ^n0004
+本項の哲学的頂点は¶8における一般意志の定義に存する。ここでディドロは人類（*humanité*）を単一の「種（*espèce*）」として概念化し、その全体の一般意志と個人の個別意志との緊張関係を倫理的秩序の根拠として提示する⁴。ジョルジュ・ベンレカッサ（Benrekassa）が「資本的（capital）」と評価したこの *espèce* 概念の導入は、規則命題的自然法（loi naturelle）の伝統からの決定的な離脱を意味する。なぜなら、自然法はもはや神的理性から演繹される命題集合ではなく、種全体の一般意志を通じて動的に生成されるものとして理解されるからである。またルソーの一般意志論との分岐もここで明確になる。ルソーが一般意志を特定の政治共同体（cité）の枠内で定義するのに対し、ディドロの一般意志は人類（humanité）全体に及ぶ普遍的射程を持つ。 ^n0004
 
-訳語について一点注記しておく。本項の標題および概念的言及における "droit naturel" は「自然法」と訳した。この語はフランス語において「自然法」（規範的体系としての lex naturalis）と「自然権」（主観的請求権としての ius naturale）の両義を担うが、ディドロはその統合的用法によって両義の緊張を意図的に活用している。他方§VIIに登場する "droits naturels inaliénables"（譲渡不可能な自然の権利）は文脈上、主観的権利請求として機能しており、「自然の権利」と訳した⁵。 ^n0005
+訳語について一点注記しておく。本項の標題および概念的言及における "droit naturel" は「自然法」と訳した。この語はフランス語において「自然法」（規範的体系としての lex naturalis）と「自然権」（主観的請求権としての ius naturale）の両義を担うが、ディドロはその統合的用法によって両義の緊張を意図的に活用している。他方¶9に登場する "droits naturels inaliénables"（譲渡不可能な自然の権利）は文脈上、主観的権利請求として機能しており、「自然の権利」と訳した⁵。 ^n0005
 
-§VIIIでは「義憤（indignation）」と「うらみ（ressentiment）」が一般意志の前制度的基盤として召喚される。ジャコモ・インブルーリア（Imbruglia）の解釈が示すように、情念は道徳的秩序の単なる障害物ではなく、一般意志を下支えする情動的素地として積極的に評価されている⁶。この義憤は百科全書の内部連動においてもINDIGNATION項目（ディドロ執筆）と応答関係にある。さらに§IXに登場する「衡平（équité）」——「衡平と正義との関係は原因とその結果の関係に等しい」——はアリストテレス『弁論術』II, 9のνέμεσις（義憤）とἐπιεικής（衡平）の連接を想起させ、ÉQUITÉ項目との概念的連動を示している⁷。 ^n0006
+¶10では「義憤（indignation）」と「うらみ（ressentiment）」が一般意志の前制度的基盤として召喚される。ジャコモ・インブルーリア（Imbruglia）の解釈が示すように、情念は道徳的秩序の単なる障害物ではなく、一般意志を下支えする情動的素地として積極的に評価されている⁶。この義憤は百科全書の内部連動においてもINDIGNATION項目（ディドロ執筆）と応答関係にある。さらに¶11に登場する「衡平（équité）」——「衡平と正義との関係は原因とその結果の関係に等しい」——はアリストテレス『弁論術』II, 9のνέμεσις（義憤）とἐπιεικής（衡平）の連接を想起させ、ÉQUITÉ項目との概念的連動を示している⁷。 ^n0006
 
 百科全書の読者にとって本項は、GOUVERNEMENT、VOLONTÉ、SOCIÉTÉ各項目と連動して読まれることが想定されていた。しかしその影響は項目内に留まらず、ルソーへの思想的先行、さらには革命期の権利概念形成を準備する文脈においても評価されるべき射程を持つ。ディドロがここで示した一般意志論は、政治共同体の正当性根拠を神的権威でも自然的秩序でもなく、人類全体の共通の欲求（désir commun）に求める点で、近代政治思想の転換点の一つをなしている。 ^n0007
 
@@ -89,7 +89,7 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 
 ² 「tribunal de la conscience」概念の系譜については、自然法論の良心論的転回との接続が重要。
 
-³ §Vの「juge & partie」論法はディドロの論駁戦略の核心。ホッブズ的仮想敵の構築と解体の手続きを体現する。
+³ ¶7の「juge & partie」論法はディドロの論駁戦略の核心。ホッブズ的仮想敵の構築と解体の手続きを体現する。
 
 ⁴ Benrekassa, *La politique et sa mémoire*, chap. III. → [[01_rec/Cards/260201_Genealogie_Conspiratio_Volonte_generale]]
 
@@ -104,10 +104,10 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v5-527-0/
 
 ### 『百科全書』関連項目
-- [[01_rec/01_Notes/01_Encyclopedie/01_E_Articles/CITOYEN|CITOYEN (Diderot)]] — §VII「homme, citoyen, sujet, pere, enfant」
-- [[LIBERTÉ, s. f. (_Morale_.).|LIBERTÉ (Naigeon/Yvon)]] — §I renvoi「Voy. les articles Volonté & Liberté」
-- [[SOCIÉTÉ, s. f. (_Morale_.).|SOCIÉTÉ (Morale.)]] — §IX 社会間の相対的行為の規則
-- [[LÉGISLATEUR, s. m. (_Politiq_.).|LÉGISLATEUR (Politiq.)]] — §IX 立法権と一般意志
+- [[01_rec/01_Notes/01_Encyclopedie/01_E_Articles/CITOYEN|CITOYEN (Diderot)]] — ¶9「homme, citoyen, sujet, pere, enfant」
+- [[LIBERTÉ, s. f. (_Morale_.).|LIBERTÉ (Naigeon/Yvon)]] — ¶3 renvoi「Voy. les articles Volonté & Liberté」
+- [[SOCIÉTÉ, s. f. (_Morale_.).|SOCIÉTÉ (Morale.)]] — ¶11 社会間の相対的行為の規則
+- [[LÉGISLATEUR, s. m. (_Politiq_.).|LÉGISLATEUR (Politiq.)]] — ¶11 立法権と一般意志
 - [[Autorité politique, Diderot2 (Page 1_898)|AUTORITÉ POLITIQUE (Diderot)]] — 政治的権威論
 - [[DÉMOCRATIE, s. f. (Droit polit.)|DÉMOCRATIE (Droit polit.)]] — 政体論
 - [[ENCYCLOPÉDIE, (Philosoph.) [Philosophie] Diderot (Page 5_635)|ENCYCLOPÉDIE (Diderot)]] — 知の体系
@@ -115,16 +115,16 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 - [[INTOLÉRANCE|INTOLÉRANCE]] — 寛容と自然法
 
 ### 概念ノート
-- [[Concept - volonte_generale|一般意志 (volonté générale)]] — §VI–IX の中核概念
+- [[Concept - volonte_generale|一般意志 (volonté générale)]] — ¶8–11 の中核概念
 - [[Concept - jus_naturale|自然法 (jus naturale)]] — ローマ法的淵源
-- [[Concept - liberte|自由 (liberté)]] — §I 自由と意志の区別
+- [[Concept - liberte|自由 (liberté)]] — ¶3 自由と意志の区別
 
 ### 研究ノート
 - [[260131_Meta_Kathekon_Citoyen_Volonte_generale]] — kathekon・citoyen・volonté générale の連関
 - [[Proust_Diderot_CITOYEN_volonte_generale]] — プルースト：ディドロのCITOYENと一般意志
 - [[Benrekassa_Achevement_espece_volonte_generale]] — ベンレカサ：種の達成と一般意志
-- [[Imbruglia_2007_Indignation_droits_homme]] — インブルーリア：義憤と人権（§VIII関連）
-- [[260207_Aristote_Rhetorique_II9_Nemesis_Epieikes|アリストテレス『弁論術』II, 9 νέμεσις / ἐπιεικής結合]] — §VIIIのindignation/ressentiment と §IX-8°のéquité/justice関係の古典的基盤。νέμεσις（義憤）を感じる主体＝ἐπιεικής（衡平な人）というアリストテレスの規定が、ディドロにおけるindignation（§VIII）とéquité（§IX-8°）の概念的連動を架橋
+- [[Imbruglia_2007_Indignation_droits_homme]] — インブルーリア：義憤と人権（¶10関連）
+- [[260207_Aristote_Rhetorique_II9_Nemesis_Epieikes|アリストテレス『弁論術』II, 9 νέμεσις / ἐπιεικής結合]] — ¶10のindignation/ressentiment と ¶11-8°のéquité/justice関係の古典的基盤。νέμεσις（義憤）を感じる主体＝ἐπιεικής（衡平な人）というアリストテレスの規定が、ディドロにおけるindignation（¶10）とéquité（¶11-8°）の概念的連動を架橋
 
 ---
 
