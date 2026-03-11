@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-droit-naturel"
 sourceFolder: "2026-02_tr_DROIT_NATUREL"
-lastCopied: "2026-02-20T06:08:05.906Z"
+lastCopied: "2026-02-20T06:19:28.143Z"
 ---
 
 ## 原文
@@ -105,14 +105,26 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 
 ## 注釈
 
-（注釈未着手）
+DROIT NATUREL 項目は「道徳（Morale）」という標題分類のもとに置かれている。この標題は、自然法の問いを純粋法学的・神学的文脈から切り離し、道徳哲学の問いとして再定位するディドロの意図を示している。実際、テクストは法学的な定義の連鎖を通じて自然法論の循環性を暴露した後、対話的な構造——「暴力的推論者（raisonneur violent）」との哲学的問答——を通じて問題の所在を根本から問い直し、最終的に「一般意志（volonté générale）」という概念に着地する。この概念的軌跡は、項目が単なる辞典記事を超えた自律的な哲学的論考として機能していることを示す。
+
+テクストの構造で特筆すべきは、§III が導入する「暴力的推論者」の独白である。「私は自分が人類の只中に恐怖と混乱をもたらしていることを感じている。だが私が不幸であるか、それとも他者を不幸にするか、そのいずれかでなければならない（il faut ou que je sois malheureux, ou que je fasse le malheur des autres）」と語るこの人物は、極端な利己主義の立場を最大限に合理化した形で提示する。ディドロはこの論者を単純に否定するのではなく、§V において彼の論理を内側から解体する——「彼の法廷はこの件において管轄権をもたないかもしれない（son tribunal pourroit bien n'avoir pas la compétence dans cette affaire）」という論拠によって。この解体の技法は、相手の前提を受け入れながらその帰結の不整合を示すという、ソクラテス的対話の構造を反復している。¹
+
+§VI における「一般意志」の導入は、この哲学的対話の帰結として呈示される。「個別意志（volontés particulieres）は疑わしい。それらは善でも悪でもありうる。しかし一般意志（volonté générale）は常に善である。一般意志はかつて欺いたことがなく、将来も決して欺かない」という定式は、一般意志の無謬性を宣言する。注目すべきは、この無謬性が神的啓示ではなく「人類（genre humain）」という概念から導出される点である。ディドロは「それを決定する権限は人類にのみ属する。なぜなら万人の善（bien de tous）こそ人類が有する唯一の情念であるからだ」と述べる。この論拠は、一般意志を実体的な意志としてではなく、利害の総合によって論理的に導出される規範的基準として定位する試みとして読むことができる。
+
+§VIII はさらに重要な一節を含んでいる。一般意志の「保管所（dépôt）」として、ディドロは「すべての文明化された国民の成文法の諸原理のうちに」「未開の諸民族の社会的行為のうちに」と並べた後、「義憤（indignation）と怨恨（ressentiment）、この二つの情念を自然はあたかも動物にさえ置いたかのようであり、それは社会法の欠如と公的復讐の不足を補うためである」と結ぶ。この情念論的付加は、一般意志を純粋に理性的な原理としてではなく、動物にさえ備わる生物学的・感情的基盤を持つものとして定位する。INDIGNATION 項目がこの「義憤」を語義論の外観で詳述し、ÉQUITÉ 項目が「衡平」概念を通じてその倫理的含意を論じるという相互補完的な構造が、ここで基礎づけられている。²
+
+§IX-8°の「衡平（équité）は正義（justice）に対して原因とその結果の関係にある」という命題もまた、アリストテレス『弁論術』第二巻第九章における νέμεσις（義憤）を感じる主体としての ἐπιεικής（衡平な人）という結合——§VIII の indignation と §IX-8°の équité を架橋する古典的基盤——を暗黙のうちに継承している。DROIT NATUREL 項目はこのような多層的な概念連動の中心にあり、CITOYEN、INDIGNATION、ÉQUITÉ という一連の項目群が形成する概念的網目の要として機能している。³
+
+¹ 一般意志概念の系譜については [[260131_Meta_Kathekon_Citoyen_Volonte_generale]] 参照。
+² indignation/ressentiment の一般意志基盤については [[Imbruglia_2007_Indignation_droits_homme]] 参照。
+³ νέμεσις / ἐπιεικής 結合の古典的根拠については [[260207_Aristote_Rhetorique_II9_Nemesis_Epieikes|アリストテレス『弁論術』II, 9]] 参照。
 
 ## 書誌
 
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v5-527-0/
 
 ### 『百科全書』関連項目
-- [[CITOYEN|CITOYEN (Diderot)]] — §VII「homme, citoyen, sujet, pere, enfant」
+- [[01_rec/01_Notes/01_Encyclopedie/01_E_Articles/CITOYEN|CITOYEN (Diderot)]] — §VII「homme, citoyen, sujet, pere, enfant」
 - [[LIBERTÉ, s. f. (_Morale_.).|LIBERTÉ (Naigeon/Yvon)]] — §I renvoi「Voy. les articles Volonté & Liberté」
 - [[SOCIÉTÉ, s. f. (_Morale_.).|SOCIÉTÉ (Morale.)]] — §IX 社会間の相対的行為の規則
 - [[LÉGISLATEUR, s. m. (_Politiq_.).|LÉGISLATEUR (Politiq.)]] — §IX 立法権と一般意志
@@ -137,3 +149,11 @@ Si vous méditez donc attentivement tout ce qui précede, vous resterez convainc
 ---
 
 - 項目カード: [[DROIT NATUREL, (Morale)]]
+
+## 研究ログ
+
+### 260311 作業記録
+- **`## 注釈` セクション生成・挿入**（`/encyclopedie-annotation` スキル）
+  - DROIT NATUREL（自然法・道徳）
+  - 編纂者の言説的実践・思想史的文脈を散文で詳解
+  - commit: `49a9661a07`

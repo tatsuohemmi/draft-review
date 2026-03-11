@@ -24,6 +24,16 @@ npm run dev
 npm run build
 ```
 
+### ビルド後の検証（3点セット）
+
+`npm run build` 後は以下の3点を確認する:
+
+1. `dist/*/index.html` のタイムスタンプが現在日時になっているか
+2. 代表ファイルの `<h1>` タグが正常に出力されているか（例: `dist/2026-02-tr-ame/index.html`）
+3. `src/content/drafts/*.md` の `lastCopied` フィールドが更新されているか
+
+> **Note**: `glob-loader` の `Duplicate id` 警告は新版ファイルが採用されるため無視して良い（ビルドエラーではない）
+
 ### 新規プロジェクトの追加
 
 1. `drafts.config.json` の `projects` 配列にフォルダ名を追加:

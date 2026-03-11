@@ -36,98 +36,17 @@ lastCopied: "2026-02-20T06:19:28.143Z"
 
 ## 注釈
 
-1572年8月24日の聖バルテルミの日の虐殺に関する百科全書項目。ディドロがCaveiracの『Apologie de Louis XIV』（1758年）を読んで激怒し、直接的な反応として執筆した項目。 ^p0004
+JOURNÉE DE LA SAINT-BARTHÉLEMY 項目は、百科全書の中でも最も短く、最も感情的な強度を持つ項目の一つである。「近代史（Hist. mod.）」という標題分類のもとに置かれているが、テクストが採用するのは歴史記述の形式ではなく、断絶と沈黙の修辞学である。冒頭の「永遠に忌まわしい日（à jamais exécrable）」という時間的絶対化によって、1572年8月24日の虐殺は歴史上の一事件ではなく、道徳的断罪の永続的な対象として定位される。
 
-**執筆の経緯**（Adams, p. 89; Proust, p. 146）：
-> "Diderot penned a special article for the Encyclopédie ('journée de la Saint-Barthelemy') as a direct result of the rage he felt while reading the Apologie."
->
-> （ディドロは『弁護論』を読んで感じた怒りの直接的な結果として、百科全書のために特別な項目「聖バルテルミの日」を執筆した。） ^p0005
+テクストが特異な言説的実践として機能するのは、何よりもその「語りえなさ」の演出においてである。「私にはこれ以上語る力がない（Je n'ai pas la force d'en dire davantage）」という一文は、記述の放棄を宣言することで、逆説的に事件の恐怖を最大化する修辞的効果を生む。この沈黙の修辞の直後に置かれるのが、アガメムノンが娘イフィゲニアの生贄を前に衣の裾で顔を覆ったという古典的な比喩である。この比喩はギリシア悲劇への一般的な言及ではなく、ルクレティウス『事物の本性について』第一巻（I.80-101）のイフィゲニア挿話を経由している。同挿話の締めくくりは「かくも多くの悪を宗教は人に促しえた（Tantum religio potuit suadere malorum）」という著名な一句であり、ディドロは宗教的暴力への批判を古代唯物論の系譜に接続することで、聖バルテルミの虐殺を宗教的犠牲という普遍的な批判の文脈に置き直している。¹
 
----
+Caveirac への攻撃もまた巧妙な言説的戦略を採用している。「ある男が今日、あえてこの日の弁護を企てた（Un homme a osé de nos jours entreprendre l'apologie de cette journée）」という匿名の告発——DPV 注釈が補足するように、この「ある男」はアベ・カヴェイラク（abbé de Caveyrac）の『ルイ14世弁護論』（1758年）を指す——は、名指しすることなく烙印を押す。「読者よ、この血に塗れた人間の身分が何であったか推測せよ（Lecteur, devine quel fut l'état de cet homme de sang）」という呼びかけは、読者を謎解きの主体として参加させることで、Caveirac が聖職者（abbé）であることへの皮肉的な暴露を読者に委ねる。この「匿名批判＋読者への委任」という構造は、百科全書が検閲の圧力下で採用した典型的な言説戦略である。²
 
-### 修辞構造
+テクストは「おお神よ、私が彼のような者と同じ屋根の下に住むことのないようにしてください（ô Dieu, garantis-moi d'habiter avec ses pareils sous un même toit）」という祈禱的な結末で閉じる。この祈禱は、啓蒙主義的批判者が宗教的言語を用いる逆説的な瞬間として注目に値する。神への訴えという形式を採用することで、ディドロは宗教批判を宗教的言表の内側から行うという戦略を完成させる。INTOLÉRANCE 項目における教父引用（キリスト教内部の権威による論駁）と本項目のルクレティウス間テクスト性（異教的唯物論からの批判）は、相補的な二つの批判の軌道として並存している。³
 
-| 要素 | 内容 | 機能 |
-|------|------|------|
-| **強調語** | "à jamais exécrable"（永遠に忌まわしい） | 絶対的な道徳的断罪 |
-| **沈黙の修辞** | "Je n'ai pas la force d'en dire davantage" | 語りえぬ恐怖の表現 |
-| **古典的比喩** | アガメムノンとイフィゲニア（ルクレティウス経由） | 宗教批判の古典的トポス、反狂信のレトリック |
-| **匿名批判** | "Un homme a osé..."（ある男が...） | Caveiracへの暗黙の攻撃 |
-| **祈禱的結末** | "ô Dieu, garantis-moi..." | 読者との共同体形成 |
-
-### Caveiracへの攻撃
-
-ディドロはCaveiracの名前を明示しないが、DPV注釈が示すように、批判対象は明らかである： ^p0006
-
-| ディドロの表現 | 指示対象 |
-|---------------|---------|
-| "Un homme a osé... entreprendre l'apologie" | Caveirac『Apologie de Louis XIV』（1758年） |
-| "de nos jours"（今日） | 1758年の出版を指す |
-| "cet homme de sang"（この血に塗れた人間） | 虐殺を擁護する聖職者への侮蔑 |
-| "devine quel fut l'état"（身分を推測せよ） | 聖職者（abbé）であることへの皮肉 |
-
-### ルクレティウスとの間テクスト性
-
-ディドロが用いた「アガメムノンが娘を見て顔を覆った」という比喩は、単なるギリシャ悲劇への言及ではなく、**ルクレティウス『事物の本性について』（De Rerum Natura）第1巻冒頭**（I.80-101）のイフィゲニア挿話を下敷きにしている。 ^p0007
-
-#### ルクレティウス原文（I.84-101）
-
-> Aulide quo pacto Triviai virginis aram / Iphianassai turparunt sanguine foede / ductores Danaum delecti, prima virorum. / ... / Tantum religio potuit suadere malorum.
->
-> （アウリスにおいて、選ばれたダナオイの指導者たち、男たちの第一人者たちが、トリウィアの処女の祭壇をイフィアナッサの血で醜く汚した有様を……**かくも多くの悪を宗教は人に促しえた**。）
-
-#### 間テクスト性の意義
-
-| 要素 | ルクレティウス | ディドロ |
-|------|---------------|---------|
-| **犠牲者** | イフィゲニア（父アガメムノンに殺される処女） | 聖バルテルミの犠牲者（数千人のプロテスタント） |
-| **加害者** | 宗教（religio）に駆られたギリシャ人 | 宗教的不寛容に駆られたカトリック |
-| **批判対象** | 迷信・宗教一般 | Caveiracのような宗教的狂信の弁護者 |
-| **結論** | "Tantum religio potuit suadere malorum" | 虐殺を弁護する者との共存を拒否 |
-
-ディドロは啓蒙思想の反宗教的伝統において標準的な典拠であるルクレティウスを援用することで、聖バルテルミの虐殺を**古代の宗教的犠牲と同列に置き**、Caveiracの擁護論を古代の迷信と同等の野蛮さとして断罪している。 ^p0008
-
-この間テクスト的戦略は、[[INTOLÉRANCE]]における教父引用（キリスト教内部の権威による論駁）とは対照的に、**異教的・唯物論的伝統**からの批判を展開するものである。 ^p0009
-
-### INTOLÉRANCE項目との関連
-
-DPV注釈は「INTOLÉRANCE項目の注3を参照」と指示。両項目は寛容論の文脈で相互補完的に読まれるべきである。 ^p0010
-
-→ [[INTOLÉRANCE]] 参照 ^p0011
-
----
-
-### 時系列
-
-| 年 | 出来事 |
-|----|--------|
-| 1572年8月24日 | 聖バルテルミの日の虐殺 |
-| 1758年 | Caveirac『Apologie de Louis XIV, et de son Conseil, sur la Révocation de l'Edit de Nantes』出版（聖バルテルミの弁護を含む） |
-| 1765年 | 百科全書第8巻（本項目収録）出版 |
-
-### ディドロの怒りの根拠
-
-Adamsによれば、Caveiracは聖バルテルミの虐殺をも正当化しようとした： ^p0012
-
-> "Caveirac's *Dissertation sur la journée de la Saint-Barthélemy* (1758) argued that the massacre was a legitimate act of self-defense by the Catholic party."
-
-この極端な擁護論が、ディドロの激怒を引き起こした。 ^p0013
-
----
-
-本項目は[[RÉFUGIÉS]]項目と密接に関連する： ^p0014
-
-| 項目 | 主題 | 批判対象 |
-|------|------|---------|
-| JOURNÉE DE LA SAINT-BARTHÉLEMY | 1572年の虐殺 | Caveiracの聖バルテルミ弁護 |
-| RÉFUGIÉS | 1685年のナント勅令廃止 | Caveiracのナント勅令廃止弁護 |
-
-両項目でディドロは、Caveiracの著作に対する同じ怒りを表明している。 ^p0015
-
-→ [[RÉFUGIÉS]] 参照
-→ [[Caveirac_Jean_Novi_de]] 参照 ^p0016
-
----
+¹ ルクレティウス間テクスト性の詳細については [[Lucr_L1_0080-0101]] および [[Lucretius_tantum_religio_citations_260103]] 参照。
+² Caveirac の著作と批判については [[Caveirac_Jean_Novi_de]] 参照。
+³ INTOLÉRANCE 項目との補完的関係については [[INTOLÉRANCE]] 参照。
 
 ## 書誌
 
@@ -166,3 +85,11 @@ Adamsによれば、Caveiracは聖バルテルミの虐殺をも正当化しよ�
 - [[Lough_Essays_Encyclopedie]] - 出版史・受容史研究
 
 - 項目カード: [[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]
+
+## 研究ログ
+
+### 260311 作業記録
+- **`## 注釈` セクション生成・挿入**（`/encyclopedie-annotation` スキル）
+  - JOURNÉE DE LA SAINT-BARTHÉLEMY（聖バルテルミの虐殺）
+  - 編纂者の言説的実践・思想史的文脈を散文で詳解
+  - commit: `49a9661a07`

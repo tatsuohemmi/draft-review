@@ -84,7 +84,7 @@ Jaucourtによる百科全書項目。衡平（équité）を「各人に正当�
 ### 百科全書項目
 
 - [[DROIT NATUREL, (Morale)|DROIT NATUREL（自然法）]] — Diderot執筆。一般意志（volonté générale）と自然法の基礎付け
-- [[CITOYEN|CITOYEN（市民）]] — Diderot執筆。市民権と一般意志の関係
+- [[01_rec/01_Notes/01_Encyclopedie/01_E_Articles/CITOYEN|CITOYEN（市民）]] — Diderot執筆。市民権と一般意志の関係
 - [[CIVILITÉ, POLITESSE, AFFABILITÉ|CIVILITÉ（市民性）]] — Jaucourt執筆。自然法の実践としての礼儀
 
 ### 文献ノート・研究カード

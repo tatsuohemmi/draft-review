@@ -1,7 +1,5 @@
 {
   "projects": [
-    "2026-02_tr_AME",
-    "2026-02_tr_ANIMAL",
     "2026-02_tr_BESANÇON",
     "2026-02_tr_CIGUE",
     "2026-02_tr_CITOYEN",
@@ -16,7 +14,7 @@
     "2026-02_tr_PACIFICATION",
     "2026-02_tr_PERSÉCUTER",
     "2026-02_tr_RÉFUGIÉS",
-    "2026-02_tr_VINGTIÈME"
+    "2026-02_tr_RÉFUGIÉS"
   ],
   "vaultDraftsRoot": "..",
   "outputDir": "src/content/drafts"

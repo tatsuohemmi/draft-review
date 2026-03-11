@@ -8,7 +8,7 @@ enccre_url: "https://enccre.academie-sciences.fr/encyclopedie/article/v17-280-0/
 tags:
   - project/reel6
   - draft
-slug: "2026-02-tr-vingtieme"
+slug: "2027-02-tr-vingtieme"
 sourceFolder: "2026-02_tr_VINGTIÈME"
 lastCopied: "2026-02-20T06:19:28.143Z"
 ---

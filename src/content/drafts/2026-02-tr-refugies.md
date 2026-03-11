@@ -34,11 +34,17 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 ## 注釈
 
-ナント勅令廃止（1685年）後にフランスを離れたプロテスタント（ユグノー）亡命者に関する項目。ディドロ執筆項目として、Leca-Tsiomis版（p.586）およびVolpilhac-Auger版（p.337）に収録。 ^p0006
+RÉFUGIÉS 項目は「近代史・政治（Hist. mod. politiq.）」という標題分類のもとに置かれている。しかし Leca-Tsiomis が明らかにした Vandeul 写本「定義補遺」リストへの収録——INTOLÉRANCE と並置された形で——は、ディドロ自身がこの項目を歴史記事としてではなく「道徳哲学の定義」の文脈で捉えていたことを示す。この二重の位置づけ——公刊形式における歴史記述と、著者の自己分類における道徳哲学的定義——は、項目の言説的実践を理解する上での鍵となる。
 
-宗教的迫害と亡命の問題を扱い、啓蒙思想の寛容論と関連する重要項目。 ^p0007
+冒頭の定義に注目すべきである。「これは……フランスのプロテスタントをこう呼ぶ（C'est ainsi que l'on nomme les Protestans...）」という始まりは、「亡命者」という語を定義しながら、同時にその定義行為自体を政治的な身振りとして遂行する。「盲目的かつ無分別な熱狂（zele aveugle & inconsidéré）」という表現は、ナント勅令廃止を駆動した力を「信仰熱」ではなく「盲目的な熱狂」として規定することで、宗教政策の宗教的正当性を剥奪する。この「zèle aveugle」という語彙は、Shaftesbury『熱狂についての書簡』における enthusiasme / zèle の概念的対照——理性に導かれた宗教的情熱と、理性を欠いた盲目的狂信の区別——を背景に持っており、啓蒙主義的寛容論の共通語彙圏に属している。¹
 
-本項目が扱う主題は、ナント勅令廃止（Révocation de l'Édit de Nantes, 1685）に伴うプロテスタント迫害、宗教的寛容の問題、および亡命がもたらした経済的影響である。
+批判の構造として際立つのは、三つの語彙的層の累積である。「一部の悪しき市民（quelques mauvais citoyens）」は、迫害政策の推進者として利己的・野心的動機を持つ者たちとして同定される。「あらゆる思考の自由の敵（les ennemis de toute liberté de penser）」という規定は、思想的類型としての普遍化を行う。「無知の陰でしか支配できない（ne peuvent régner qu'à l'ombre de l'ignorance）」という批判は、支配の形式としての無知の維持を告発する。これらの層は特定個人への同定ではなく——ディドロは Caveirac の名を挙げない——制度批判として構成されており、批判の焦点は個人の悪意よりも構造的な問題に向けられている。²
+
+数量化の戦略もまた注目に値する。「100万人近い勤勉な人々（près d'un million d'hommes industrieux）」という損失の定量化は、宗教的迫害への批判を「国家理性（raison d'État）」の語りとして再構成する。「技芸、才能、資源（des arts, des talens, & des ressources）」という経済的語彙による損失の記述は、RÉFUGIÉS 項目が宗教的感傷ではなく啓蒙的実用主義の立場から迫害を断罪していることを示す。INTOLÉRANCE 項目が宗教的不寛容の理論的誤りを抽象的に論証するとすれば、RÉFUGIÉS 項目はその歴史的実現形態を具体的な人的・経済的損失として可視化する。両項目は「理論的批判」と「歴史的証拠」という補完的な役割を担う一対として読むべきである。³
+
+¹ zèle / enthousiasme 概念の対照については [[Enthousiasme_Zele_概念分析]] 参照。
+² 「悪しき市民」の三層モデルについては [[Caveirac_Jean_Novi_de]] および [[Berthier_Memoire_de_Trevoux_1751_decembre]] 参照。
+³ INTOLÉRANCE との補完的関係については [[INTOLÉRANCE]] 参照。また Vandeul 写本における位置づけは [[260121_Duflo_REFUGIES_Encyclopedie_2025]] 参照。
 
 ### 「le conseil d'un souverain」の制度史的意味
 
@@ -213,3 +219,11 @@ Vandeul写本「定義補遺」リストでの並置は、ディドロ自身が�
 - [[Morris_chevralier_De_Jaucourt_Un_ami_de_la_Terre_ocr]]
 
 - 項目カード: [[RÉFUGIÉS]]
+
+## 研究ログ
+
+### 260311 作業記録
+- **`## 注釈` セクション生成・挿入**（`/encyclopedie-annotation` スキル）
+  - RÉFUGIÉS（難民・ユグノー亡命）
+  - 編纂者の言説的実践・思想史的文脈を散文で詳解
+  - commit: `49a9661a07`
