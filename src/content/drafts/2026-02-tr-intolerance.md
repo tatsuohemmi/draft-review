@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-intolerance"
 sourceFolder: "2026-02_tr_INTOLÉRANCE"
-lastCopied: "2026-02-20T06:19:28.143Z"
+lastCopied: "2026-03-11T09:17:10.055Z"
 ---
 
 ## 原文
@@ -18,6 +18,8 @@ lastCopied: "2026-02-20T06:19:28.143Z"
 **DPV（Diderot Œuvres complètes）第7巻、p. 540-545** ^p0001
 
 ---
+
+### 定義と区別（p. 540）
 
 INTOLERANCE, s. f. *(Morale)*¹. Le mot intolérance s'entend communément de cette passion féroce qui porte à haïr & à persécuter ceux qui sont dans l'erreur. Mais pour ne pas confondre des choses fort diverses, il faut distinguer deux sortes d'intolérance, l'ecclésiastique & la civile. ^p0002
 
@@ -31,6 +33,8 @@ Mais avant que d'entrer en matière, nous devons dire, à l'honneur de nos théo
 
 ---
 
+### Tertullien引用（p. 540-541）
+
 Tertullien dit, *Apolog. ad Scapul.*: *Humani juris & naturalis potestatis est unicuique quod putaverit colere; nec alii obest aut prodest alterius religio. Sed nec religionis est cogere religionem quae sponte suscipi debeat, non vi; cum & hostiae ab animo libenti expostulentur*². ^p0007
 
 Voilà ce que les chrétiens faibles & persécutés représentaient aux idolâtres qui les traînaient aux pieds de leur autels. ^p0008
@@ -38,6 +42,8 @@ Voilà ce que les chrétiens faibles & persécutés représentaient aux idolâtr
 > ² « Selon la loi humaine et naturelle chaque homme a le droit d'adorer ce que bon lui semble ; car quel mal ou quel bien fait à autrui ma religion ? Il est contraire à la religion de contraindre à la religion, qui doit être embrassée volontairement et non par force, puisque tout sacrifice demande le consentement du cœur. »
 
 ---
+
+### 不寛容の諸帰結（p. 541）
 
 Il est impie d'exposer la religion aux imputations odieuses de tyrannie, de dureté, d'injustice, d'insociabilité, même dans le dessein d'y ramener ceux qui s'en seraient malheureusement écartés. ^p0009
 
@@ -63,6 +69,8 @@ Si l'on rompt le lien avec celui qu'on appelle impie, on rompra le lien avec cel
 
 ---
 
+### 不寛容の論理的帰結（p. 542）
+
 Si l'on peut arracher un cheveu à celui qui pense autrement que nous, on pourra disposer de sa tête, parce qu'il n'y a point de limites à l'injustice. Ce sera ou l'intérêt, ou le fanatisme, ou le moment, ou la circonstance qui décidera du plus ou du moins de mal qu'on se permettra. ^p0020
 
 Si un prince infidèle demandait aux missionnaires d'une religion intolérante comment elle en use avec ceux qui n'y croient point, il faudrait ou qu'ils avouassent une chose odieuse, ou qu'ils mentissent, ou qu'ils gardassent un honteux silence. ^p0021
@@ -70,6 +78,8 @@ Si un prince infidèle demandait aux missionnaires d'une religion intolérante c
 Qu'est-ce que le Christ a recommandé à ses disciples en les envoyant chez les nations ? est-ce de tuer ou de mourir ? est-ce de persécuter ou de souffrir ? ^p0022
 
 ---
+
+### 聖パウロ引用
 
 Saint Paul écrivait aux Thessaloniciens : si quelqu'un vient vous annoncer un autre Christ, vous proposer un autre esprit, vous prêcher un autre évangile, vous le souffrirez. Intolérants, est-ce ainsi que vous en usez même avec celui qui n'annonce rien, ne propose rien, ne prêche rien ? ^p0023
 
@@ -83,9 +93,13 @@ Si un intolérant s'expliquait nettement sur ce qu'il est, quel est le coin de l
 
 ---
 
+### 三世紀の教父たち
+
 On lit dans Origène, dans Minutius-Felix, dans les Pères des trois premiers siècles : la religion se persuade & ne se commande pas. L'homme doit être libre dans le choix de son culte ; le persécuteur fait haïr son Dieu ; le persécuteur calomnie sa religion. Dites-moi si c'est l'ignorance ou l'imposture qui a fait ces maximes ? ^p0028
 
 ---
+
+### 君主と不寛容（p. 542-543）
 
 Dans un État intolérant, le prince ne serait qu'un bourreau aux gages du prêtre. Le prince est le père commun de ses sujets ; & son apostolat est de les rendre tous heureux. ^p0029
 
@@ -101,6 +115,8 @@ Lorsque vous haïssez votre frère, & que vous prêchez la haine à votre procha
 
 ---
 
+### キリストの教え（p. 543）
+
 Le Christ a dit : mon royaume n'est pas de ce monde ; & vous, son disciple, vous voulez tyranniser ce monde ! ^p0035
 
 Il a dit : je suis doux & humble de cœur ; êtes-vous doux & humble de cœur ? ^p0036
@@ -114,6 +130,8 @@ Il a dit : si l'on vous persécute, fuyez ; & vous chassez ceux qui vous laissen
 Il a dit : vous voudriez que je fisse tomber le feu du ciel sur vos ennemis : vous ne savez quel esprit vous anime ; & je vous le répète avec lui, intolérants, vous ne savez quel esprit vous anime. ^p0040
 
 ---
+
+### 教父引用（p. 543-544）
 
 Écoutez s. Jean : mes petits enfants, aimez-vous les uns les autres. ^p0041
 
@@ -129,6 +147,8 @@ Il a dit : vous voudriez que je fisse tomber le feu du ciel sur vos ennemis : vo
 
 ---
 
+### 公会議の証言（p. 544）
+
 Les constitutions du pape s. Clément : le Sauveur a laissé aux hommes l'usage de leur libre arbitre, ne les punissant pas d'une mort temporelle, mais les assignant en l'autre monde, pour y rendre compte de leurs actions. ^p0047
 
 Les Pères d'un concile de Tolède : ne faites à personne aucune sorte de violence, pour l'amener à la foi ; car Dieu fait miséricorde à qui il veut, & il endurcit qui il lui plaît. ^p0048
@@ -138,6 +158,8 @@ On remplirait des volumes de ces citations trop oubliées des chrétiens de nos 
 S. Martin se repentit toute sa vie d'avoir communiqué avec des persécuteurs d'hérétiques. ^p0050
 
 ---
+
+### Caveiracへの批判（p. 544-545）
 
 Les hommes sages ont tous désapprouvé la violence que l'empereur Justinien fit aux Samaritains. ^p0051
 
@@ -150,6 +172,8 @@ Dans ces derniers temps **l'apologiste de la révocation de l'édit de Nantes**�
 **⚠️ 典拠上の重要性**: この「homme de sang」という表現は、Proust (*Diderot et l'Encyclopédie*, pp. 299-300) がディドロのCaveirac批判を論証する際の**主要な一次資料**として引用している。詳細は[[Caveirac_Jean_Novi_de#典拠批判：Adamsの「rage」表現について]]を参照。 ^p0054
 
 ---
+
+### 結論部（p. 545）
 
 Quelle est la voie de l'humanité ? est-ce celle du persécuteur qui frappe, ou celle du persécuté qui se plaint ? ^p0055
 
@@ -169,6 +193,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### 定義と区別（p. 540）
+
 **不寛容**（道徳）¹。不寛容という語は、一般に、誤りの中にある者を憎み迫害するよう駆り立てる、あの獰猛な情念を意味する。しかし、甚だ異なる事柄を混同しないために、二種類の不寛容を区別しなければならない。すなわち、**教会的不寛容と市民的不寛容**である。 ^p0059
 
 **教会的不寛容**とは、自らが告白する宗教以外のあらゆる宗教を偽りと見なし、いかなる恐怖にも、いかなる人への遠慮にも止められることなく、生命を失う危険を冒してさえ、屋根の上からそれを証明することである。本項目では、教会のあらゆる時代にこれほど多くの殉教者を生んだこの英雄主義については論じない。 ^p0060
@@ -181,6 +207,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### テルトゥリアヌス引用（p. 540-541）
+
 テルトゥリアヌスは『弁明論、スカプラへの』の中で言う：「各人が適切と考えるものを崇拝することは、人間法と自然的権能に属する。他者の宗教は誰にも害も益も与えない。また、自発的に、強制によらず受け入れられるべき宗教を強制することは、宗教的ではない。犠牲さえも心からの同意を求めるのだから」²。 ^p0064
 
 これが、迫害され弱い立場にあったキリスト教徒が、自分たちを祭壇の足元に引きずっていった偶像崇拝者たちに示したことである。 ^p0065
@@ -188,6 +216,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 > ² 「人間法と自然法に従い、各人は自分が望むものを崇拝する権利を持つ。他者の宗教は私に何の害も益ももたらさないのだから。自発的に、強制によらず受け入れられるべき宗教を強制することは、宗教に反する。あらゆる犠牲は心からの同意を求めるのだから。」
 
 ---
+
+### 不寛容の諸帰結（p. 541）
 
 専制、冷酷、不正義、非社会性という忌むべき非難に宗教を晒すことは不敬である。たとえそれが、不幸にも宗教から離れた者をそこに連れ戻す意図であっても。 ^p0066
 
@@ -213,6 +243,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### 不寛容の論理的帰結（p. 542）
+
 我々と異なる考えを持つ者から髪の毛一本を引き抜くことができるなら、その者の頭を自由にすることもできる。なぜなら不正義には限界がないからである。どれほどの悪を許すかを決めるのは、利益か、狂信か、その時か、状況かのいずれかであろう。 ^p0077
 
 もし不信心な君主が、不寛容な宗教の宣教師たちに、その宗教が信じない者をどう扱うか尋ねたなら、彼らは忌まわしいことを告白するか、嘘をつくか、恥ずべき沈黙を守るかのいずれかをしなければならないだろう。 ^p0078
@@ -220,6 +252,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 キリストが弟子たちを諸国民のもとに遣わすとき、何を勧めたか。殺すことか、死ぬことか。迫害することか、苦しむことか。 ^p0079
 
 ---
+
+### 聖パウロ引用
 
 聖パウロはテサロニケ人に書いた：もし誰かが来て、別のキリストを告げ、別の霊を提案し、別の福音を説くなら、あなたがたはそれを耐え忍ぶであろう。不寛容者たちよ、何も告げず、何も提案せず、何も説かない者に対しても、あなたがたはそのように振る舞うのか。 ^p0080
 
@@ -233,9 +267,13 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### 三世紀の教父たち
+
 オリゲネス、ミヌキウス・フェリクス、最初の三世紀の教父たちの中にこう読める：宗教は説得されるものであり、命じられるものではない。人は自らの崇拝の選択において自由でなければならない。迫害者は自らの神を憎ませる。迫害者は自らの宗教を中傷する。これらの格言を作ったのは無知か詐欺か、私に言ってくれ。 ^p0085
 
 ---
+
+### 君主と不寛容（p. 542-543）
 
 不寛容な国家においては、君主は聖職者に雇われた死刑執行人に過ぎないだろう。君主はその臣民全員の共通の父であり、彼の使命は彼ら全員を幸福にすることである。 ^p0086
 
@@ -251,6 +289,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### キリストの教え（p. 543）
+
 キリストは言った：私の国はこの世のものではない。そしてあなた、その弟子よ、あなたはこの世を専制しようとするのか！ ^p0092
 
 キリストは言った：私は心の柔和で謙遜な者である。あなたは心の柔和で謙遜な者か。 ^p0093
@@ -264,6 +304,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 キリストは言った：あなたがたは私が天から火を降らせて敵を滅ぼすことを望むのか。あなたがたは自分がどんな霊に動かされているか知らない。そして私も彼とともにあなたがたに言い返す、不寛容者たちよ、あなたがたは自分がどんな霊に動かされているか知らない。 ^p0097
 
 ---
+
+### 教父引用（p. 543-544）
 
 聖ヨハネに聞け：私の小さな子どもたちよ、互いに愛し合いなさい。 ^p0098
 
@@ -279,6 +321,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### 公会議の証言（p. 544）
+
 聖クレメンス教皇の教令：救い主は人間に自由意志の使用を残し、現世の死で罰することなく、来世で彼らの行いの報告をするよう召喚した。 ^p0104
 
 トレド公会議の教父たち：誰に対しても、信仰に導くためにいかなる種類の暴力も用いてはならない。神は望む者に憐れみを施し、望む者を頑なにするからである。 ^p0105
@@ -289,6 +333,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ---
 
+### Caveiracへの批判（p. 544-545）
+
 賢明な人々は皆、ユスティニアヌス帝がサマリア人に対して行った暴力を非難した。 ^p0108
 
 不信仰に対する刑罰法を勧めた著述家たちは憎まれてきた。 ^p0109
@@ -298,6 +344,8 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 > ³ アベ・ジャン・ノヴィ・ド・カヴェラック（1713-1782）。その『ルイ14世と枢密院のナント勅令廃止についての弁明』は1758年に出版された。
 
 ---
+
+### 結論部（p. 545）
 
 人道の道はどちらか。打つ迫害者の道か、嘆く被迫害者の道か。 ^p0111
 
@@ -311,17 +359,166 @@ Opérez votre salut. Priez pour le mien, & croyez que tout ce que vous vous perm
 
 ## 注釈
 
-INTOLÉRANCE 項目の標題分類「s. f. *(Morale)*」は、この百科全書項目がどのような言説的実践を行っているかを考える上で、最初の手がかりを与える。「道徳」という括弧注記は、語義辞典的な中立性の装いを施しつつ、政治哲学・神学批判・法理論を一挙に展開するための場を準備する。ディドロは冒頭の一文で不寛容を「情念（passion féroce）」として定位し、感情論・道徳論の語彙に収めてみせる。しかしこの見た目上の感情論的枠組みは、すぐさま二類型の区別という精緻な法的・政治的分析へと開かれる。教会的不寛容と市民的不寛容の区別によって、ディドロは一方を「論じない」と宣言しつつ、その実、批判対象を「市民的」領域—すなわち政治権力と宗教的強制の接合点—に絞り込む。言説の射程はここで一気に公共的・国家論的なものへと転換される。
+ディドロ執筆の百科全書項目。「不寛容」の二類型（教会的不寛容と市民的不寛容）を区別し、後者を聖書・教父・公会議の権威に基づいて徹底的に批判。項目末尾でCaveiracへの暗黙の批判を行う。 ^p0115
 
-本論の中枢を占めるのは、聖書・教父・公会議という**キリスト教内部の権威**を逆用する戦略である。市民的不寛容者を「悪人であり、悪しきキリスト教徒であり、危険な臣民であり、悪しき政治家であり、悪しき市民である（un méchant homme, un mauvais chrétien, un sujet dangereux, un mauvais politique, & un mauvais citoyen）」と五重に断罪する冒頭の命題は、外部の批判者の声ではなく、不寛容者たち自身が依拠する伝統——テルトゥリアヌス、オリゲネス、アウグスティヌス、クリュソストモス——によって立証される。テルトゥリアヌスが「良心の強制は宗教的ではない（nec religionis est cogere religionem）」と述べたのは、ローマの迫害者に向けて弱いキリスト教徒が語ったことばであるとディドロは説明する。迫害する側が、かつて迫害された側の論理によって論駁される——この論証構造は検閲回避の実用的策略であるとともに、不寛容の自己矛盾を歴史的に可視化する修辞的戦略でもある。PACIFICATION項目でも同様の論法が採られており、両項目は教父引用という同一の典拠戦略によって縫い合わされている¹。
+**Vandeul写本での位置づけ**：[[RÉFUGIÉS]]と同一リスト「Définitions 1re Partie Supplément」に含まれ、両項目は**寛容論**という共通の思想的基盤を持つ。 ^p0116
 
-テクストの末尾近くに置かれたCaveirac批判は、この項目の言説的実践において特別な位置を占める。ディドロは「近年、ナント勅令廃止の弁護者は、同じ屋根の下に住むべきでない血に塗れた人間と見なされてきた（l'apologiste de la révocation de l'édit de Nantes, a passé pour un homme de sang, avec lequel il ne fallait pas partager le même toit）」と記す。人物名は注釈で初めて明かされるが、当時の読者にとってこの匿名は薄い。アベ・ジャン・ノヴィ・ド・カヴェラックは1758年に『ルイ14世弁護論』を刊行し、ナント勅令廃止のみならず聖バルテルミの虐殺をも擁護しようとした人物であり、啓蒙的世論—それを批判したヴォルテールの旧敵フレロンでさえ—が一致して糾弾した論客であった²。「血に塗れた人間」という烙印は、理論的論駁の外側で機能する、公共的な道徳的排除の宣言である。この表現は[[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]の結末「ô Dieu, garantis-moi d'habiter avec ses pareils sous un même toit」と語句レベルで呼応し、二つの項目がCaveirac批判という一点で照応し合う³。
+---
 
-この項目の百科全書内部での位置づけは、Vandeul写本に照らすとさらに立体的になる。ディドロ自身がRÉFUGIÉS項目とともにINTOLÉRANCE項目を「Définitions 1re Partie Supplément」（定義・第1部補遺）として分類していたことが写本から確認されており、この分類は単なる編集上の整理を超えた思想的自己規定を示している。RÉFUGIÉS項目が「市民的不寛容の歴史的実例」として経済的損失の数値（「100万人の勤勉な人々」）と国家利益の語彙で批判を展開するのに対し、INTOLÉRANCE項目は「市民的不寛容の理論的批判」として機能する。さらにProustが指摘するように、JaucourtによるTOLÉRANCE項目が「ローマ教会に対する過度な攻撃性」を理由に検閲・削除された後、INTOLÉRANCE項目はその代替として、より迂回的かつ周到な形で寛容論を展開したと考えられる。不寛容を肯定の形（何かを称揚する）ではなく、否定の形（何かを批判する）で論じることで、検閲の圧力をかわしながら寛容の主張を構造的に実現する——これが本項目の最も根本的な言説的実践である。なおこの項目の主要部分は、ディドロが1760年12月29日付で不寛容な聖職者の兄に宛てたとされる書簡とほぼ同一のテクストを含み、自筆原稿が現存せず実際には未発送であったことが知られている。私的書簡の形式を取りつつ実際には百科全書という公的空間に向けて書かれた言説——その二重性もまた、この項目を貫く言説戦略の一断面として読むことができる。
+### 二類型の区別
 
-¹ PACIFICATION項目における教父引用戦略との対照については [[PACIFICATION]] を参照。教父文献の共通典拠（テルトゥリアヌス、オリゲネス等）はBarker (1941) によって統合的に確認されている。
-² Caveiracの人物・著作・同時代的反応については [[Caveirac_Jean_Novi_de]] を参照。「homme de sang」という表現がProustの典拠分析においていかに機能しているかについては同ノートの「典拠批判」セクションも参照のこと。
-³ INTOLÉRANCE項目とJOURNÉE_DE_LA_SAINT-BARTHÉLEMY項目の呼応構造については [[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]] を参照。両項目はDPV注釈でも相互参照の関係にある。
+| 類型 | 定義 | ディドロの評価 |
+|------|------|---------------|
+| **教会的不寛容** | 自らの宗教以外を偽りと見なし、公言すること | 殉教者を生んだ「英雄主義」として論外 |
+| **市民的不寛容** | 異なる信仰を持つ者と交わりを断ち、暴力的手段で迫害すること | 本項目の批判対象 |
+
+### 市民的不寛容者の五重規定
+
+ディドロは市民的不寛容者を以下の五つのカテゴリーで断罪： ^p0117
+
+1. **méchant homme**（悪人）
+2. **mauvais chrétien**（悪しきキリスト教徒）
+3. **sujet dangereux**（危険な臣民）
+4. **mauvais politique**（悪しき政治家）
+5. **mauvais citoyen**（悪しき市民）
+
+→ [[RÉFUGIÉS]]における「mauvais citoyens」との対応 ^p0118
+
+### 典拠戦略
+
+ディドロは聖書・教父・公会議という**キリスト教内部の権威**を援用して不寛容を批判。これは検閲回避の戦略であると同時に、不寛容者を**彼ら自身の伝統によって**論駁する修辞的戦略である。 ^p0119
+
+### Caveiracとの関連
+
+項目末尾の「l'apologiste de la révocation de l'édit de Nantes」は[[Caveirac_Jean_Novi_de]]を指す。 ^p0120
+
+| 表現 | 指示対象 |
+|------|---------|
+| "l'apologiste de la révocation" | Caveirac『Apologie de Louis XIV』（1758年） |
+| "un homme de sang" | 血に塗れた人間 |
+| "avec lequel il ne fallait pas partager le même toit" | 同じ屋根の下に住むべきでない者 |
+
+この表現は[[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]の結末「ô Dieu, garantis-moi d'habiter avec ses pareils sous un même toit」と呼応する。 ^p0121
+
+---
+
+| 項目 | INTOLÉRANCE | RÉFUGIÉS |
+|------|-------------|----------|
+| 分類 | Morale（道徳） | Hist. mod. politiq.（近代史・政治） |
+| 性格 | 理論的・抽象的 | 具体的・歴史的 |
+| 典拠 | 聖書・教父・公会議 | 経済的損失の数値 |
+| Caveirac言及 | 明示的（注釈で名前） | 暗黙的（「hommes assez aveugles」） |
+| Vandeul写本 | 同一リスト「Définitions」 | 同一リスト「Définitions」 |
+
+両項目はVandeul写本で同一リストに含まれ、**寛容論の理論的基盤（INTOLÉRANCE）と歴史的実例（RÉFUGIÉS）**として相互補完的に読まれるべきである。 ^p0122
+
+---
+
+### テクストの同一性
+
+本項目は、ディドロが弟に宛てた書簡（1760年12月29日付）と**ほぼ同一のテクスト**を含む。 ^p0123
+
+OC第28巻（書簡集）によれば： ^p0124
+
+> « Ici se place la célèbre lettre de Diderot à son frère parue dans la livraison de la CL du 1er janvier 1761, portant à la fin cette date: « Ce 29 décembre 1760 », **dont nous n'avons pas l'autographe et qui ne lui fut pas envoyée** (...) Voir le texte dans DPV, IX, 315-329 (...) ainsi que **le texte presque identique de l'article INTOLÉRANCE** (DPV, VII, 541-546) »
+>
+> — Diderot, *Œuvres complètes*, t. 28 (Correspondance 1741-1760), p. 959
+
+### 重要な事実
+
+| 項目 | 内容 |
+|------|------|
+| 書簡の掲載媒体 | 『文芸通信』1761年1月1日号 |
+| 自筆原稿 | **現存せず** |
+| 弟への発送 | **実際には送られなかった** |
+| 百科全書項目との関係 | **ほぼ同一のテクスト** |
+
+この事実は、INTOLÉRANCE項目がディドロの寛容論の中核的表明であり、書簡という形式を借りた公的発言として理解されるべきことを示す。 ^p0125
+
+---
+
+### Barker研究（1941）
+
+[[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]]による典拠分析： ^p0126
+
+| 典拠種別 | 内容 |
+|---------|------|
+| **一次典拠** | 1760年12月29日付兄宛の手紙（Oeuv., I, 485-490）と同一内容 |
+| **教父引用** | Tertullien, Origène, Saint Jean Chrysostome, Saint Augustin を明示的に列挙 |
+| **関連項目** | COTEREAUX項目（Oeuv., XIV, 235）でも同様の典拠参照 |
+| **INTOLÉRANT項目** | de Jaucourt執筆版にディドロが編集的加筆（Enc., VIII, 844） |
+
+Barkerは**PACIFICATION項目**における関連言及も指摘：
+- 聖バルテルミーの虐殺への言及
+- ナント勅令廃止への批判：「無限の市民と労働者を国家から奪った」 ^p0127
+
+---
+
+### Leca-Tsiomis研究
+
+[[Leca_Diderot_choix_articles_Encyclopedie]]による帰属確認： ^p0128
+
+> 「Intolérance（不寛容）」の記事は、ディドロの不寛容な司祭である兄への手紙とほぼ同一内容であることで特定される
+
+**記事特定の方法論**として、個人的書簡との照合によるディドロ帰属の確定例として重要。 ^p0129
+
+並行例：
+- 「Jouissance」（『家族の父』献辞から）
+- 「Naître」（Sophie Volland宛書簡と『ダランベールの夢』に登場） ^p0130
+
+---
+
+### Proust研究（1985）
+
+[[Proust_protestantisme_Encyclopedie_1985]]による寛容論の文脈分析： ^p0131
+
+**JaucourtのTOLÉRANCE項目**：
+- **編集者検閲により完全に削除**
+- 原文：「神のみが良心の主人である。市民社会は成員の信仰に干渉すべきではない」
+- 削除理由：ローマ教会に対する過度な攻撃性 ^p0132
+
+**典拠系統**：
+- ベール『歴史批判辞典』
+- ブリュッカー『哲学批判史』
+- プロテスタント亡命思想家群（Chaufepié, Basnage等） ^p0133
+
+**意義**：INTOLÉRANCE項目は、削除されたTOLÉRANCE項目の代替として、より巧妙な形で寛容論を展開した可能性がある。 ^p0134
+
+---
+
+### Lough研究（1968）
+
+[[Lough_Essays_Encyclopedie]]による出版史・受容史分析： ^p0135
+
+**TOLÉRANCE項目の確認**：Formeyリスト（Vol. V）においてtolérance項目の存在を確認 ^p0136
+
+**同時代批判の分析**：
+- 『Réflexions』の著者たちは普遍的寛容を「système affreux」（おぞましい体系）と呼んだ
+- Chaumeixは、キリスト教の不寛容が折衷主義哲学者を驚かせたというディドロの記述に激怒 ^p0137
+
+**批判者の論理**：
+> "La Religion Protestante ne doit son établissement, le Déisme ses progrès, qu'à la tolérance civile."
+>
+> （プロテスタント宗教はその確立を、理神論はその進歩を、市民的寛容のみに負っている。） ^p0138
+
+---
+
+### 典拠構造の総合分析
+
+```
+典拠構造:
+┌─────────────────────────────────────────────────────┐
+│ 個人的書簡 → 百科全書項目 への転用パターン          │
+│  └─ 弟宛書簡（1760年12月29日） ≒ INTOLÉRANCE項目   │
+├─────────────────────────────────────────────────────┤
+│ 教父権威の援用（内在的批判）                        │
+│  └─ Tertullien, Origène, Augustin, Chrysostome...  │
+├─────────────────────────────────────────────────────┤
+│ 検閲と削除の層状構造                                │
+│  └─ Jaucourt「TOLÉRANCE」原文 → 完全削除           │
+│  └─ INTOLÉRANCE = 代替的・迂回的寛容論か？         │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -362,11 +559,3 @@ INTOLÉRANCE 項目の標題分類「s. f. *(Morale)*」は、この百科全書
 - [[Lough_Essays_Encyclopedie]] - 出版史・受容史研究
 
 - 項目カード: [[INTOLÉRANCE]]
-
-## 研究ログ
-
-### 260311 作業記録
-- **編集者追加 `###` 小見出し24件を削除**
-  - `## 原文` セクション12件・`## 翻訳` セクション12件の小見出しを除去
-  - Pythonスクリプト（セクション範囲限定正規表現）・3点検証パス
-  - `## 書誌` 配下の `### 一次資料` 等5件は保持確認

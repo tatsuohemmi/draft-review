@@ -17,7 +17,7 @@ related:
   - "[[20260213_18世紀におけるPersiusの受容]]"
 slug: "2026-02-tr-cigue"
 sourceFolder: "2026-02_tr_CIGUE"
-lastCopied: "2026-02-20T06:19:28.143Z"
+lastCopied: "2026-03-11T09:17:10.055Z"
 ---
 
 ## 原文
@@ -875,8 +875,3 @@ Haechler_Encyclopedie_de_Diderot_et_de_Jaucourt_trd2.md
 Ehrard,Lumieres et esclavages
 
 - 項目カード: [[CIGUE]]
-
-## 研究ログ
-
-### 260311 作業記録
-- **`## 注釈` セクション既存確認**（前セッション追加済み）

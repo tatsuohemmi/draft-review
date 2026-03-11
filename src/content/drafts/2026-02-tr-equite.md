@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-equite"
 sourceFolder: "2026-02_tr_ÉQUITÉ"
-lastCopied: "2026-02-20T06:19:28.143Z"
+lastCopied: "2026-03-11T09:17:10.055Z"
 ---
 
 ## 原文
@@ -55,15 +55,24 @@ En effet, ce n'est point des conventions humaines & arbitraires que dépend l'é
 
 Jaucourtによる百科全書項目。衡平（équité）を「各人に正当に属するものを、個々の状況に応じて返す徳」と定義し、正義（justice）との区別を論じる。イングランド大法官裁判所（cour de chancellerie）を衡平の制度的実現として高く評価し、法の一般性と個別事情の乖離を補正する主権者の義務を説く。衡平の究極的根拠を自然法に求め、Montesquieu『ペルシア人の手紙』第81書簡を引用して締めくくる。 ^p0017
 
-本項目の論点構成は以下のとおりである。まず衡平（équité）と正義（justice）の区別として、正義が確立された法・規則に従い賞罰を行うのに対し、衡平は行為の可変的状況を考慮するものとされる。次にイングランド大法官裁判所（cour de chancellerie）が取り上げられ、法の文言の厳格さを緩和し、衡平と良心の規則のみに基づいて判断する制度として紹介される。さらに立法の一般性と個別事情の乖離の問題として、法の一般的表現や人間精神の限界により、立法者が全ての場合を予見できないことへの対処が論じられる。また衡平の権威は自然法（loi naturelle）に由来し、人為的・恣意的な取り決めには依拠しないとされる。最後にMontesquieu『ペルシア人の手紙』書簡81（Usbek à Rhédi）が引用され、衡平の内面的実践が賛美される。 ^p0018
+- 衡平（équité）と正義（justice）の区別：正義は確立された法・規則に従い賞罰を行うのに対し、衡平は行為の可変的状況を考慮する
+- イングランド大法官裁判所（cour de chancellerie）：法の文言の厳格さを緩和し、衡平と良心の規則のみに基づいて判断する制度
+- 立法の一般性と個別事情の乖離：法の一般的表現や人間精神の限界により、立法者が全ての場合を予見できないことへの対処
+- 自然法（loi naturelle）としての衡平：衡平の権威は自然法に由来し、人為的・恣意的な取り決めに依拠しない
+- Montesquieu『ペルシア人の手紙』引用：書簡81（Usbek à Rhédi）における衡平の内面的実践への賛美
+
+- ^p0018
 
 ### 明示的典拠（引用が明確）
 
-明示的に引用される典拠として、Montesquieu, *Lettres persanes*, LXXXI（Usbek à Rhédi）が挙げられる。
+- Montesquieu, *Lettres persanes*, LXXXI（Usbek à Rhédi）
 
 ### 暗黙的典拠（引用が不明確または暗示的）
 
-暗黙的典拠としては、まず **Chambers, Ephraim, *Cyclopaedia*, vol. 1 [A-K], "CHANCERY" (1741)** が ^p0010 に対応する制度論段落の直接典拠であり、"equity and conscience" / "moderate the rigor ... strict letter of the law" 等の定型表現をJaucourtが抽出・仏訳している（1728初版〜1741版で確認、百科全書第5巻（1755）に先行する。URL: https://artflsrv04.uchicago.edu/philologic4.7/chambers_new/navigate/1/0/0/0/0/0/0/0/355?byte=4445139&byte=4445145&byte=4445148 ）。同じく ^p0010 に対応する典拠として、**Jacob, Giles, *A New Law-Dictionary*, "CHANCERY" (1729)** があり、Chambersと同一の定型表現（"Rules of Equity and Conscience" / "moderates the Rigour of the Common Law" / "Words of the Law"）を含む英国法律辞典であって、18世紀前半の標準的定義であったことの補強証拠となる。さらに古典的源流として、Cicéron, *De Officiis* がéquité/justiceの区別および共通善（bien commun）概念の源流に位置づけられ、Aristotle, *Ethica Nicomachea*, V, 10 がἐπιείκεια（epieikeia）概念すなわち法の一般性と個別事情の乖離への古典的議論を提供している。
+- **Chambers, Ephraim, *Cyclopaedia*, vol. 1 [A-K], "CHANCERY" (1741)** — ^p0010 に対応。制度論段落の直接典拠。"equity and conscience" / "moderate the rigor ... strict letter of the law" 等の定型表現をJaucourtが抽出・仏訳。1728初版〜1741版で確認、百科全書第5巻（1755）に先行。URL: https://artflsrv04.uchicago.edu/philologic4.7/chambers_new/navigate/1/0/0/0/0/0/0/0/355?byte=4445139&byte=4445145&byte=4445148
+- **Jacob, Giles, *A New Law-Dictionary*, "CHANCERY" (1729)** — ^p0010 に対応。Chambersと同一の定型表現（"Rules of Equity and Conscience" / "moderates the Rigour of the Common Law" / "Words of the Law"）を含む英国法律辞典。18世紀前半の標準的定義であったことの補強証拠。
+- Cicéron, *De Officiis* — équité/justiceの区別、共通善（bien commun）概念の源流
+- Aristotle, *Ethica Nicomachea*, V, 10 — ἐπιείκεια（epieikeia）概念。法の一般性と個別事情の乖離への古典的議論
 
 ## 書誌
 
@@ -105,5 +114,9 @@ Jaucourtによる百科全書項目。衡平（équité）を「各人に正当�
 - [[f船田_ローマ法_1_orgtxt|船田『ローマ法』OCR]] — L3467: ギリシャの自然法・公平思想のローマへの影響 / L3611: キケロ万民法論 / L3629: アリストテレスepieikeia→キケロ自然法理論の接合
 - [岩田靖夫『アリストテレスの倫理思想』](obsidian://open?vault=Obs_Recmd&file=02_Antiquity%2FGreek%2FAristote%2Fi%E5%B2%A9%E7%94%B0_%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E5%80%AB%E7%90%86%E6%80%9D%E6%83%B3) — L5689: エピエイケイア＝「愛の別名」/ L5687: 法に勝る正義 / L5743:「怒るべきことに怒る」＝エピエイケースの定式 / L4039: エピエイケイア＝同情心（syngnômê）/ L5887: エピエイケイア≒仁（比較哲学的知見）/ L5757: エピエイケース＝ヌースをもっとも尊重する人
 - [岩田靖夫『アリストテレスの政治思想』](obsidian://open?vault=Obs_Recmd&file=02_Antiquity%2FGreek%2FAristote%2Fi%E5%B2%A9%E7%94%B0_%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3_orgtxt) — L425: 法に勝る正義としてのエピエイケイア（NE V, 10解説）/ L1021: 優れた人(epieikés)と農民デモクラシー / L2563: 独裁者によるepieikeis攻撃（善い人々は不正を受け入れない） / L3521: 善美の人(epieikés)とムーシケー教育
+
+### Conspiratio系譜との接点
+- [[260201_DN_Conspiratio_concordance]] — DROIT NATUREL §IX「équité est à justice comme cause à effet」対照行
+- [[260222_Diderot_Textes_Primaires_Conspiratio_VG]] — DN §IX 一次テクスト
 
 - 項目カード: [[ÉQUITÉ]]

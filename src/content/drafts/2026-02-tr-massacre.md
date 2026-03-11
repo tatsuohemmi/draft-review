@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-massacre"
 sourceFolder: "2026-02_tr_MASSACRE"
-lastCopied: "2026-02-20T06:19:28.143Z"
+lastCopied: "2026-03-11T09:17:10.055Z"
 ---
 
 ## 原文
@@ -27,14 +27,51 @@ MASSACRE（男性名詞）（文法）¹無防備な状態に追い込まれた�
 
 ## 注釈
 
-MASSACRE 項目は「文法（Gramm.）」という標題分類のもとに置かれている。この分類が指定するのは、語義の記述・品詞の確認・用例の列挙という中立的な辞典的手続きである。しかしディドロはその手続きの中に、語義の例示として「サン・バルテルミの虐殺は、それを勧告した者たち、許可した者たち、実行した者たち、そしてその後あえてその弁護を行った不名誉な男にとっての、永遠の汚名である（Le massacre de la saint Barthélemi, l'opprobre éternel de ceux qui le conseillerent, de ceux qui le permirent, de ceux qui l'exécuterent, & de l'homme infâme qui a osé depuis en faire l'apologie）」という一文を埋め込んでいる。文法項目というジャンルの慣習が要求するのは語義の確認であるが、ディドロはその形式を利用して道徳的断罪を実行する。これは「ジャンル偽装（déguisement générique）」の典型的な事例であり、INDIGNATION 項目や MASSACRE 項目を貫く編纂者の言説的実践の核心を示している。
+### 歴史的文脈
 
-「永遠の汚名（opprobre éternel）」という時間的絶対化は、JOURNÉE DE LA SAINT-BARTHÉLEMY 項目の「永遠に忌まわしい日（à jamais exécrable）」という表現と平行している。両項目に共通するこの「永遠性」への訴えは、一時的な政治的批判を超えた道徳的断罪の宣言として機能する。しかし MASSACRE 項目の記述が JOURNÉE 項目と異なるのは、責任の連鎖をより明示的に構造化している点である。勧告者・許可者・実行者という三者の区別は、虐殺の責任を命令した者のみに限定せず、それを許可し、執行した者すべてに及ぼす。さらに「弁護者（apologiste）」という第四の責任者を加えることで、歴史的事件への事後的な正当化もまた道徳的連累に含める。この第四のカテゴリーは、Caveirac の『ルイ14世弁護論』（1758年）を念頭に置いたものと解釈されており、過去の暴力の現在的な正当化を批判の対象に組み込む論理として機能している。¹
+MASSACRE項目は、定義部分で直ちにサン・バルテルミ虐殺（1572年）を引き合いに出し、プロテスタント迫害への批判的立場を明確にしている。項目の構成自体が思想的立場の表明である。 ^p0003
 
-用例として続けて挙げられる「幼児の虐殺（Le massacre des Innocens）」という聖書的典拠も、単なる例示にとどまらない。ヘロデによる幼児虐殺（マタイ2:16-18）への暗示は、プロテスタント迫害を聖書が断罪する蛮行と同列に置くことで、カトリック王権による宗教的暴力を内在的な宗教論理によって否定するという構造を生む。Duflo（2025）が指摘するように、MASSACRE 項目は DRAGONADE、JOURNÉE DE LA SAINT-BARTHÉLEMY、PERSÉCUTER、INTOLÉRANCE、RÉFUGIÉS という一連の項目群と思想的ネットワークを形成しており、これら各項目が互いに相互参照（renvoi）によって結ばれた概念的網目を構成している。文法項目という無害な外観のもとに、この網目の一つの結節点として機能するのが MASSACRE 項目の言説的位置である。²
+### 批判的特徴
 
-¹ Caveirac の著作と批判については [[Caveirac_Jean_Novi_de]] 参照。
-² 項目ネットワークの全体像については [[260121_Duflo_REFUGIES_Encyclopedie_2025]] 参照。
+1. **サン・バルテルミ虐殺への非難**
+   - 「opprobre éternel（永遠の汚名）」という強烈な表現
+   - 勧告者、許可者、実行者、擁護者（Caveiracを暗指？）の四者を明確に非難
+
+2. **擁護者への言及**
+   - 「l'homme infâme qui a osé depuis en faire l'apologie」
+   - 1750年代寛容論争の文脈で、Caveirac『Apologie de Louis XIV』(1758)を間接的に批判している可能性
+   - INTOLÉRANCE項目「l'apologiste de la révocation」との関連性
+
+3. **聖書的参照**
+   - 「Le massacre des Innocens（幼児虐殺）」：ヘロデの幼児虐殺（マタイ2:16-18）を暗示
+   - プロテスタント迫害を聖書的蛮行と位置づける
+
+### 項目ネットワーク（Duflo 2025に基づく）
+
+MASSACREは以下の項目群と思想的ネットワークを形成： ^p0004
+
+**ルイ14世プロテスタント迫害批判項目群：**
+- [[DRAGONADE]]（竜騎兵による強制改宗）
+- [[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]]（サン・バルテルミの日）
+- [[MASSACRE]]（虐殺）← 本項目
+- [[PACIFICATION]]（平定）
+- [[PERSÉCUTER, PERSÉCUTEUR, & PERSÉCUTION]]（迫害）
+- [[VINGTIÈME]]（20分の1税） ^p0005
+
+**宗教的寛容擁護項目群：**
+- [[INTOLÉRANCE]]（不寛容）
+- [[TOLÉRANCE]]（寛容）
+- [[ZÉLE de religion]]（宗教的熱狂）
+- [[FANATISME]]（狂信） ^p0006
+
+### 用語・概念分析
+
+| 用語 | 意味・含意 |
+|------|-----------|
+| impitoyablement | 無慈悲に、容赦なく |
+| sans défense | 無防備（殺害者の優位性を強調） |
+| opprobre éternel | 永遠の汚名（道徳的断罪） |
+| faire l'apologie | 擁護する、弁明する（Caveirac批判） |
 
 ---
 
@@ -63,11 +100,3 @@ MASSACRE 項目は「文法（Gramm.）」という標題分類のもとに置�
 - Leca-Tsiomis, Maria (1999) *Écrire l'Encyclopédie, Diderot: l'art de composer*
 
 - 項目カード: [[MASSACRE]]
-
-## 研究ログ
-
-### 260311 作業記録
-- **`## 注釈` セクション生成・挿入**（`/encyclopedie-annotation` スキル）
-  - MASSACRE（虐殺・宗教的暴力）
-  - 編纂者の言説的実践・思想史的文脈を散文で詳解
-  - commit: `49a9661a07`

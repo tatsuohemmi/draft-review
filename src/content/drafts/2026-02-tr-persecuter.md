@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-persecuter"
 sourceFolder: "2026-02_tr_PERSÉCUTER"
-lastCopied: "2026-02-20T06:19:28.143Z"
+lastCopied: "2026-03-11T09:17:10.055Z"
 ---
 
 ## 原文
@@ -157,17 +157,11 @@ Lactance a fait un traité de la mort des persécuteurs , qui a été long-tems 
 
 ## 注釈
 
-PERSÉCUTER / PERSÉCUTEUR / PERSÉCUTION 項目は「自然法・政治・道徳（Droit naturel, Politique & Morale）」という三重の標題分類のもとに置かれている。この複合的な配置は、宗教的迫害への批判を単一の論拠から展開するのではなく、三つの異なる評価軸——自然法的正当性、政治的功利性、道徳的適切性——の同時的否定として構成するという戦略的選択を反映している。これはジュクール執筆の DRAGONADE 項目が採用した「良き政治の目的に反する、かつ宗教の道徳にも反する」という二重否定の論理を、より精緻に展開したものとして読むことができる。
+「迫害する」「迫害者」「迫害」に関する百科全書項目。ディドロ執筆。宗教的迫害を批判する一連の項目の一つ。 ^p0069
 
-テクストの第一部（ディドロ執筆と目される前半）が展開する歴史的議論の核心は、迫害の循環という逆説にある。「真理の側の人々も福音と理性が命じる節度を忘れ、かつての抑圧者に向けて正当に非難したのと同じ過ちにしばしば身を委ねた（les partisans de la vérité, oubliant la modération que prescrit l'évangile & la raison, se sont souvent abandonnés aux mêmes excès qu'ils avoient justement reprochés à leurs oppresseurs）」という観察は、迫害を宗派間の力関係の非対称性ではなく、権力の論理そのものの帰結として分析する。被迫害者が迫害者となるこの循環は、迫害を「偽りの信仰熱（faux zèle）」と「利己的な政略（politique intéressée）」の産物として同定することで、その宗教的正当化を解体する。¹
-
-政治的論拠として展開されるフィリップ2世の事例は、迫害の政治的無益性の証明として機能する。「父祖の宗教を捨て改革を受け入れたという理由で五万三千人の臣民を犠牲にした」結果として、ネーデルラント諸州を永遠に失ったという事実の提示は、迫害を道徳的に悪いとしてではなく、政治的に愚かなものとして告発する。「迫害は改宗者を生まず偽善者を生む（la persécution fait des hypocrites & jamais des prosélytes）」という定式は、迫害の効果論的評価の核心をなす。この論法は功利主義的道徳論の先行形として位置づけられると同時に、政治的実用性への訴えという啓蒙主義的修辞の典型例でもある。²
-
-サン・バルテルミ虐殺への言及もこの文脈で機能する。「背信と最も残酷な野蛮さが結びついた（la fatale journée de la S. Barthélemi, où l'on joignit la perfidie à la barbarie la plus cruelle）」という評価は、JOURNÉE DE LA SAINT-BARTHÉLEMY 項目の直接的な批判と呼応する。しかし PERSÉCUTER 項目において虐殺言及が置かれるのは、個別の感情的告発としてではなく、フィリップ2世の事例に続く歴史的証拠の積み上げの一部としてである。この積み上げの論法は、項目末尾の二十六の迫害リスト（歴史的証拠の蓄積）へと接続する。神学的付論として付け加えられたこのリストは、迫害が宗教的逸脱ではなくキリスト教史の継続的な特徴であることを示す。³
-
-¹ DRAGONADE 項目との比較については [[DRAGONADE]] 参照。
-² 迫害批判の政治論的展開については [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]] 参照。
-³ INTOLÉRANCE 項目との概念的連動については [[INTOLÉRANCE]] 参照。
+- 迫害（persécution）の定義と批判
+- 宗教的不寛容への批判
+- 狂信（fanatisme）との関連
 
 ## 書誌
 
@@ -181,11 +175,3 @@ PERSÉCUTER / PERSÉCUTEUR / PERSÉCUTION 項目は「自然法・政治・道�
 - [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v12-449-0/)
 
 - 項目カード: [[PERSÉCUTER, PERSÉCUTEUR, & PERSÉCUTION]]
-
-## 研究ログ
-
-### 260311 作業記録
-- **`## 注釈` セクション生成・挿入**（`/encyclopedie-annotation` スキル）
-  - PERSÉCUTER / PERSÉCUTEUR / PERSÉCUTION（自然法・政治・道徳）
-  - 編纂者の言説的実践・思想史的文脈を散文で詳解
-  - commit: `49a9661a07`
