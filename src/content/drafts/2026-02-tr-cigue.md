@@ -17,7 +17,7 @@ related:
   - "[[20260213_18世紀におけるPersiusの受容]]"
 slug: "2026-02-tr-cigue"
 sourceFolder: "2026-02_tr_CIGUE"
-lastCopied: "2026-03-11T09:17:10.055Z"
+lastCopied: "2026-03-11T13:08:34.858Z"
 ---
 
 ## 原文

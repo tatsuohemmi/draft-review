@@ -44,7 +44,7 @@ function parseFrontmatter(content) {
  * Check whether the body contains at least one Obsidian paragraph ID (`^pNNNN`).
  */
 function hasParagraphIds(body) {
-  return /\^p\d{4}/.test(body);
+  return /\^[pn]\d{4}/.test(body);
 }
 
 /**

@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-pacification"
 sourceFolder: "2026-02_tr_PACIFICATION"
-lastCopied: "2026-03-11T09:17:10.055Z"
+lastCopied: "2026-03-11T13:08:34.858Z"
 ---
 
 ## 原文
@@ -81,9 +81,9 @@ PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と�
    - 「c'est ce que Bayle démontre sans réplique dans ses lettres critiques sur l'histoire du Calvinisme」
    - 本項目唯一の学術的権威引用。プロテスタントに対する条約・勅令の信義違反を論証する根拠として援用
 
-   **ベール原文の対応箇所**（[[Bayle_補巻_宗教改革史論_本文_ocr|日本語訳]] 「新たなる手紙」第II〜VI節、原書pp. 253-260）:
+   **ベール原文の対応箇所**（[[Bayle_補巻_宗教改革史論_本文_ocr|日本語訳]] 「新たなる手紙」第II〜VI節、原書pp. 253-260）: ^n0001
 
-   ディドロの「on viola à l'égard des Protestans, la foi des traités & des édits donnés & confirmés par tant de rois」に対応するベールの論証は5段の構成をなす:
+   ディドロの「on viola à l'égard des Protestans, la foi des traités & des édits donnés & confirmés par tant de rois」に対応するベールの論証は5段の構成をなす: ^n0002
 
    1. **国王の信義・約束の侵害**（原書p. 253）: 「ユグノーに対してあれほど何度も御自身の手を縛った国王の信義・約束が、ユグノーを救ってくれるべきではないでしょうか」→ 国益を理由に誓約を破ることへの批判
    2. **道徳的原則の優先**（p. 255）: 「約束を破り誓約の信義を踏みにじるという恐ろしい罪悪に落ち込む（中略）信義というのはわれわれにとって世界一神聖たるべきもの」→ 政治的便宜が良心を腐敗させるという論証
@@ -93,7 +93,7 @@ PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と�
 
 ### 暗黙的典拠（références implicites）
 
-本項目にはBayle以外の明示的な典拠引用がないが、以下の論点について二次文献および関連項目との照合により典拠系統を推定できる。
+本項目にはBayle以外の明示的な典拠引用がないが、以下の論点について二次文献および関連項目との照合により典拠系統を推定できる。 ^n0003
 
 #### 1. 初期キリスト教の非暴力と良心の自由
 
@@ -127,11 +127,11 @@ PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と�
 
 ### Schwab再構築テキスト — 検閲前（マレ原稿）の復元
 
-出典: Schwab, "The Diderot Problem" Part II, *Eighteenth-Century Studies* 3:4 (1970), pp. 436-437。UCリバーサイド所蔵本等から未改訂刷り（cancel前の差し替え頁）を発見し復元。Gordon & Torrey (1947) にはPACIFICATION非収録（同書は校正刷り上の黒インク検閲のみが対象であり、カルトン差し替えによる検閲は範囲外）。
+出典: Schwab, "The Diderot Problem" Part II, *Eighteenth-Century Studies* 3:4 (1970), pp. 436-437。UCリバーサイド所蔵本等から未改訂刷り（cancel前の差し替え頁）を発見し復元。Gordon & Torrey (1947) にはPACIFICATION非収録（同書は校正刷り上の黒インク検閲のみが対象であり、カルトン差し替えによる検閲は範囲外）。 ^n0004
 
 #### 編集の性格 — 「逆方向の検閲」
 
-Schwabが発見した全カルトン差し替え中、**唯一の例外的ケース**: 差し替え後のテキスト（刊行版＝ディドロ改訂版）の方が差し替え前（マレ原稿）よりも**より過激で論争的**。通常のル・ブルトン検閲とは逆方向の編集。
+Schwabが発見した全カルトン差し替え中、**唯一の例外的ケース**: 差し替え後のテキスト（刊行版＝ディドロ改訂版）の方が差し替え前（マレ原稿）よりも**より過激で論争的**。通常のル・ブルトン検閲とは逆方向の編集。 ^n0005
 
 - マレ神父の原稿にはナント勅令廃止を弁護する議論が含まれていた
 - ディドロはこれを**完全に削除**し、逆に廃止を**批判**する内容（現行の刊行版テキスト）に書き換えた
@@ -140,7 +140,7 @@ Schwabが発見した全カルトン差し替え中、**唯一の例外的ケー
 
 #### 検閲前テキスト（マレ原稿）— ナント勅令廃止弁護論
 
-p. 736b末尾段落以降の全体が改訂され、p. 737aの最後の短い2段落のみが保持された。以下はディドロが完全に削除したマレの弁護論:
+p. 736b末尾段落以降の全体が改訂され、p. 737aの最後の短い2段落のみが保持された。以下はディドロが完全に削除したマレの弁護論: ^n0006
 
 > On ne nous accusera pas sans doute d'avoir exagéré les circonstances critiques où furent obtenus ces différens édits de pacification. Pour peu qu'on consulte les historiens, on verra qu'ils furent tous extorqués par l'esprit de révolte, même sans en excepter celui de Nantes, contre la suppression duquel les Calvinistes ont tant déclamé.
 >
@@ -153,21 +153,21 @@ p. 736b末尾段落以降の全体が改訂され、p. 737aの最後の短い2�
 3. **追認の暫定性**: ルイ13世・14世による追認は少数派時代の状況的措置にすぎない
 4. **国王の全権**: 勅令は暫定的（*provisionnels*）であり、国王はいつでも撤回可能
 
-末尾の「初期キリスト教徒」言及は、ディドロ改訂版の同一トポスと正反対の論理で使用: マレは「キリスト教徒は武力に訴えなかった→カルヴァン派の武力闘争は不当」と主張。ディドロは「キリスト教徒は祝福しながら死んだ→宗教的寛容が自然」と書き換えた。
+末尾の「初期キリスト教徒」言及は、ディドロ改訂版の同一トポスと正反対の論理で使用: マレは「キリスト教徒は武力に訴えなかった→カルヴァン派の武力闘争は不当」と主張。ディドロは「キリスト教徒は祝福しながら死んだ→宗教的寛容が自然」と書き換えた。 ^n0007
 
 #### PACIFIQUE項目との連関
 
 隣接項目PACIFIQUE (XI, 737a) でディドロはマレを直接批判:
 - **改訂前**: "Voilà un titre auquel **l'auteur de l'art. PACIFICATION**, doit renoncer."（PACIFICATIONの著者はこの称号を放棄すべきだ）
-- **改訂後**: "Voilà un titre auquel **l'auteur de l'apologie de la révocation de l'édit de Nantes** doit renoncer."（ナント勅令廃止の弁護論の著者は…）
+- **改訂後**: "Voilà un titre auquel **l'auteur de l'apologie de la révocation de l'édit de Nantes** doit renoncer."（ナント勅令廃止の弁護論の著者は…） ^n0008
 
-改訂前はマレを名指し、改訂後は匿名化しつつ「勅令廃止弁護」という内容で特定。マレ原稿の削除後もこの批判を残したことは、ディドロの編集意図の一貫性を示す。
+改訂前はマレを名指し、改訂後は匿名化しつつ「勅令廃止弁護」という内容で特定。マレ原稿の削除後もこの批判を残したことは、ディドロの編集意図の一貫性を示す。 ^n0009
 
 ### Duflo 2025の位置づけ
 
-Duflo「L'article RÉFUGIÉS de l'Encyclopédie」(2025) はPACIFICATIONを「ルイ14世プロテスタント迫害批判項目群」（articles qui expriment sans ambiguïté une condamnation de la politique de persécution）として複数回列挙し、項目表では「匿名」と記載。しかしSchwab (1970) によるマレ原稿復元・ル・ブルトン検閲（カルトン差し替え）の発見には一切言及していない。Malletの原著者帰属にも触れず、Proust (1965, 1972) のPACIFICATION固有の帰属・検閲分析も参照されていない。
+Duflo「L'article RÉFUGIÉS de l'Encyclopédie」(2025) はPACIFICATIONを「ルイ14世プロテスタント迫害批判項目群」（articles qui expriment sans ambiguïté une condamnation de la politique de persécution）として複数回列挙し、項目表では「匿名」と記載。しかしSchwab (1970) によるマレ原稿復元・ル・ブルトン検閲（カルトン差し替え）の発見には一切言及していない。Malletの原著者帰属にも触れず、Proust (1965, 1972) のPACIFICATION固有の帰属・検閲分析も参照されていない。 ^n0010
 
-Dufloの関心はRÉFUGIÉS中心のネットワーク分析であり、個別項目の著者帰属・検閲史には踏み込まない方法論的選択（論文の射程外）と解釈できる。なおSchwabの発見はDufloのテーゼを弱めるどころか強化する材料である: ディドロはマレの廃止弁護原稿を意図的に削除・改訂して迫害批判に反転させており、「迫害批判項目群」構築への強い編集意志を裏付ける。
+Dufloの関心はRÉFUGIÉS中心のネットワーク分析であり、個別項目の著者帰属・検閲史には踏み込まない方法論的選択（論文の射程外）と解釈できる。なおSchwabの発見はDufloのテーゼを弱めるどころか強化する材料である: ディドロはマレの廃止弁護原稿を意図的に削除・改訂して迫害批判に反転させており、「迫害批判項目群」構築への強い編集意志を裏付ける。 ^n0011
 
 ## 書誌
 

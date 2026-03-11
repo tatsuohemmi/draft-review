@@ -46,7 +46,7 @@ function applyBlockId(paragraphNode) {
   if (last.type !== 'text') return;
 
   // Match ` ^pNNNN` only at the very end of the text value.
-  const match = last.value.match(/ \^(p\d{4})$/);
+  const match = last.value.match(/ \^([a-z]\d{4})$/);
   if (!match) return;
 
   const id = match[1]; // e.g. "p0001"
