@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-pacification"
 sourceFolder: "2026-02_tr_PACIFICATION"
-lastCopied: "2026-03-11T13:08:34.858Z"
+lastCopied: "2026-03-11T13:32:34.641Z"
 ---
 
 ## 原文
