@@ -10,25 +10,25 @@ tags:
   - draft
 slug: "2026-02-tr-refugies"
 sourceFolder: "2026-02_tr_RÉFUGIÉS"
-lastCopied: "2026-03-11T13:32:34.641Z"
+lastCopied: "2026-03-11T14:24:39.952Z"
 ---
 
 ## 原文
 
-[1] **RÉFUGIÉS**, (_Hist. mod. politiq._) C'est ainsi que l'on nomme les Protestans françois que la révocation de l'édit de Nantes a forcés de sortir de France, & de chercher un asyle dans les pays étrangers, afin de se soustraire aux persécutions qu'un zele aveugle & inconsidéré leur faisoit éprouver dans leur patrie. Depuis ce tems, la France s'est vûe privée d'un grand nombre de citoyens qui ont porté à ses ennemis des arts, des talens, & des ressources dont ils ont souvent usé contre elle. Il n'est point de bon françois qui ne gémisse depuis long-tems de la plaie profonde causée au royaume par la perte de tant de sujets utiles. Cependant, à la honte de notre siecle, il s'est trouvé de nos jours des hommes assez aveugles ou assez impudens pour justifier aux yeux de la politique & de la raison, la plus funeste démarche qu'ait jamais pu entreprendre le conseil d'un souverain. Louis XIV. en persécutant les Protestans, a privé son royaume de près d'un million d'hommes industrieux qu'il a sacrifiés aux vûes intéressées & ambitieuses de quelques mauvais citoyens, qui sont les ennemis de toute liberté de penser, parce qu'ils ne peuvent régner qu'à l'ombre de l'ignorance. L'esprit persécuteur devroit être réprimé par tout gouvernement éclairé : si l'on punissoit les perturbateurs qui veulent sans cesse troubler les consciences de leurs concitoyens lorsqu'ils different dans leurs opinions, on verroit toutes les sectes vivre dans une parfaite harmonie, & fournir à-l'envi des citoyens utiles à la patrie, & fideles à leur prince. ^p0001
+¶1. [1] **RÉFUGIÉS**, (_Hist. mod. politiq._) C'est ainsi que l'on nomme les Protestans françois que la révocation de l'édit de Nantes a forcés de sortir de France, & de chercher un asyle dans les pays étrangers, afin de se soustraire aux persécutions qu'un zele aveugle & inconsidéré leur faisoit éprouver dans leur patrie. Depuis ce tems, la France s'est vûe privée d'un grand nombre de citoyens qui ont porté à ses ennemis des arts, des talens, & des ressources dont ils ont souvent usé contre elle. Il n'est point de bon françois qui ne gémisse depuis long-tems de la plaie profonde causée au royaume par la perte de tant de sujets utiles. Cependant, à la honte de notre siecle, il s'est trouvé de nos jours des hommes assez aveugles ou assez impudens pour justifier aux yeux de la politique & de la raison, la plus funeste démarche qu'ait jamais pu entreprendre le conseil d'un souverain. Louis XIV. en persécutant les Protestans, a privé son royaume de près d'un million d'hommes industrieux qu'il a sacrifiés aux vûes intéressées & ambitieuses de quelques mauvais citoyens, qui sont les ennemis de toute liberté de penser, parce qu'ils ne peuvent régner qu'à l'ombre de l'ignorance. L'esprit persécuteur devroit être réprimé par tout gouvernement éclairé : si l'on punissoit les perturbateurs qui veulent sans cesse troubler les consciences de leurs concitoyens lorsqu'ils different dans leurs opinions, on verroit toutes les sectes vivre dans une parfaite harmonie, & fournir à-l'envi des citoyens utiles à la patrie, & fideles à leur prince. ^p0001
 
-[2] Quelle idée prendre de l'humanité & de la religion des partisans de l'intolérance ? Ceux qui croient que la violence peut ébranler la foi des autres, donnent une opinion bien méprisable de leurs sentimens & de leur propre constance. _Voyez_ **Persécution** _&_ **Tolérance**. ^p0002
+¶2. [2] Quelle idée prendre de l'humanité & de la religion des partisans de l'intolérance ? Ceux qui croient que la violence peut ébranler la foi des autres, donnent une opinion bien méprisable de leurs sentimens & de leur propre constance. _Voyez_ **Persécution** _&_ **Tolérance**. ^p0002
 
----
+¶3. ---
 _Source: Encyclopédie, Tome 13, p. 907_
 _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v14-188-0/) | [Wikisource](https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RÉFUGIÉS)_ ^p0003
 
 ## 翻訳
 
-[1] **亡命者**（近代史・政治）ナント勅令の廃止によってフランスを離れ、祖国で盲目的かつ無分別な熱狂(zèle)のために受けていた迫害から逃れるために外国に庇護を求めることを余儀なくされたフランスのプロテスタントをこう呼ぶ。この時以来、フランスは多くの市民を失い、彼らはフランスの敵国に技芸、才能、資源をもたらし、それらはしばしばフランスに対して用いられてきた。これほど多くの有用な臣民を失ったことで王国に生じた深い傷を嘆かない善良なフランス人はいない。しかしながら、我々の時代の恥辱として、今日、政治と理性の観点から見て、君主の評議会(le conseil)がかつて企てた最も忌まわしい措置(la plus funeste démarche qu'ait jamais pu entreprendre le conseil d'un souverain)を正当化するほど盲目的あるいは厚顔無恥な人々が現れている[^note1]。ルイ14世はプロテスタントを迫害することにより、王国から100万人近い勤勉な人々を奪い、彼らを一部の悪しき市民の利己的で野心的な目論見の犠牲にした。そうした悪しき市民(mauvais citoyens)は、無知の陰でしか支配できないがゆえに、あらゆる思考の自由の敵(les ennemis de toute liberté de penser)なのである。迫害の精神はあらゆる啓蒙された政府によって抑制されるべきである。もし意見が異なるときに同胞市民の良心を絶えず乱そうとする擾乱者(les perturbateurs qui veulent sans cesse troubler les consciences de leurs concitoyens lorsqu'ils different dans leurs opinions)を処罰するならば、すべての宗派が完全な調和のうちに暮らし、競って祖国に有用で君主に忠実な市民を輩出するのを見ることになるだろう。
+¶1. [1] **亡命者**（近代史・政治）ナント勅令の廃止によってフランスを離れ、祖国で盲目的かつ無分別な熱狂(zèle)のために受けていた迫害から逃れるために外国に庇護を求めることを余儀なくされたフランスのプロテスタントをこう呼ぶ。この時以来、フランスは多くの市民を失い、彼らはフランスの敵国に技芸、才能、資源をもたらし、それらはしばしばフランスに対して用いられてきた。これほど多くの有用な臣民を失ったことで王国に生じた深い傷を嘆かない善良なフランス人はいない。しかしながら、我々の時代の恥辱として、今日、政治と理性の観点から見て、君主の評議会(le conseil)がかつて企てた最も忌まわしい措置(la plus funeste démarche qu'ait jamais pu entreprendre le conseil d'un souverain)を正当化するほど盲目的あるいは厚顔無恥な人々が現れている[^note1]。ルイ14世はプロテスタントを迫害することにより、王国から100万人近い勤勉な人々を奪い、彼らを一部の悪しき市民の利己的で野心的な目論見の犠牲にした。そうした悪しき市民(mauvais citoyens)は、無知の陰でしか支配できないがゆえに、あらゆる思考の自由の敵(les ennemis de toute liberté de penser)なのである。迫害の精神はあらゆる啓蒙された政府によって抑制されるべきである。もし意見が異なるときに同胞市民の良心を絶えず乱そうとする擾乱者(les perturbateurs qui veulent sans cesse troubler les consciences de leurs concitoyens lorsqu'ils different dans leurs opinions)を処罰するならば、すべての宗派が完全な調和のうちに暮らし、競って祖国に有用で君主に忠実な市民を輩出するのを見ることになるだろう。
 [^note1]: ここでディドロは、Ancien Régimeにおける「君主の評議会」（le conseil d'un souverain）の制度的性格を踏まえつつ、啓蒙思想的理想と実際の制度的欠陥との対比を鋭く示している。詳細は本文「『le conseil d'un souverain』の制度史的意味」を参照。 ^p0004
 
-[2] 不寛容の支持者たちの人間性と宗教についてどのような考えを抱くべきだろうか。暴力が他者の信仰を揺るがしうると信じる者たちは、自らの感情と自らの不動の信念(constance)について実に軽蔑すべき評価を与えている。**迫害**および**寛容**の項目を参照せよ。 ^p0005
+¶2. [2] 不寛容の支持者たちの人間性と宗教についてどのような考えを抱くべきだろうか。暴力が他者の信仰を揺るがしうると信じる者たちは、自らの感情と自らの不動の信念(constance)について実に軽蔑すべき評価を与えている。**迫害**および**寛容**の項目を参照せよ。 ^p0005
 
 ---
 

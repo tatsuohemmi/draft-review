@@ -10,23 +10,23 @@ tags:
   - draft
 slug: "2026-02-tr-journee-de-la-saint-barthelemy"
 sourceFolder: "2026-02_tr_JOURNÉE_DE_LA_SAINT-BARTHÉLEMY"
-lastCopied: "2026-03-11T13:32:34.641Z"
+lastCopied: "2026-03-11T14:24:39.952Z"
 ---
 
 ## 原文
 
-**DPV（Diderot Œuvres complètes）第7巻、p. 579-580** ^p0001
+¶1. **DPV（Diderot Œuvres complètes）第7巻、p. 579-580** ^p0001
 
 > \* JOURNÉE de la saint Barthélemy *(Hist. mod.)*. C'est cette journée à jamais exécrable, dont le crime inouï dans le reste des annales du monde, tramé, médité, préparé pendant deux années entières, se consomma dans la capitale de ce royaume, dans la plupart de nos grandes villes, dans le palais même de nos rois, le 24 août 1572, par le massacre de plusieurs milliers d'hommes.... Je n'ai pas la force d'en dire davantage. Lorsque Agamemnon vit entrer sa fille dans la forêt où elle devait être immolée, il se couvrit le visage du pan de sa robe....Un homme a osé de nos jours entreprendre l'apologie de cette journée¹. Lecteur, devine quel fut l'état de cet homme de sang ; & si son ouvrage te tombe jamais sous la main, dis à Dieu avec moi : ô Dieu, garantis-moi d'habiter avec ses pareils sous un même toit.
 
-**DPV注釈**：
+¶2. **DPV注釈**：
 > 1. Sur l'auteur, l'abbé de Caveyrac, voir la note 3 à l'article INTOLÉRANCE. Sa Dissertation sur la journée de la Saint-Barthélemy avait été publiée en 1758 avec son Apologie de Louis XIV. ^p0002
 
 ---
 
 ## 翻訳
 
-**聖バルテルミの日**（近代史）。これは永遠に忌まわしい日であり、世界の年代記の他のどこにも前例のない犯罪が、丸二年間にわたって企てられ、熟慮され、準備された末に、この王国の首都で、我々の大都市のほとんどで、我々の王たちの宮殿そのものにおいて、1572年8月24日に数千人の虐殺によって完遂された……。私にはこれ以上語る力がない。アガメムノンは、生贄として捧げられるべき娘が森に入るのを見たとき、衣の裾で顔を覆った……*1。**ある男が今日、あえてこの日の弁護を企てた**¹。読者よ、この血に塗れた人間の身分が何であったか推測せよ。そしてもし彼の著作がいつか君の手に落ちることがあれば、私とともに神に言え：「おお神よ、私が彼のような者と同じ屋根の下に住むことのないようにしてください」と。 ^p0003
+¶1. **聖バルテルミの日**（近代史）。これは永遠に忌まわしい日であり、世界の年代記の他のどこにも前例のない犯罪が、丸二年間にわたって企てられ、熟慮され、準備された末に、この王国の首都で、我々の大都市のほとんどで、我々の王たちの宮殿そのものにおいて、1572年8月24日に数千人の虐殺によって完遂された……。私にはこれ以上語る力がない。アガメムノンは、生贄として捧げられるべき娘が森に入るのを見たとき、衣の裾で顔を覆った……*1。**ある男が今日、あえてこの日の弁護を企てた**¹。読者よ、この血に塗れた人間の身分が何であったか推測せよ。そしてもし彼の著作がいつか君の手に落ちることがあれば、私とともに神に言え：「おお神よ、私が彼のような者と同じ屋根の下に住むことのないようにしてください」と。 ^p0003
 
 **翻訳注釈**：
 > 1. （DPV注釈）著者カヴェイラック修道院長については、INTOLÉRANCE項目の注3を参照。彼の『聖バルテルミの日に関する論考』（*Dissertation sur la journée de la Saint-Barthélemy*）は、1758年に『ルイ14世弁護論』（*Apologie de Louis XIV*）とともに出版された。
