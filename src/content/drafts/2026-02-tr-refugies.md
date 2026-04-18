@@ -34,14 +34,23 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 ## 注釈
 
-ナント勅令廃止（1685年）後にフランスを離れたプロテスタント（ユグノー）亡命者に関する項目。ディドロ執筆項目として、Leca-Tsiomis版（p.586）およびVolpilhac-Auger版（p.337）に収録。 ^p0006
+本項目の解釈的鍵は、Vandeul写本の証言にある。Leca-Tsiomis（*Écrire l'Encyclopédie*, 1999, p. 490）が示すように、ディドロは\*RÉFUGIÉSを「近代史・政治」の辞典項目としてではなく、「定義補遺（Définitions 1re Partie Supplément）」の一つとして分類しており、同一リストに\*INTOLÉRANCE（不寛容）が並置されている¹。この事実は、本項目がディドロにとって歴史的記録ではなく道徳哲学的命題だったことを示す。\*INTOLÉRANCEが不寛容の原理的論駁——教父引用の連鎖によって不寛容者を彼ら自身の伝統から論駁するという構造的逆説——を展開するとすれば、\*RÉFUGIÉSはその歴史的帰結を「100万人近い勤勉な人々」（près d'un million d'hommes industrieux）の流出という経済的損失として実証的に告発する補完的テクストである。両項目を統合すれば、不寛容は理論的に誤り、道徳的に悪く、歴史的に破壊的であるという三段の論証が完成する。
 
-宗教的迫害と亡命の問題を扱い、啓蒙思想の寛容論と関連する重要項目。 ^p0007
+「盲目的な熱狂」（zèle aveugle）という語は、同時代の概念史的文脈に置くとき、鋭い批判的射程を帯びる。シャフツベリが『熱狂についての書簡』で峻別したenthusiasmとzealの区別——前者が理性的批判に開かれた情念であるのに対し、後者は自説を嘲笑（ridicule）の検証に服させることを拒否する閉じた主体性を意味する——は、ディドロの« zèle aveugle »がたんなる感情的非難ではなく、理性的言説空間からの自己排除という哲学的診断であることを示す²。
 
-- ナント勅令廃止（Révocation de l'Édit de Nantes, 1685）
-- プロテスタント迫害
-- 宗教的寛容
-- 亡命と経済的影響
+項目の論証構造そのものが、辞典間の思想戦争に参画する戦略的身振りとして読まれなければならない。Dufloの分析が明らかにしたように、« réfugié（亡命者） »という語の定義は、フュルティエール（1690）の中立的記述から、トレヴー辞典（1721）の「誤謬に戻った者」という反プロテスタント的評価に至る系譜を持つ³。百科全書はこの系譜のなかに明確に位置を取り、プロテスタント側の立場を公然と引き受ける。項目末尾の参照指示« Voyez Persécution & Tolérance »は、DRAGONADE、\*MASSACRE、\*PACIFICATION、\*PERSÉCUTERとともに形成されるより広い「迫害批判項目群」ネットワーク（Duflo, 2025）の結節点として機能し、ルイ14世のプロテスタント迫害政策に対する体系的な言説的批判を構成する⁴。
+
+本項目の修辞的頂点は「悪しき市民」（mauvais citoyens）という語に凝縮される。この語は特定個人の同定ではなく、三重の特徴づけ——利己的・野心的動機（vûes intéressées & ambitieuses）、思考の自由への敵対（ennemis de toute liberté de penser）、無知による支配（régner qu'à l'ombre de l'ignorance）——によって構成される道徳哲学的類型の提示として機能する。注目すべきは、この批判が宗教論争の語彙ではなく国家理性の語りで構成されている点である。「有用な臣民」（sujets utiles）、「技芸、才能、資源」（des arts, des talens, & des ressources）という経済学的損失の計量が、迫害を宗教的過ちとしてではなく国益の毀損として告発する。この語りの転換は、不寛容の問題を神学的論争から政治経済学の地平へと移行させるディドロの戦略であり、宗教的議論では説得されない読者をも射程に収める修辞的選択である⁵。
+
+¹ Vandeul写本（ms. BNF n.a.fr. 13 742）の*Synonymes français* 第64葉« Définitions 1re Partie Supplément »リストには、\*RÉFUGIÉSと\*INTOLÉRANCEが同一カテゴリーに並置されている。Leca-Tsiomis によれば、ディドロはこれらを「コレクションにまとめる意図を持っていた」（p. 490）。
+
+² Shaftesbury, Anthony Ashley Cooper, *A Letter concerning Enthusiasm*, London, 1708（仏訳: Claire Crignon-De Oliveira訳注, Le Livre de Poche, 2002）. シャフツベリはzeal（熱狂）をraillery（嘲笑・批判的試験）に耐えられない閉じた信念態度として批判的に分析した。
+
+³ Duflo, Colas, « L’article RÉFUGIÉS de l'Encyclopédie, préparation du dossier », *Les Mots de Diderot*, ENCCRE, 2025. Leca-Tsiomis, Marie, Écrire l'Encyclopédie, Paris, Champion, 1999, p. 490 も参照（バナージュ・ド・ボーヴァルによる「フュルティエールのカルヴァン派化」の分析）。
+
+⁴ Duflo, ibid. 本項目がDRAGONADE、\*JOURNÉE DE LA SAINT-BARTHÉLEMY、\*MASSACRE、\*PACIFICATION、\*PERSÉCUTERとともにルイ14世迫害批判の項目群を構成し、さらに\*INTOLÉRANCE、TOLÉRANCE、ZÉLE de religion を含む宗教的寛容擁護の広い項目ネットワークに属することを論じる。とりわけ本項目が暗黙の標的とする「盲目的あるいは厚顔無恥な人々」が、1758年の『ルイ14世弁護論』（Apologie de Louis XIV）を著したJean Novi de Caveiracを念頭に置いている可能性については、Proust, Jacques, *Diderot et l'Encyclopédie*, Paris, Armand Colin, 1962, pp. 299-300 を参照。
+
+⁵ Vandeul写本での「道徳哲学的分類」と整合的なこの論証戦略は、宗教的議論のみならず経済学的・政治学的論拠によって迫害批判の射程を最大化する啓蒙思想的修辞の典型である。
 
 ### 「le conseil d'un souverain」の制度史的意味
 
@@ -61,7 +70,7 @@ Fustel de Coulanges『フランス古代制度史』によれば、メロヴィ�
 
 ### Vandeul写本におけるRÉFUGIÉSの位置づけ
 
-Leca-Tsiomis『Écrire l'Encyclopédie』（1999, p.490）は、Vandeul写本（ms. BNF n.a.fr. 13 742）における本項目の位置づけを明らかにしている。この写本は「Synonymes français」と題され、ディドロが『百科全書』に寄稿した「言語記事」を体系的に収録したものである。 ^p0013
+Leca-Tsiomis*Écrire l'Encyclopédie*（1999, p.490）は、Vandeul写本（ms. BNF n.a.fr. 13 742）における本項目の位置づけを明らかにしている。この写本は「Synonymes français」と題され、ディドロが『百科全書』に寄稿した「言語記事」を体系的に収録したものである。 ^p0013
 
 写本の第64葉には「Définitions 1re Partie Supplément」（定義・第1部補遺）として25項目が列挙されており、RÉFUGIÉSはその中に含まれる： ^p0014
 
@@ -112,12 +121,12 @@ Adams著『The Huguenots and French Opinion, 1685-1787』によれば、1750年�
 |------|------|
 | 出身 | ニーム（南仏プロテスタント地域） |
 | 立場 | 南仏司教団の「影の参謀」（éminence grise） |
-| 主著 | 『Apologie de Louis XIV et de son Conseil, sur la Révocation de l'Edit de Nantes』(1758) |
+| 主著 | *Apologie de Louis XIV et de son Conseil, sur la Révocation de l'Edit de Nantes* (1758) |
 
-Caveiracは自身の著作を、ナント勅令廃止に関する議論の「arsenal（兵器庫）」と呼んでいた。プロテスタンティズムを「人民主権」思想と結びつけ、国家秩序への脅威として廃止を正当化した。 ^p0024
+Caveiracは自身の著作を、ナント勅令廃止に関する議論の « arsenal（兵器庫） »と呼んでいた。プロテスタンティズムを「人民主権」思想と結びつけ、国家秩序への脅威として廃止を正当化した。 ^p0024
 
 **ディドロの直接的反応（要出典確認）**：
-Adamsによれば、ディドロは『Apologie』を読んだ怒りからEncyclopédieの「journée de la Saint-Barthélemy」項目を執筆したとされる。 ^p0025
+Adamsによれば、ディドロは *Apologie* を読んだ怒りからEncyclopédieの「journée de la Saint-Barthélemy」項目を執筆したとされる。 ^p0025
 
 **詳細**: [[Caveirac_Jean_Novi_de]] ^p0026
 
@@ -203,11 +212,12 @@ Adamsによれば、ディドロは『Apologie』を読んだ怒りからEncyclo
 - Jaucourtのプロテスタンティズム関連項目群
 
 ### 人物・概念
-- [[Caveirac_Jean_Novi_de]] - ディドロが批判する「正当化者」の最有力候補（1758年『Apologie de Louis XIV』著者）
+- [[Caveirac_Jean_Novi_de]] - ディドロが批判する「正当化者」の最有力候補（1758年 *Apologie de Louis XIV* 著者）
 - [[Enthousiasme_Zele_概念分析]] - シャフツベリにおけるzèle/enthousiasme概念の区別（本項目の「zele aveugle」との関連）
 
 ### 文献・研究
 - [[260121_Duflo_REFUGIES_Encyclopedie_2025]] - RÉFUGIÉS項目の準備過程分析（Duflo 2025、Leca-Tsiomis献呈論文集）
+  - Duflo, Colas, « L'article RÉFUGIÉS de l'*Encyclopédie*, préparation du dossier », in Irène Passeron et Alain Sandrier (éds.), *Les Mots de Diderot. Mélanges offerts à Marie Leca-Tsiomis*, ENCCRE, 2025. En ligne : https://mots-de-diderot.fr/?p=839. [HAL : hal-05104143]
 - [[Revocation_Edit_Nantes_文献リスト]] - ナント勅令廃止関連文献リスト
 - [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]] - 典拠分析研究
 - [[Leca_Diderot_choix_articles_Encyclopedie]] - 記事帰属研究
@@ -245,11 +255,11 @@ Vandeul写本「定義補遺」リストでの並置は、ディドロ自身が�
 
 本項目RÉFUGIÉSはディドロ執筆だが、『百科全書』の主要執筆者Jaucourt（1704-1780）自身がユグノー難民家族出身であることは注目に値する。
 
-**Jaucourt家族の分散戦略**: Morris『Le chevalier de Jaucourt: Un ami de la Terre』（行203）によれば、Jaucourt家はナント勅令廃止（1685年）後もフランスに残留したが、姉はダブリンに亡命した牧師と結婚し、他の親族はジュネーヴやプロシアに分散していた。これはユグノー難民家族の典型的な離散パターンである。
+**Jaucourt家族の分散戦略**: Morris, *Le chevalier de Jaucourt: Un ami de la Terre*（行203）によれば、Jaucourt家はナント勅令廃止（1685年）後もフランスに残留したが、姉はダブリンに亡命した牧師と結婚し、他の親族はジュネーヴやプロシアに分散していた。これはユグノー難民家族の典型的な離散パターンである。
 
-**難民知識人の知的継承**: Schwab論文「Un Encyclopédiste huguenot: Le Chevalier de Jaucourt (Un Lien direct entre les érudits de la Dispersion et l'Encyclopédie)」（1962）は、JaucourtがBayle、Desmaizeaux、Basnage等のユグノー難民学者の批評的伝統を継承し、『百科全書』事業に応用したことを論じている。
+**難民知識人の知的継承**: Schwab論文 « Un Encyclopédiste huguenot: Le Chevalier de Jaucourt (Un Lien direct entre les érudits de la Dispersion et l'Encyclopédie) »（1962）は、JaucourtがBayle、Desmaizeaux、Basnage等のユグノー難民学者の批評的伝統を継承し、『百科全書』事業に応用したことを論じている。
 
-**1685年の歴史的意義**: Barroux & Pépin『Le chevalier de Jaucourt』（行365）は1685年を「恐怖の年」(annus horribilis)と規定し、ナント勅令廃止と黒人奴隷法（Code noir）が同年に発布された歴史的同時性を指摘している。
+**1685年の歴史的意義**: Barroux & Pépin, *Le chevalier de Jaucourt*（行365）は1685年を「恐怖の年」(annus horribilis)と規定し、ナント勅令廃止と黒人奴隷法（Code noir）が同年に発布された歴史的同時性を指摘している。
 
 **参照**:
 - [[Barroux_Pepin_Le chevalier de Jaucourt_L_homme_aux_dix-sept_mille_articles_orgtxt]]

@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-persecuter"
 sourceFolder: "2026-02_tr_PERSÉCUTER"
-lastCopied: "2026-03-11T14:24:39.952Z"
+lastCopied: "2026-03-15T08:28:20.316Z"
 ---
 
 ## 原文
@@ -157,21 +157,110 @@ lastCopied: "2026-03-11T14:24:39.952Z"
 
 ## 注釈
 
-「迫害する」「迫害者」「迫害」に関する百科全書項目。ディドロ執筆。宗教的迫害を批判する一連の項目の一つ。 ^p0069
+本項目は « Droit naturel, Politique & Morale »（自然法・政治・道徳）に分類されている。百科全書の体系的分類において、この標題は哲学的論考としての位格を与えるものであり、後続する神学的年代記（¶7–34）の存在にもかかわらず、項目全体の主題が宗教教義ではなく政治道徳にあることを冒頭から宣言している¹。 ^p0069
 
-- 迫害（persécution）の定義と批判
-- 宗教的不寛容への批判
-- 狂信（fanatisme）との関連
+項目は明確な二部構成をとる。前半（¶1–6）は迫害を « tyrannie »（暴虐）と定義し、福音の柔和さ・人間性の法・理性・健全な政治という四つの原理からその不当性を論証する道徳政治論である。フィリップ2世のネーデルラント弾圧と聖バルテルミの虐殺という二つの歴史的事例が、迫害の政治的無益さを証明する帰納的論拠として動員される。後半（¶7–34）は初代教会から日本の禁教に至る二十六の迫害を年代順に列挙する神学的年代記であり、一見すると百科全書に典型的な博識の陳列にすぎない。しかしこの年代記は、前半の政治哲学的主張を検閲から保護する緩衝材として機能していると読むことができる——大量の歴史的事実を並べることで項目全体に学問的中立性の外観を与え、急進的な前半の迫害批判を辞典的客観性のなかに溶かし込む構造である²。
+
+項目末尾の « Voyez Tolérance »（寛容の項を参照せよ）は、百科全書の相互参照（renvoi）戦略のなかでもとりわけ意味深い一例である。Proustが明らかにしたように、ジョクール騎士が執筆したTOLÉRANCE項目は検閲によって完全に削除されており³、この参照は事実上、存在しない項目を指している。読者は « Voyez Tolérance » の指示に従っても、そこに寛容論を見出すことができない。この空虚な参照は、百科全書に対する検閲の痕跡を可視化すると同時に、読者にその欠落の理由を問いかける仕掛けとして作用する。ディドロはINTOLÉRANCE項目で、削除されたTOLÉRANCE項目の代替となる迂回的寛容論を展開しており、PERSÉCUTERの « Voyez Tolérance » はこの迂回路の入口をも暗示している。
+
+本項目は孤立して読まれるべきものではない。Dufloが論じたように、PERSÉCUTERはDRAGONADE、JOURNÉE DE LA SAINT-BARTHÉLEMY、MASSACRE、PACIFICATION、RÉFUGIÉSといった一連の項目とともに、ルイ14世のプロテスタント迫害政策を弾劾する言説的網目を百科全書のアルファベット順配列の内部に構築している⁴。これらの項目群は異なる標題分類（« Hist. mod. »、« Gramm. »、« Droit naturel »）のもとに分散配置されているが、迫害の定義（PERSÉCUTER）、具体的事件（MASSACRE、DRAGONADE）、被害者の経験（RÉFUGIÉS）、和平の欺瞞（PACIFICATION）という相補的な視点を通じて、宗教的不寛容に対する体系的批判を形成する。
+
+項目の帰属は公式には匿名であるが、前半の道徳政治論における語彙と論証はRÉFUGIÉS項目と顕著な類似を示すことがDufloによって指摘されている⁵。Barkerもまた、PERSÉCUTERをディドロのキリスト教批判に関わる主要項目の一つとして位置づけており⁶、Proustが分析したイヴォン神父の著作——とりわけ迫害を « tyrannie » として定義し自然法に基づいて批判する論証構造——との一致も、この帰属仮説を補強する傍証となる⁷。ただし、決定的な帰属の確定には至っていない。
+
+PERSÉCUTERは、百科全書における宗教的迫害批判の理論的核心を担う項目である。迫害を暴虐と定義する冒頭の一文から、存在しない寛容項目への参照で閉じる構成に至るまで、この項目は百科全書が検閲体制下で政治哲学的主張を展開するために用いた言説的実践——ジャンル偽装、相互参照による項目間連帯、学問的中立性の外装——の複合的な実例である。
+
+### 典拠系譜：Bayle–Yvon 伝達経路と引用実践の特質
+
+INTOLÉRANCE項目の典拠系譜分析が明らかにしたベール『哲学的注解』（*Commentaire philosophique*, 1686）→ イヴォン『良心の自由』（*Liberté de conscience*, 1754）→ ディドロという知的伝達経路は、PERSÉCUTER ¶1–6においても明確に確認される。しかしながら、同一の系譜に属しつつも、PERSÉCUTERが採用する引用実践はINTOLÉRANCEとは構造的に異なる特徴を示す。以下、論拠ごとにテクスト的並行を検証する⁸。
+
+**（1）« tyrannie » による迫害定義（¶1）**——PERSÉCUTER冒頭の定式 « la persécution est la tyrannie exercée sur les ames » は、イヴォン『良心の自由』の語彙的レパートリーと直接的に一致する。イヴォンは同著作中で « tyrannie » を迫害の定義語として繰り返し使用しており（« Ce serait de la part des Princes un acte de tyrannie »、« une horrible tyrannie [...] tyrannie plus cruelle encore » 等、少なくとも7箇所）、これに対しベール『哲学的注解』には « tyrannie » による迫害定義が見当たらない。この語彙的分布は、PERSÉCUTERの筆者がイヴォンを主要な直接源泉の一つとして参照していたことを強く示唆する。
+
+**（2）偽善論拠——« hypocrites » と « prosélytes » の対比（¶4）**——¶4の格言的定式 « la persécution fait des hypocrites & jamais des prosélytes » は、三者に共有される論拠であるが、その定式化の程度はイヴォンに最も近い。ベールは『哲学的注解』で « contraignant les peres a être hypocrites » と記して強制が偽善を生むという着想を提示し、イヴォンがこれを « faire des hypocrites de ceux qu'elles convertissent » と展開し、PERSÉCUTERがこれを « hypocrites ≠ prosélytes » の対比として簡潔な格言形式に凝縮した。ベールが原初的着想を与え、イヴォンが定式化し、PERSÉCUTERがこれを結晶化させるという伝達の階梯が認められる。
+
+**（3）« douceur évangélique »（¶4）**——¶4の « la persécution est contraire à la douceur évangélique » は、ベール–イヴォン系譜の典型的な伝達例である。ベール『哲学的注解』第一部第三章は「柔和はイエス・キリストの支配的な性格であった（La douceur était le caractère dominant de Jésus-Christ）」という定式を確立し、« douceur » を福音の「本質的かつ固有の性格（caractère essentiel et distinctif）」として定義した。イヴォンはこれを「福音の精神は柔和と忍耐である（l'esprit de l'Evangile est la douceur et la patience）」および「福音のもとでは、柔和・人間性・節度に満ちた法（sous l'economie evangelique, loi pleine de douceur, d'humanite, de moderation）」と再定式化した。PERSÉCUTERの « douceur évangélique » という合成語は、この伝達の最終的な凝縮形である。なお、DRAGONADE項目の結語「宗教は穏和・慈愛・慈悲のみを希求する（la religion, qui ne respire que douceur, que charité, que miséricorde）」もまた、同じベール的定式の変奏として読まれる⁹。
+
+**（4）フィリップ2世とネーデルラント弾圧（¶4）**——¶4が « Philipe II. ce tyran [...] les provinces du Pays-bas » と述べるフィリップ2世の迫害事例は、イヴォン『良心の自由』には見られず、ベール『哲学的注解』にアルバ公によるネーデルラント弾圧の詳述が確認される。この論拠は、PERSÉCUTERの筆者がイヴォンのみならずベールの歴史的叙述にも直接アクセスしていた可能性を示す。
+
+**（5）聖バルテルミの虐殺（¶4）**——¶4の « La fatale journée de la S. Barthélemi » は、イヴォン『良心の自由』に1箇所の言及が確認される一方、ベール『哲学的注解』には存在しない。ただし百科全書の項目群ネットワークにおいてJOURNÉE DE LA SAINT-BARTHÉLEMYが独立項目として存在していることから、百科全書内部の相互参照によって動員された可能性も排除できない。
+
+**（6）« sanguis martyrum semen christianorum »（¶2）および太陽の比喩（¶6、マタイ5:45）**——¶2のテルトゥリアヌスの定句と¶6のマタイ福音書からの引用は、ベールにもイヴォンにも直接的源泉が確認されず、共通の教父引用レパートリーないし聖書本文からの独立した引用と見なされる。
+
+### INTOLÉRANCE項目との引用実践の構造的差異：「ベールの地図」の不在
+
+上述のテクスト的並行は、PERSÉCUTERがベール–イヴォン系譜に属することを確認させるが、同時に、その引用実践がINTOLÉRANCE項目とは根本的に異なる構造を持つことも明らかにする。
+
+INTOLÉRANCE項目の教父引用群（§41–50）は、二本の明確な伝達経路に収束する。第一はベール→イヴォン→ディドロという「イヴォン経路」（アタナシウス §41・サルヴィアヌス §43・ヒラリウス §45）であり、第二はベール『哲学的注解』I, viii 末尾の一節「グロティウスがいくつかを引用した（*Grotius en a allégué quelques-uns*）」を起点とし、グロティウス *De jure belli et pacis* II, xx, §XLVIII にバルベラック仏訳（1724年）を通じて到達する「グロティウス経路」（クリュソストモス §42・クレメンス §46・トレド第4公会議 §47・ユスティニアヌス/サマリア人 §50）である。INTOLÉRANCEの教父フロリレギウムは実質的に「ベールの地図」——ベールが開いた二本の経路を精密にたどる作業——の実行であった¹⁰。
+
+PERSÉCUTERにはこの「ベールの地図」が完全に不在である。項目全体（¶1–34）を通じて、グロティウスの名も *De jure belli et pacis* も一切言及されず、バルベラック仏訳への参照もない。グロティウス II, xx, §XLVIII が供給する教父権威群——トレド第4公会議（§XLVIII §1）、テルトゥリアヌス・クレメンス・アタナシウス・クリュソストモス（§XLVIII §2）、プロコペ/ユスティニアヌス/サマリア人（§XLVIII §3）——のいずれもPERSÉCUTERに登場しない。バルベラック版 §XLVIII §2 注(9)のクリュソストモス仏語注釈がディドロ INTOLÉRANCE §42 に対応することがテクスト照合で確認されている一方、PERSÉCUTERにはこの種の文献学的痕跡が皆無である¹¹。
+
+| 典拠 | INTOLÉRANCE | PERSÉCUTER |
+|------|-------------|------------|
+| アタナシウス（イヴォン経路） | §41 ✓ | 不在 |
+| サルヴィアヌス（イヴォン経路） | §43 ✓ | 不在 |
+| ヒラリウス（イヴォン経路） | §45 ✓ | 不在 |
+| クリュソストモス（グロティウス経路） | §42 ✓ | 不在 |
+| クレメンス *Const. ap.* VI,22（グロティウス経路） | §46 ✓ | 不在 |
+| トレド第4公会議（グロティウス経路） | §47 ✓ | 不在 |
+| ユスティニアヌス/サマリア人（グロティウス経路） | §50 ✓ | 不在 |
+
+この対照表が示すのは、二項目の引用実践が類型論的に異なるということである。INTOLÉRANCEは教父フロリレギウム——すなわち教会内部の権威を動員し、迫害者を彼ら自身の伝統によって論駁する修辞戦略——を採用し、その典拠調達をベールが指し示した文献学的経路に全面的に依拠した。PERSÉCUTERはこの戦略を一切採用せず、代わりに三つの異なる修辞的資源を用いる。第一にイヴォン的語彙（« tyrannie »、« hypocrites / prosélytes »、« douceur évangélique »）による道徳的原理の定式化、第二にベール的歴史叙述（フィリップ2世/ネーデルラント）による政治的帰結の帰納的論証、第三に百科全書内部の項目間連携（聖バルテルミ、« Voyez Tolérance »）による言説的網目の構築である。
+
+この差異は筆者問題にも示唆を与える。同一筆者が二項目を執筆したと仮定する場合、INTOLÉRANCEで精密に活用したグロティウス/バルベラック経路をPERSÉCUTERで意図的に放棄した理由が問われる——教父的権威による論証と政治的実例による論証という、二つの異なる修辞戦略を百科全書の異なる項目に意図的に配分した可能性は排除できない。他方、異なる筆者がベール–イヴォン系譜の異なる層にアクセスした可能性もまた残る。いずれにせよ、PERSÉCUTERの引用実践は、教父的権威に訴えることなく、道徳政治的原理と歴史的実例のみによって迫害批判を完結させるという、INTOLÉRANCEとは独立した修辞的完結性を有している¹²。
+
+¹ 標題分類の政治哲学的機能については、RÉFUGIÉS項目（« Hist. mod. » 分類で迫害批判を展開）やDRAGONADE項目の注釈を参照。
+
+² この「緩衝材」的構造はCROISADES項目にも類例が見られる。歴史的叙述の外観の下に政治的判断を忍ばせる手法は、百科全書に固有のジャンル偽装（*déguisement générique*）の一形態である。
+
+³ Proust, J. (1985) « Le protestantisme dans l'*Encyclopédie* ». → [[Proust_protestantisme_Encyclopedie_1985]]
+
+⁴ Duflo, C. (2025) « L'article RÉFUGIÉS de l'*Encyclopédie*, préparation du dossier », *Les Mots de Diderot*, ENCCRE. → [[260121_Duflo_REFUGIES_Encyclopedie_2025]]
+
+⁵ Duflo, ibid., p. 98–99. PERSÉCUTER項目の語彙・論証がRÉFUGIÉSと近似するとの指摘。
+
+⁶ Barker, J. E. (1941) *Diderot's Treatment of the Christian Religion in the Encyclopédie*, p. 254–255. → [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]]
+
+⁷ Proust, J. (1962) *Diderot et l'Encyclopédie*, p. 530–540. イヴォン神父の寛容論と百科全書項目群の論証的連続性について。
+
+⁸ 以下の典拠系譜分析は、ベール『哲学的注解』（Bayle, *Commentaire philosophique*, éd. Gros, Champion, 2014）、イヴォン『良心の自由』（Yvon, *Liberté de conscience*, 1754）のOCRテクスト、およびINTOLÉRANCE項目の典拠系譜調査ノート（INTOLERANCE_典拠系譜_Bayle-Grotius-Barbeyrac-Yvon-Diderot.md）に基づく。野沢協「解説 2 ピエール・ベールの寛容論(I)」（ベール『哲学的注解』邦訳第2巻、法政大学出版局、1979年、843–852頁）も参照。
+
+⁹ DRAGONADE項目注釈を参照。ジョクールの結語がベール『哲学的注解』I, iii の « douceur » 定式を凝縮的に継承していることについては同項目の分析を見よ。
+
+¹⁰ INTOLÉRANCE項目注釈「引用手法の実態：典拠の二経路戦略と『ベールの地図』」を参照。グロティウス経路の詳細な文献学的照合については同項目の対照表を見よ。
+
+¹¹ バルベラック版一次資料：Barbeyrac, Jean (trad.), *Le droit de la guerre et de la paix* (Amsterdam: Pierre de Coup, 1724), II, xx, §XLVIII–§L, pp. 627–628. §XLVIII §2 注(9)のクリュソストモス仏語注釈（« Et vous, ne voulez-vous pas aussi vous en aller ? »）がディドロ INTOLÉRANCE §42 に直接対応する。なおベール『哲学的注解』自体にもグロティウス II, xx 最終段落への明示的引用が確認される。
+
+¹² なお、ベール『哲学的注解』にはグロティウス II, xx の最終段落（§XLVIII）への明示的言及が存在し、イヴォン『良心の自由』にもグロティウスへの言及（ただし君主の教会首長権に関する文脈であり、II, xx の迫害論とは別主題）が確認される。ベール–イヴォン系譜の周辺でグロティウスが参照枠として流通していた事実は確認されるが、PERSÉCUTERの筆者がこの参照枠を意図的に回避したのか、単にアクセスしなかったのかは、テクスト内部の証拠からは判定できない。
 
 ## 書誌
 
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v12-449-0/
+- 執筆者: 匿名（ディドロ帰属仮説あり）
+- 分類: Droit naturel, Politique & Morale
 
-- [[260121_Duflo_REFUGIES_Encyclopedie_2025]] — 関連項目群の分析
-- [[RÉFUGIÉS]] — 関連する百科全書項目
-- [[INTOLÉRANCE]] — 関連する百科全書項目
-- [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]] — 典拠分析
+### 一次資料
 
-- [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v12-449-0/)
+- Bayle, Pierre, *Commentaire philosophique sur les paroles de Jésus-Christ, Contrains-les d'entrer* (1686), éd. Jean-Michel Gros, Paris, Honoré Champion, 2014
+- Barbeyrac, Jean (trad.), *Le droit de la guerre et de la paix … traduit du latin de Grotius*, Amsterdam, Pierre de Coup, 1724, t. II, Liv. II, Chap. XX, §XLVIII, pp. 627–628
+- Caveirac, Jean Novi de, *Apologie de Louis XIV et de son conseil sur la révocation de l'édit de Nantes* (1758)
+- Grotius, Hugo, *De jure belli et pacis libri tres* (1625), Editio nova, Amsterdam, Jansson-Waesberg, 1712, Lib. II, Cap. XX, §XLVIII
+- Lactantius, *De mortibus persecutorum*, éd. Baluze, 1679 ; trad. angl. Burnet, 1687
+- Yvon, Claude (abbé), *La Liberté de conscience resserrée dans des bornes légitimes*, Amsterdam, 1754
 
+### 二次資料
+
+- Barker, John E., *Diderot's Treatment of the Christian Religion in the Encyclopédie*, New York, Columbia University Press, 1941
+- Duflo, Colas, « L'article RÉFUGIÉS de l'*Encyclopédie*, préparation du dossier », *Les Mots de Diderot*, ENCCRE, 2025
+- Leca-Tsiomis, Marie, *Écrire l'Encyclopédie*, Paris, Champion, 1999
+- Proust, Jacques, *Diderot et l'Encyclopédie*, Paris, Armand Colin, 1962
+- Proust, Jacques, « Le protestantisme dans l'*Encyclopédie* », *Dix-huitième siècle*, 17, 1985, pp. 87–95
+
+### 関連ノート
+
+- [[INTOLÉRANCE]] — ディドロ執筆の不寛容批判。削除されたTOLÉRANCE項目の代替として機能。典拠系譜の比較対象
+- [[RÉFUGIÉS]] — プロテスタント亡命者の歴史的・経済的分析。PERSÉCUTERと語彙・論証が近似
+- [[MASSACRE]] — 虐殺の辞典的定義を装った政治哲学的批判
+- [[DRAGONADE]] — ルイ14世の竜騎兵弾圧に対する簡潔な弾劾。« douceur » 系譜の変奏
+- [[PACIFICATION]] — 和平の名の下に行われた宗教的暴力の暴露
+- [[260121_Duflo_REFUGIES_Encyclopedie_2025]] — 項目群ネットワークの精緻な分析
+- [[Proust_protestantisme_Encyclopedie_1985]] — TOLÉRANCE項目削除とプロテスタント関連項目の研究
 - 項目カード: [[PERSÉCUTER, PERSÉCUTEUR, & PERSÉCUTION]]
