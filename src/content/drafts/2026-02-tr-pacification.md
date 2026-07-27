@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-pacification"
 sourceFolder: "2026-02_tr_PACIFICATION"
-lastCopied: "2026-03-11T14:24:39.952Z"
+lastCopied: "2026-03-15T08:28:20.316Z"
 ---
 
 ## 原文
@@ -65,109 +65,81 @@ PACIFICATION（女性名詞）（近代史）とは、ある国家の平和と�
 
 ## 注釈
 
-「平定」に関する百科全書項目。マレ神父（l'abbé Mallet）原稿にディドロが編集者として加筆修正（Proust 1965, fn. 125 bis; Schwab, "The Diderot Problem", p. 436）。百科全書原本では署名なし（匿名）。ル・ブルトンによる検閲（カルトン差し替え）を受けた項目であり、Schwabが検閲前テキストを再構築（Proust 1972, pp. 19-21）。ヴァロワ＝アングレーム朝下のプロテスタント迫害、サン・バルテルミーの虐殺、ナント勅令廃止を批判。 ^p0022
+本項目*PACIFICATIONは、マレ神父（l’abbé Mallet）の原稿にディドロが編集者として大幅な加筆修正を施したものである（Proust, Diderot et l’Encyclopédie, 1965, fn. 125 bis; Schwab, “The Diderot Problem”, Eighteenth-Century Studies 3:4 [1970], p. 436）。百科全書原本では署名なし（匿名）で掲載され、ル・ブルトンによるカルトン差し替え（検閲）を受けた項目でもある（Proust, « Questions sur l’Encyclopédie », 1972, pp. 19-21）。
 
-### Barkerによる分析（p. 102）
+Schwabが発見した最も注目すべき事実は、通常とは逆の方向の編集介入である。通常、ル・ブルトンのカルトン差し替えは過激な記述を穏当なものに改める方向で行われるが、*PACIFICATIONでは逆に、刊行版（ディドロ改訂版）の方が差し替え前（マレ原稿）よりもはるかに過激で論争的である。マレ神父の原稿にはナント勅令廃止を弁護する議論が含まれており、四つの柱からなっていた——フランス君主制の原則として臣民が主権者と対等に交渉する権利はないとすること、平和王令はすべて武力で強奪されたものであること（«toute convention extorquée par la violence est nulle»）、ルイ14世による廃止も追認は状況的措置にすぎないこと、そもそも勅令は暫定的であり国王はいつでも撤回できること。ディドロはこれを完全に削除し、廃止を痛烈に批判する内容に書き換えた。改変があまりに根本的であったため、マレの署名 (G) は最終版から削除されている。
 
-> "In *Pacification* he mentions also the persecution of the Protestants under the Valois-Angoulême kings, including the massacre of Saint Bartholomew's Day, and scores the revocation of the Edict of Nantes which deprived the state of an infinite number of citizens and workers."
->
-> （『平定』において、ディドロはヴァロワ＝アングレーム朝下のプロテスタント迫害、サン・バルテルミーの虐殺にも言及し、国家から無数の市民と労働者を奪ったナント勅令廃止を非難している。）
+特に注目すべきは、マレが自らの原稿末尾に置いた初期キリスト教徒のトポスに対するディドロの扱いである。マレは「カルヴァン派が模範と仰ぐ初期キリスト教徒は、異教皇帝を祝福しながら死に、武力で宗教に有利な勅令を勝ち取ろうとはしなかった」と書いて、カルヴァン派の武力闘争の不当性を論じていた。ディドロは改訂版でまさにこの同じトポスを採用しながら、その論理を正反対に反転させた——初期キリスト教徒が「祝福しながら死んだ」という事実から導かれるのは、武力闘争の不当性ではなく、良心に従って神に仕える自由を奪われたことへの苦い抗議であり、宗教的寛容の自然さである。同一の歴史的素材から対立する結論を引き出すこの操作は、百科全書におけるディドロの編集手法の核心をなすものと言える。
 
-出典: Oeuv., XVI, 181-4 ^p0023
+この編集意図の一貫性は、隣接するPACIFIQUE項目（XI, 737a）にも確認できる。改訂前、ディドロはそこに「*PACIFICATIONの著者はこの称号を放棄すべきだ」と書いてマレを名指ししていたが、改訂後は「ナント勅令廃止の弁護論の著者」と書き換えた。マレの原稿を削除した後もこの批判を残し、名前の代わりに内容で著者を特定する匿名化の技法は、ディドロが自らの編集介入の痕跡を隠しつつ、思想的メッセージを維持しようとしたことを物語っている。
 
-### 明示的典拠（références explicites）
+*PACIFICATIONの刊行版テキストで明示的に引用される学術的権威は、ベール（Pierre Bayle）の『マンブール氏のカルヴァン派史の一般的批判』（Critique générale de l’histoire du Calvinisme de Mr. Maimbourg, Ville-Franche [Amsterdam], 1682）ただ一つである。興味深いのは、マレもまた原稿で同じベールの著作に言及していたことである。しかしマレがベールの議論を「カルヴァン派側の不満の繰り返し」（c’est ce que Bayle ne cesse de répéter）として退けたのに対し（Schwab, p. 436）、ディドロは同じ参照を「反駁不能な論証」として援用した。同一の典拠が、原著者と編集者の手でまったく逆の論証機能を果たしているのである。
 
-1. **Bayle, *Critique générale de l'histoire du Calvinisme de Mr. Maimbourg*（1682）**
-   - 「c'est ce que Bayle démontre sans réplique dans ses lettres critiques sur l'histoire du Calvinisme」
-   - 本項目唯一の学術的権威引用。プロテスタントに対する条約・勅令の信義違反を論証する根拠として援用
+ディドロが依拠するベールの論証（「一般的批判」第22信）は五段階を踏んで展開される。まず国王の信義・約束の侵害を指摘し、次いで道徳的原則の優先として政治的便宜が良心を腐敗させることを論証し、法的原則としての pacta sunt servanda に訴え、世代を超えた条約の拘束力をギベオン人の聖書的先例で裏づけた後、キリスト教君主の根本義務としての信義遵守という結論に至る（「父祖の身においてあれほど厳粛に約束されたものを取り上げて、誓約の信義を、王としての約束を踏みにじるほど、キリスト教徒の君主の第一の最も基本的な義務に反することはありますまい」邦訳p. 260）。
 
-   **ベール原文の対応箇所**（[[Bayle_補巻_宗教改革史論_本文_ocr|日本語訳]] 「新たなる手紙」第II〜VI節、原書pp. 253-260）: ^n0001
+しかし、*PACIFICATIONの思想的射程はこの明示的典拠の範囲をはるかに超えている。宗教的信念の非随意性のテーゼ（«notre façon de penser religieuse dépend peu de nous»）は、*INTOLÉRANCE項目で「誤謬を真理と同じくらい強く確信する状況がある」として展開された命題と同根であり、その思想史的系譜はベールの『哲学的注解』（1686年）¹とロックの『寛容書簡』（1689年）に遡る。また«la morale que la nature a gravée dans tous les cœurs（自然がすべての人の心に刻んだ道徳）»という定式は、ホッブズが『市民論』第14章で「神がすべての人間に生まれつき備わった永遠の言葉——すなわち自然的理性——を通じて明らかにした法」として展開した自然法論の構造と対応する。ただしディドロは「神」を「自然」（la nature）に置き換えることで世俗化をホッブズよりさらに一歩進めている。
 
-   ディドロの「on viola à l'égard des Protestans, la foi des traités & des édits donnés & confirmés par tant de rois」に対応するベールの論証は5段の構成をなす: ^n0002
+本項目について、Duflo（« L’article RÉFUGIÉS de l’Encyclopédie », 2025）はこれを「ルイ14世プロテスタント迫害批判項目群」の一つとして論じているが、Schwabによるマレ原稿の復元とカルトン差し替えの発見には言及していない。しかしながら、Schwabの発見はDufloのテーゼを弱めるどころか強化する材料である——ディドロがマレの勅令廃止弁護原稿を意図的に削除し正反対の迫害批判へと改訂したという事実は、「迫害批判項目群」の構築が偶然の産物ではなく、編集者ディドロの強い意志と一貫した戦略に基づくものであったことを裏づけている²。
 
-   1. **国王の信義・約束の侵害**（原書p. 253）: 「ユグノーに対してあれほど何度も御自身の手を縛った国王の信義・約束が、ユグノーを救ってくれるべきではないでしょうか」→ 国益を理由に誓約を破ることへの批判
-   2. **道徳的原則の優先**（p. 255）: 「約束を破り誓約の信義を踏みにじるという恐ろしい罪悪に落ち込む（中略）信義というのはわれわれにとって世界一神聖たるべきもの」→ 政治的便宜が良心を腐敗させるという論証
-   3. **pacta sunt servanda**（p. 256）: 「人間的正義の最大の基礎は誠意にあり、それは一度結んだら協定を破らず、公に合意したものを維持する義務を課す（中略）法律家が〈協約ニ從ウ〉と言うのはそのことだ」→ 法的原則による論証
-   4. **世代を超えた条約の拘束力**（p. 258）: 「人が変わっても条約や約束の信義は変わるべきでない」→ ギベオン人の聖書的先例
-   5. **総括**（p. 260）: 「父祖の身においてあれほど厳粛に約束されたものを取り上げて、誓約の信義を、王としての約束を踏みにじるほど、キリスト教徒の君主の第一の最も基本的な義務に反することはありますまい」
 
-### 暗黙的典拠（références implicites）
 
-本項目にはBayle以外の明示的な典拠引用がないが、以下の論点について二次文献および関連項目との照合により典拠系統を推定できる。 ^n0003
+¹ Bayle, Pierre, De la tolérance: Commentaire philosophique [1686], éd. Jean-Michel Gros, Paris, Honoré Champion, 2006. ² Barkerは本項目を評して「ディドロは*PACIFICATIONにおいて、ヴァロワ＝アングレーム朝下のプロテスタント迫害、聖バルテルミーの虐殺にも言及し、国家から無数の市民と労働者を奪ったナント勅令廃止を非難している」と記す (Diderot’s Treatment of the Christian Religion in the Encyclopédie, 1941)。
 
-#### 1. 初期キリスト教の非暴力と良心の自由
+<!-- assertion-preserve: ^p0022 -->
 
-> 「Si les premiers chrétiens mouroient en bénissant les empereurs payens... servir leur Dieu selon la lumiere de leur conscience」
+### 編集の来歴 — マレからディドロへ
 
-- **教父文献**: [[INTOLÉRANCE]] 項目（同じくディドロ執筆）で同一の論法が展開され、そこでは教父が明示的に引用されている:
-  - テルトゥリアヌス, *Apologétique*, *ad Scapulam*: 「Humani juris & naturalis potestatis...」
-  - オリゲネス, ミヌキウス・フェリクス: 「la religion se persuade & ne se commande pas」（宗教は説得されるものであり命じられるものではない）
-  - 聖アウグスティヌス、聖ヒラリオン、聖アタナシオス、聖クリュソストムス、サルウィアヌス
-  - （Barker 1941, 脚注106 で統合的に確認。同一の教父典拠はCOTEREAUX項目〔Oeuv., XIV, 235〕でも使用）
-- **Bayle**: 『マンブール氏のカルヴァン派史の一般的批判』p. 29で「良心の光どおりに神に仕える許可」（servir Dieu selon la lumière de leur conscience）という、PACIFICATIONとほぼ同一の表現を使用
+Schwabは *Eighteenth-Century Studies* 3:4 (1970) 所収の "The Diderot Problem" Part II において、UCリバーサイド所蔵本等から未改訂の刷り（cancel前の差し替え頁）を発見し、PACIFICATIONの検閲前テキストを復元した（pp. 436-437）。Gordon & Torrey (1947) の先行研究がこの項目を収録しなかったのは、同書の対象が校正刷り上の黒インク検閲に限られ、カルトン差し替えによる検閲が射程外だったためである。
 
-#### 2. 宗教的信念の非随意性
+Schwabの発見が明らかにしたのは、百科全書の検閲史における唯一の例外的ケースであった。通常、ル・ブルトンのカルトン差し替えは過激な記述を穏当なものに改める方向で行われるが、PACIFICATIONでは逆に、差し替え後のテキスト（刊行版＝ディドロ改訂版）の方が差し替え前（マレ原稿）よりもはるかに過激で論争的である。マレ神父の原稿にはナント勅令廃止を弁護する議論が含まれていたが、ディドロはこれを完全に削除し、廃止を痛烈に批判する内容に書き換えた。改変があまりに根本的であったため、マレの署名 (G) は最終版から削除されている。マレ神父は1755年に死去しており、この改訂はそれから数年後に行われたものであるから、原著者の同意や抗議はありえなかった。
 
-> 「notre façon de penser religieuse dépend peu de nous」
-
-- **INTOLÉRANCE項目**（p. 542-543）で同じテーゼが展開: 「Il y a des circonstances où l'on est aussi fortement persuadé de l'erreur que de la vérité」（誤謬を真理と同じくらい強く確信する状況がある）
-- この「信仰は意志の産物ではない」テーゼの思想史的系譜:
-  - Bayle, *Commentaire philosophique* (1686) — 良心の権利論の基盤
-  - Locke, *Epistola de Tolerantia* (1689) — 信仰の非強制性
-  - （Proust 1965, pp. 299-300 がINTOLÉRANCEの典拠分析で確認）
-
-#### 3. 自然道徳論
-
-> 「la morale que la nature a gravée dans tous les cœurs」
-
-- **Hobbes, *De Cive*, ch. 14（法の区分）**: 「Nātūrālis ea est quam Deus omnibus hominibus patefēcit, per Verbum suum aeternum ipsīs innātum, nīmīrum Ratiōnem nātūrālem」（自然法とは、神がすべての人間に、彼ら自身に生まれつき備わった永遠の言葉——すなわち自然的理性——を通じて明らかにした法である）
-  - ディドロの *gravée*（刻まれた）とホッブズの *innātum*（生まれつき備わった）は語彙的には異なるが、「自然が/神がすべての人間の心に内在させた道徳法則」という構造は同一
-  - ホッブズは *Verbum aeternum* = *Ratio naturalis*（永遠の言葉＝自然理性）と同定し、ロゴス（ヨハネ1:1）を三位一体論から人間内在の理性へ世俗化している。ディドロの「自然が心に刻んだ道徳」はこの世俗化をさらに進め、「神」を「自然」（la nature）に置換した形
-- 百科全書項目 [[DROIT NATUREL]] でもホッブズへの暗黙的参照あり（「le raisonneur violent」）
-
-### Schwab再構築テキスト — 検閲前（マレ原稿）の復元
-
-出典: Schwab, "The Diderot Problem" Part II, *Eighteenth-Century Studies* 3:4 (1970), pp. 436-437。UCリバーサイド所蔵本等から未改訂刷り（cancel前の差し替え頁）を発見し復元。Gordon & Torrey (1947) にはPACIFICATION非収録（同書は校正刷り上の黒インク検閲のみが対象であり、カルトン差し替えによる検閲は範囲外）。 ^n0004
-
-#### 編集の性格 — 「逆方向の検閲」
-
-Schwabが発見した全カルトン差し替え中、**唯一の例外的ケース**: 差し替え後のテキスト（刊行版＝ディドロ改訂版）の方が差し替え前（マレ原稿）よりも**より過激で論争的**。通常のル・ブルトン検閲とは逆方向の編集。 ^n0005
-
-- マレ神父の原稿にはナント勅令廃止を弁護する議論が含まれていた
-- ディドロはこれを**完全に削除**し、逆に廃止を**批判**する内容（現行の刊行版テキスト）に書き換えた
-- 改変が根本的であったため、マレの署名 (G) を最終版から削除
-- マレ神父は1755年に死去しており、この改訂はそれから数年後に行われた
-
-#### 検閲前テキスト（マレ原稿）— ナント勅令廃止弁護論
-
-p. 736b末尾段落以降の全体が改訂され、p. 737aの最後の短い2段落のみが保持された。以下はディドロが完全に削除したマレの弁護論: ^n0006
+マレの弁護論は、p. 736b末尾段落以降の全体に及んでおり、p. 737aの最後の短い2段落のみが保持された。ディドロが完全に削除した原文は以下のとおりである。
 
 > On ne nous accusera pas sans doute d'avoir exagéré les circonstances critiques où furent obtenus ces différens édits de pacification. Pour peu qu'on consulte les historiens, on verra qu'ils furent tous extorqués par l'esprit de révolte, même sans en excepter celui de Nantes, contre la suppression duquel les Calvinistes ont tant déclamé.
 >
 > Le grief qu'ils ont le plus fait valoir, c'est qu'on avait violé à leur égard la foi des traités & des édits donnés & confirmés par tant de rois; & c'est ce que Bayle ne cesse de repéter dans ses lettres critiques sur l'histoire du Calvinisme. Sans entrer ici dans la question, si le prince a droit ou non de ne point tolérer les sectes opposées à la religion dominante dans son état, je dis qu'à considérer la chose du côté de la politique & du gouvernement, tous les raisonnements faits contre la révocation de l'édit de Nantes portent à faux; car, 1°. en faisant attention à la constitution monarchique du royaume de France, des sujets sont-ils jamais en droit de traiter d'égal à égal avec leur souverain, & de lui prescrire des conditions favorables pour eux, & contraires aux anciennes coutumes? 2°. Il suffit de jeter les yeux sur notre histoire pendant ces troubles, pour juger que les souverains n'accordent jamais ces sortes d'édits que forcés & contraints par la nécessité des conjonctures; qu'Henri IV. lui-même avait tout à craindre des cabales des Protestants, s'il ne satisfaisoit à leurs demandes, & que c'étoit à main armée qu'ils avoient obtenu de ses prédécesseurs ce qu'ils en exigeoient. Or il est de principe que toute convention extorquée par la violence est nulle, & que la partie lésée peut s'en relever quand elle en trouve les moyens, sur-tout si elle s'est relâchée ses droits en faveur d'un parti qui n'en avoit aucun. 3°. La confirmation que Louis XIII. & Louis XIV. ont donnée à l'édit de Nantes, est une chose purement circonstancielle qui ne change rien au fond de l'affaire: des tems de minorité toujours orageux ou dangereux, permettent des démarches prudentes qu'on ne peut rectifier dans la suite que par d'autres plus utiles au bien de l'état ou de la religion. 4°. Enfin tous ces édits de pacification n'étoient que provisionnels; & comme les rois les accordoient de leur pleine puissance (si l'on veut), ils étoient également les maîtres de les casser. Le même droit qu'eut Henri IV. pour révoquer les édits de réunion faits par Henri III. Louis XIV l'a eu pour révoquer celui de Nantes. Les premiers Chrétiens que les Calvinistes se sont tant piqués de retracer, mouroient en benissant les empereurs payens, & ne leur arrachoient pas par la force des armes des édits favorables à la Religion.
 
-#### マレ弁護論の論証構造（4段）
+> （訳）これらさまざまな平和王令が獲得された状況がどれだけ危機的であったか、我々がそれを誇張したと非難する者は誰もいないだろう。歴史家たちをいくらかでも参照すれば、これら王令がすべて叛乱者によって強奪されたものであることがわかる。その廃止に対してカルヴァン派はあれほど声高に抗議してきたナント勅令とて例外ではない。
+>
+> 彼らが最も強く主張した不満は、多くの王によって与えられ確認された条約と勅令の信義が自分たちに対して破られたということであり、これはベールが『カルヴァン派史批判書簡』で繰り返し述べていることである。ここでは、国家の支配的宗教に反する宗派を君主が容認すべきか否かという問題には立ち入らない。ただ私は言う、政治と統治の観点から見れば、ナント勅令撤回に対するすべての論難は的外れである、と。なぜなら——第一に、フランス王国の君主制的構造に注意すれば、臣民がいったい主権者と対等に交渉し、自らに有利で古来の慣習に反する条件を課す権利をもちうるだろうか。第二に、この動乱期の歴史に目を向けるだけで、君主がこの種の勅令を発したのはつねに情勢の必要に迫られ強いられてのことであり、アンリ4世自身もプロテスタントの陰謀を恐れざるをえなかったこと、そしてプロテスタントは先王たちから力ずくでもぎ取ったものを、また要求したのだということが見てとれる。ところで、暴力によって強奪されたあらゆる合意は無効であり、損害を被った側はその手段を見出したときにこれを覆しうるのが原則である。ましてや、何の権利ももっていなかった党派のために、自らの権利を手放したような場合にはなおさらである。第三に、ルイ13世とルイ14世がナント勅令に与えた追認は純粋に状況的なものであり、事の本質を何ら変えない。つねに波乱と危険に満ちた摂政期は慎重な措置を許すが、それは後になって国家や宗教の利益により有益な別の措置によってのみ是正しうるのである。第四に、結局これらの平和王令はすべて暫定的なものにすぎず、国王が（あえて言えば）その全権のもとにこれら王令を与えたのである以上、国王は同様にそれらを思うがままに破棄することができる。アンリ4世がアンリ3世の統合勅令を撤回した権利と同じ権利を、ルイ14世はナント勅令の撤回に対してもっていたのである。カルヴァン派が模範と仰いできた初期キリスト教徒は、異教の皇帝を祝福しながら死に、武力によって宗教に有利な勅令を勝ち取ろうとはしなかったのだ。
 
-1. **臣民の権利否定**: 臣民が主権者と対等に条件を課す権利はない（君主制の原則）
-2. **暴力による無効**: 平和王令はすべて武力で勝ち取られた→暴力による合意は無効（*toute convention extorquée par la violence est nulle*）
-3. **追認の暫定性**: ルイ13世・14世による追認は少数派時代の状況的措置にすぎない
-4. **国王の全権**: 勅令は暫定的（*provisionnels*）であり、国王はいつでも撤回可能
+マレの弁護論は四つの柱からなっている。第一に、フランス君主制の原則として、臣民が主権者と対等に交渉し自らに有利な条件を課す権利はないとする。第二に、歴代の平和王令はすべて武力で勝ち取られたものであるとした上で、暴力によって強奪された合意は無効であるという法的原則（*toute convention extorquée par la violence est nulle*）を援用する。第三に、ルイ13世とルイ14世によるナント勅令の追認は摂政期・少数派時代の状況的措置にすぎず、本質を変えないとする。そして第四に、これらの勅令はそもそも暫定的なもの（*provisionnels*）であり、国王が全権をもって与えたものである以上、いつでも撤回する権限を有すると結論づけている。
 
-末尾の「初期キリスト教徒」言及は、ディドロ改訂版の同一トポスと正反対の論理で使用: マレは「キリスト教徒は武力に訴えなかった→カルヴァン派の武力闘争は不当」と主張。ディドロは「キリスト教徒は祝福しながら死んだ→宗教的寛容が自然」と書き換えた。 ^n0007
+注目すべきは、マレが原稿の末尾で初期キリスト教徒のトポスに言及していることである。「カルヴァン派が模範と仰ぐ初期キリスト教徒は、異教皇帝を祝福しながら死に、武力で宗教に有利な勅令を勝ち取ろうとはしなかった」——つまり、カルヴァン派の武力闘争こそが不当だという論理に使われている。ディドロは改訂版でまさにこの同じトポスを採用しながら、その論理を正反対に反転させた。「初期キリスト教徒は祝福しながら死んだ」という事実から導かれるのは、武力闘争の不当性ではなく、良心に従って神に仕える自由を奪われたことへの苦い抗議であり、宗教的寛容の自然さである。同一の歴史的素材から対立する結論を引き出すこの操作は、百科全書におけるディドロの編集手法の核心をなすものと言える。
 
-#### PACIFIQUE項目との連関
+この編集意図の一貫性は、隣接するPACIFIQUE項目（XI, 737a）にも確認できる。改訂前、ディドロは "Voilà un titre auquel **l'auteur de l'art. PACIFICATION**, doit renoncer"（PACIFICATIONの著者はこの称号を放棄すべきだ）と書いてマレを名指ししていたが、改訂後はこれを "l'auteur de l'apologie de la révocation de l'édit de Nantes"（ナント勅令廃止の弁護論の著者）と書き換えた。マレの原稿を削除した後もこの批判を残し、名前の代わりに内容で著者を特定する匿名化の技法は、ディドロが自らの編集介入の痕跡を隠しつつ、思想的メッセージを維持しようとしたことを物語っている。
 
-隣接項目PACIFIQUE (XI, 737a) でディドロはマレを直接批判:
-- **改訂前**: "Voilà un titre auquel **l'auteur de l'art. PACIFICATION**, doit renoncer."（PACIFICATIONの著者はこの称号を放棄すべきだ）
-- **改訂後**: "Voilà un titre auquel **l'auteur de l'apologie de la révocation de l'édit de Nantes** doit renoncer."（ナント勅令廃止の弁護論の著者は…） ^n0008
+### 典拠の戦略 — 明示と暗黙のあいだ
 
-改訂前はマレを名指し、改訂後は匿名化しつつ「勅令廃止弁護」という内容で特定。マレ原稿の削除後もこの批判を残したことは、ディドロの編集意図の一貫性を示す。 ^n0009
+PACIFICATIONの刊行版テキストで明示的に引用される学術的権威は、ベール（Bayle）の『マンブール氏のカルヴァン派史の一般的批判』（*Critique générale de l'histoire du Calvinisme de Mr. Maimbourg*, 1682）ただ一つである。「c'est ce que Bayle démontre sans réplique dans ses lettres critiques sur l'histoire du Calvinisme」という一文がそれにあたる。興味深いのは、マレもまた原稿で同じベールの著作に言及していたことである。しかしマレはベールの議論を「カルヴァン派側の不満の繰り返し」として退けたのに対し、ディドロは同じ参照を「反駁不能な論証」として援用した。同一の典拠が、原著者と編集者の手でまったく逆の論証機能を果たしているのである。
 
-### Duflo 2025の位置づけ
+ディドロが依拠するベールの論証（[[Bayle_補巻_宗教改革史論_本文_ocr|日本語訳]]「新たなる手紙」第II〜VI節、原書pp. 253-260）は、五つの段階を踏んで展開される。まず国王の信義・約束の侵害を指摘し（p. 253、「ユグノーに対してあれほど何度も御自身の手を縛った国王の信義・約束が、ユグノーを救ってくれるべきではないでしょうか」）、次いで道徳的原則の優先を説いて政治的便宜が良心を腐敗させることを論証する（p. 255、「信義というのはわれわれにとって世界一神聖たるべきもの」）。さらに法的原則としてのpacta sunt servandaに訴え（p. 256、「人間的正義の最大の基礎は誠意にあり、それは一度結んだら協定を破らず、公に合意したものを維持する義務を課す」）、世代を超えた条約の拘束力をギベオン人の聖書的先例で裏づけた後（p. 258）、キリスト教君主の根本義務としての信義遵守という結論に至る（p. 260、「父祖の身においてあれほど厳粛に約束されたものを取り上げて、誓約の信義を、王としての約束を踏みにじるほど、キリスト教徒の君主の第一の最も基本的な義務に反することはありますまい」）。
 
-Duflo「L'article RÉFUGIÉS de l'Encyclopédie」(2025) はPACIFICATIONを「ルイ14世プロテスタント迫害批判項目群」（articles qui expriment sans ambiguïté une condamnation de la politique de persécution）として複数回列挙し、項目表では「匿名」と記載。しかしSchwab (1970) によるマレ原稿復元・ル・ブルトン検閲（カルトン差し替え）の発見には一切言及していない。Malletの原著者帰属にも触れず、Proust (1965, 1972) のPACIFICATION固有の帰属・検閲分析も参照されていない。 ^n0010
+しかし、PACIFICATIONの思想的射程はこの明示的典拠の範囲をはるかに超えている。ディドロはベール以外の典拠を一切名指ししないが、そのテキストには複数の思想的系譜が暗黙のうちに織り込まれている。
 
-Dufloの関心はRÉFUGIÉS中心のネットワーク分析であり、個別項目の著者帰属・検閲史には踏み込まない方法論的選択（論文の射程外）と解釈できる。なおSchwabの発見はDufloのテーゼを弱めるどころか強化する材料である: ディドロはマレの廃止弁護原稿を意図的に削除・改訂して迫害批判に反転させており、「迫害批判項目群」構築への強い編集意志を裏付ける。 ^n0011
+> 「Si les premiers chrétiens mouroient en bénissant les empereurs payens... servir leur Dieu selon la lumiere de leur conscience」
+
+初期キリスト教の非暴力と良心の自由に関するこの一節は、マレのトポスを反転させたものであると同時に、ディドロ自身が執筆した [[INTOLÉRANCE]] 項目で展開された論法と同根である。INTOLÉRANCE項目では教父文献が明示的に引用されており、テルトゥリアヌスの *Apologétique* および *ad Scapulam*（「Humani juris & naturalis potestatis...」）、オリゲネスやミヌキウス・フェリクスの「la religion se persuade & ne se commande pas」（宗教は説得されるものであり命じられるものではない）という定式、さらに聖アウグスティヌス、聖ヒラリオン、聖アタナシオス、聖クリュソストムス、サルウィアヌスの典拠が動員されている（Barker 1941, 脚注106で統合的に確認。同一の教父典拠はCOTEREAUX項目〔Oeuv., XIV, 235〕でも使用）。PACIFICATIONではこれらの固有名が一切現れず、「初期キリスト教徒」という匿名の集合的形象に凝縮されている。また、「良心の光どおりに神に仕える」（servir Dieu selon la lumière de leur conscience）という表現は、ベールの『マンブール氏のカルヴァン派史の一般的批判』p. 29にほぼ同一の形で見出される。ディドロが教父的典拠とベール的語彙の両方を一つの文に溶け込ませていることは、PACIFICATIONが百科全書の宗教批判項目群の結節点として機能していることを示唆する。
+
+> 「notre façon de penser religieuse dépend peu de nous」
+
+宗教的信念の非随意性というこのテーゼもまた、INTOLÉRANCE項目（p. 542-543）で「Il y a des circonstances où l'on est aussi fortement persuadé de l'erreur que de la vérité」（誤謬を真理と同じくらい強く確信する状況がある）として展開されている。「信仰は意志の産物ではない」という命題の思想史的系譜は、ベールの *Commentaire philosophique*（1686）における良心の権利論に始まり、ロックの *Epistola de Tolerantia*（1689）における信仰の非強制性の原則を経て、百科全書に至る。PACIFICATIONがこの系譜を明示的な引用なしに一文で要約していることは、ディドロが読者——とりわけ哲学的素養のある読者——に対して、公然とは言えないが明確に知的な連帯のシグナルを送っていたことを意味する。
+
+> 「la morale que la nature a gravée dans tous les cœurs」
+
+自然道徳論に関するこの表現は、ホッブズの *De Cive* 第14章の法の区分における定式と構造的に対応する。ホッブズは「Nātūrālis ea est quam Deus omnibus hominibus patefēcit, per Verbum suum aeternum ipsīs innātum, nīmīrum Ratiōnem nātūrālem」（自然法とは、神がすべての人間に、彼ら自身に生まれつき備わった永遠の言葉——すなわち自然的理性——を通じて明らかにした法である）と述べ、*Verbum aeternum*（永遠の言葉）を *Ratio naturalis*（自然理性）と同定することで、ヨハネ福音書1:1のロゴスを三位一体論から人間内在の理性へと世俗化した。ディドロの *gravée*（刻まれた）とホッブズの *innātum*（生まれつき備わった）は語彙的には異なるが、「すべての人間の心に内在する道徳法則」という構造は同一である。ただしディドロは、ホッブズがなお保持していた「神」を「自然」（la nature）に置き換えることで、世俗化をさらに一歩進めている。百科全書項目 [[DROIT NATUREL]] におけるホッブズへの暗黙的参照（「le raisonneur violent」）も、この典拠系統の延長線上に位置づけられる。
+
+### 思想史的位置づけ
+
+Barkerは本項目を以下のように評価している（Oeuv., XVI, 181-4）。 ^p0023
+
+> "In *Pacification* he mentions also the persecution of the Protestants under the Valois-Angoulême kings, including the massacre of Saint Bartholomew's Day, and scores the revocation of the Edict of Nantes which deprived the state of an infinite number of citizens and workers."
+>
+> （『平和（王令）〔PACIFICATION〕』において、ディドロはヴァロワ＝アングレーム朝下のプロテスタント迫害、サン・バルテルミーの虐殺にも言及し、国家から無数の市民と労働者を奪ったナント勅令廃止を非難している。）
+
+Duflo「L'article RÉFUGIÉS de l'Encyclopédie」(2025) は、PACIFICATIONを「ルイ14世プロテスタント迫害批判項目群」（articles qui expriment sans ambiguïté une condamnation de la politique de persécution）の一つとして複数回列挙し、項目表では「匿名」と記載している。しかしDufloはSchwab (1970) によるマレ原稿の復元にもル・ブルトンによるカルトン差し替えの発見にも一切言及しておらず、マレの原著者帰属にも触れていない。Proust (1965, 1972) のPACIFICATION固有の帰属・検閲分析も参照されていない。Dufloの関心がRÉFUGIÉS項目を中心としたネットワーク分析にあり、個別項目の著者帰属や検閲史には踏み込まないという方法論的選択をしていることを考えれば、これは論文の射程外として理解できる。
+
+しかしながら、Schwabの発見はDufloのテーゼを弱めるどころか、むしろ強化する材料である。ディドロはマレの勅令廃止弁護原稿を意図的に削除し、正反対の迫害批判へと改訂した。このことは、「迫害批判項目群」の構築が偶然の産物や寄稿者の自発的傾向の集積ではなく、編集者ディドロの強い意志と一貫した戦略に基づくものであったことを裏づけている。
 
 ## 書誌
 
@@ -180,7 +152,27 @@ Dufloの関心はRÉFUGIÉS中心のネットワーク分析であり、個別�
 - Schwab, "The Diderot Problem" Part II, *ECS* 3:4 (1970), pp. 436-437 — 検閲前テキスト復元
 - Proust, *Diderot et l'Encyclopédie* (1965), fn. 125 bis — 著者帰属
 - Proust, "Questions sur l'Encyclopédie" (1972), pp. 19-21 — カルトン差し替え分析
+- Bayle, Pierre, *Critique générale de l'histoire du Calvinisme de Mr. Maimbourg*, Ville-Franche [Amsterdam], 1682 — 本項目の明示的典拠
+- Bayle, Pierre, 『宗教改革史論』野沢協訳、法政大学出版局、2004年 — 上記の日本語訳（[[bayle2004宗教改革史論|文献ノート]]）
 
 - [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v11-737-0/)
 
 - 項目カード: [[PACIFICATION]]
+
+
+- ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v11-737-0/
+
+### 一次資料
+
+- Bayle, Pierre, De la tolérance: Commentaire philosophique [1686], éd. Jean-Michel Gros, Paris, Honoré Champion, 2006. [Bayle2006Tolerance]
+- Bayle, Pierre. Critique générale de l’histoire du Calvinisme de Mr. Maimbourg. Ville-Franche [Amsterdam], 1682.
+- Bayle, Pierre. ピエール・ベール著作集補巻 宗教改革史論. 野沢協訳. 東京: 法政大学出版局, 2004.
+- Diderot, Denis. “PACIFICATION.” Encyclopédie, vol. 11, p. 736-737.
+
+### 二次資料
+
+- Barker, Joseph Edmund. Diderot’s Treatment of the Christian Religion in the Encyclopédie. New York: King’s Crown Press, 1941.
+- Duflo, Colas. “L’article RÉFUGIÉS de l’Encyclopédie.” 2025.
+- Proust, Jacques. Diderot et l’Encyclopédie. Paris, 1965. fn. 125 bis.
+- Proust, Jacques. “Questions sur l’Encyclopédie.” 1972. pp. 19-21.
+- Schwab, Richard N. “The Diderot Problem.” Eighteenth-Century Studies 3:4 (1970). pp. 436-437.

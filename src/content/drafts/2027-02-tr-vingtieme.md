@@ -1160,7 +1160,7 @@ Cet article est tiré des papiers de défunt M. Boullanger , ingénieur des pont
 
 ## 注釈
 
-本項目は20分の1税（vingtième）に関する百科全書項目であり、ディドロが執筆した。本項目には、カヴェラック神父を「血に染まった人物」（homme de sang）と呼ぶ重要な言及が含まれており、ディドロは「聖バルテルミの弁護をあえて行った『血に染まった人物』」としてカヴェラックを厳しく批判している。 ^p0539
+本項目は20分の1税（vingtième）に関する百科全書項目であり、ディドロが執筆した。本項目には、カヴェラック神父を « homme de sang（血に染まった人物） » と呼ぶ重要な言及が含まれており、ディドロは「聖バルテルミの弁護をあえて行った « homme de sang »」としてカヴェラックを厳しく批判している。 ^p0539
 
 ### ディドロのカヴェラック批判
 
@@ -1174,7 +1174,7 @@ Cet article est tiré des papiers de défunt M. Boullanger , ingénieur des pont
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v17-280-0/
 
 - [[260121_Duflo_REFUGIES_Encyclopedie_2025]] — 関連項目群の分析
-- [[Caveirac_Jean_Novi_de]] — 「homme de sang」表現の対象
+- [[Caveirac_Jean_Novi_de]] — « homme de sang » 表現の対象
 - [[INTOLÉRANCE]] — 同様の表現を含む項目
 - [[JOURNÉE_DE_LA_SAINT-BARTHÉLEMY]] — 関連項目
 

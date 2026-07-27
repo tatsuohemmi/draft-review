@@ -10,7 +10,7 @@ tags:
   - draft
 slug: "2026-02-tr-besancon"
 sourceFolder: "2026-02_tr_BESANÇON"
-lastCopied: "2026-03-11T14:24:39.952Z"
+lastCopied: "2026-03-15T08:28:20.316Z"
 ---
 
 ## 原文
@@ -39,26 +39,31 @@ lastCopied: "2026-03-11T14:24:39.952Z"
 
 ## 注釈
 
-### 概要・要約
+本項目は百科全書の分類において「*Géog.*」（地誌）に帰属するが、この分類は地理情報の伝達を目的とするものではなく、マリー・レカ＝ツィオミスが明らかにしたような言説的偽装として機能している¹。本項目の実質は、ブザンソン近郊の洞窟に関する三つの報告を批判的に並置することで「ものを疑うのを学ぶ（« pour apprendre à douter »）」という認識論的訓練を読者に課す哲学的エッセイである。この定式 « pour apprendre à douter » こそが本項目全体の意味論的核であり、ディドロが地理記述という中立的外皮の下に認識論的態度の形成プログラムを埋め込んだことを示している。 ^n0001
 
-（ここに項目の概要や主要テーマを記入する。）
-項目を一種のダシにして「ものを疑うのを学ぶ」ということに関わる批評的エッセイをいれたもの。自然環境の謎を解明するのには、哲学者ですらこれをまっとうできない。健全な懐疑と批判精神を重視することに『百科全書』編纂者は注意を差し向ける。 ^p0009
+三つの報告の批判的並置は「脱神秘化の三段階構造」として機能する。1699年の第一報告は夏の氷産生を奇跡的現象として記述し、1712年の第二報告はフォントネルが提示した亜硝酸塩による自然的説明によってこれを「確認」しようとし、1726年の第三報告は現地の四季観測によってその説明の前提たる現象そのものを否定する²。注目すべきはディドロのフォントネルへの評価である。フォントネルの説明は « une explication très-simple & très-naturelle »（きわめて簡素で自然な説明）と称揚されつつも、直後に « c'est dommage que le phénomene ne soit pas vrai »（残念ながら現象そのものが真実ではない）という一撃が加えられる。「自然な説明」が実在しない現象の説明に終わるというこの逆説は、観察なき合理化の欺瞞性を鮮やかに示すものである。 ^n0002
+
+本項目の哲学的頂点は¶4に存する。批判の矛先が「旅行者」ではなく「哲学者（philosophes）」に向けられるという構造的逆転がそこにある。« ce sont des philosophes, & ils nous en rapportent des faits faux, des préjugés, de mauvais raisonnemens, que d'autres philosophes reçoivent, impriment, & accréditent de leur témoignage »（哲学者が偽りの事実と偏見、誤った議論をわれわれに報告し、別の哲学者がそれを受け取り、印刷し、みずからの証言で信用を高める）。啓蒙哲学者が予断と権威を再生産するという逆説は、百科全書という認識論的プロジェクトが単純な「理性の礼賛」ではなく、知の生産者自身への批判的自己省察を内包することを示す³。ヴェロニク・ル・リュが論じたように、百科全書における懐疑主義は進歩の礼賛ではなく認識の限界の自覚として機能している。 ^n0003
+
+本項目は百科全書の内部連動においても重要な位置を占める。CERTITUDE項目（証言の蓋然性に関する認識論的分析）との連動は明示的であり、AGNUS SCYTHICUS項目（中世ヨーロッパに流布した「植物質の羊」の伝説を扱う項目）との連動においては「権威の承認が蓋然性に反比例する」という認識論的命題が共有されている⁴。こうして « pour apprendre à douter » という定式は、BESANÇON項目を超えて百科全書全体の認識論的プロジェクトの縮図として機能する。地理項目という外皮の下で、百科全書は懐疑論の訓練所として機能しているのである。 ^n0004
+
+¹ Marie Leca-Tsiomis, *Écrire l'Encyclopédie. Diderot : de l'usage des dictionnaires à la grammaire philosophique*, Oxford, Voltaire Foundation, 1999 (SVEC, 375). 地理・技術項目の外皮を利用した哲学的議論の埋め込み戦略については同書第一部を参照。
+² *Mémoires de l'Académie des sciences*: 第一報告（anciens Mémoires, tom. II, ~1699年）、第二報告（1712年号）、第三報告（1726年号）。各報告はフォントネルが *Histoire de l'Académie* として叙述したもの。ディドロが原 *mémoires* ではなくこの *Histoire* 叙述を典拠とし、Godin 版 *Tables alphabétiques*（1729、1699–1710年分収録）を通じてアクセスした可能性が高い。Mitia Rioux-Beaulne, « Renvois, rapports, liaisons. Diderot, l'*Histoire de l'Académie royale des sciences* et ses *Tables alphabétiques* », *Recherches sur Diderot et sur l'Encyclopédie*, n° 58, 2023, p. 141–164, ici p. 158–162 参照。
+³ Le Ru, Véronique. *Subversive Lumières: l'Encyclopédie comme machine de guerre*. Paris: CNRS Éditions, 2007. → [[Le_Ru_2007_Subversive_Lumieres]]（参照カード要作成）
+⁴ CERTITUDE・AGNUS SCYTHICUS との相互参照 → [[CERTITUDE]]・[[AGNUS SCYTHICUS]]
 
 ### 主な論点・キーワード
 
 - #博物学的懐疑主義
 
-### 詳細分析・引用注釈
+### 関連ノート
 
-- ^p0010
+#### 百科全書項目
+- [[CERTITUDE]] — 証言の蓋然性に関する認識論的分析。BESANÇON項目の「報告の信頼性」批判と連動
+- [[AGNUS SCYTHICUS]] — 中世ヨーロッパの「植物質の羊」伝説を扱う項目。権威が蓋然性に反比例するという認識論的命題を共有
 
-### 典拠分析
-
-### 明示的典拠（引用が明確）
-- « on trouve trois récits dans les _Mémoires de l’Académie ;_ l’un dans les _anciens Mémoires, tom. II._ le second dans le recueil de 1712,& le troisieme dans celui de 1726. »
-
-### 暗黙的典拠（引用が不明確または暗示的）
--
+#### 研究カード
+- [[BESANÇON (_Géog._) ville de France]] — 原文項目カード
 
 ## 書誌
 

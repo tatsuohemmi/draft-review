@@ -9,6 +9,19 @@
  * Usage:
  *   node scripts/copy-drafts.mjs          (from _web/ root)
  *   npm run copy-drafts
+ *
+ * ⚠ 破壊的操作（2026-07-28 追記）
+ *
+ * このスクリプトは src/content/drafts/*.md を無条件に上書きする。
+ * 現在の運用では注釈の拡充が _web 側（src/content/drafts/）で行われており、
+ * 制作層 01_Projects/<項目>/draft.md より新しい。そのまま実行すると
+ * 拡充分が失われる。
+ *
+ * 実際に 2026-07-28 のビルドで 14 ファイル・約 42,800 字の日本語注釈が
+ * 上書きされ、Obsidian Sync のバージョン履歴から復旧した。
+ *
+ * このため package.json の prebuild フックは削除済み。npm run build では
+ * 走らない。実行する場合は、上書き先が古いことを確認してから手動で行うこと。
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';

@@ -10,7 +10,8 @@ tags:
   - draft
 slug: "2026-02-tr-croisades"
 sourceFolder: "2026-02_tr_CROISADES"
-lastCopied: "2026-03-11T14:24:39.952Z"
+lastCopied: "2026-03-15T08:28:20.316Z"
+updated: 2026-03-19
 ---
 
 ## 原文
@@ -179,35 +180,35 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 ## 注釈
 
-十字軍（聖地回復のための戦争、異端・異教撲滅のための戦争）に関する長大な歴史項目。ディドロとダランベール共著。十字軍を「狂信」「愚行」として批判的に描き、ヴォルテールとフルリ神父の著作を典拠として明示。約200万人の犠牲者と2億フラン以上の費用を算出し、十字軍がヨーロッパにもたらした災厄を列挙する。 ^p0078
+本項目の標題分類 *Hist. mod. & ecclés.*（近世史・教会史）は、十字軍を辞典的な歴史叙述として提示しながら、教会権力への批判を埋め込む言説的偽装として機能する。項目冒頭のアスタリスク（*CROISADES）は百科全書の慣例によりディドロの執筆を示し¹、歴史年代記の外装が哲学的告発の媒体であることを予告する。プルーストはこの項目と [[COTEREAUX_CATHARIS_COURRIERS_ROUTIERS|COTEREAUX]] を「辞典第4巻における殺戮的不寛容の歴史的証拠を提供する二項目」として並置し、プラード事件以後のディドロの批判的鋭化という文脈に位置づけた²。
 
-- 十字軍批判（啓蒙主義的視点）
-- ピエール隠者（Pierre l'Hermite）の狂信
-- ゴドフロワ・ド・ブイヨン
-- 聖王ルイ（Louis IX）の2度の十字軍
-- フリードリヒ・バルバロッサ
-- アルビジョワ十字軍（異端撲滅）
-- 北方十字軍（異教徒撲滅）
-- 経済的・人口的損失の算定
+ディドロはフルーリ *Histoire ecclésiastique* 第IV・V・VI巻を主要素材として本項目を執筆した——これはバーカーによって確認された事実である（Barker, p. 100, n. 96）³。しかし典拠の使用は単なる要約ではない。プルーストが指摘するように、ディドロは「教皇と幾人かのヨーロッパ君主の利害関心」（¶4原文）というフルーリの記述を選択的に前景化し、記述的年代記を告発の証拠へと変換する⁴。末尾の *Voyez les ouvrages de M. de Voltaire* はヴォルテールの十字軍批判を迂回的に動員する戦略であり、哲学者の声を歴史的権威に仮託することで検閲をかわす仕掛けとなっている。
 
-- 十字軍による犠牲者：約200万人
-- 聖王ルイの身代金：900万リーヴル
-- 総費用：2億900万フラン以上と推計
+バーカーが「ディドロの余談」（une digression de Diderot）と特定したのは原文第3段落——訳文¶4に対応——である（Barker, p. 100）⁵。« pour entraîner une partie du monde dans une malheureuse petite contrée, afin d'en égorger les habitants, & de s'emparer d'une pointe de rocher qui ne valoit pas une goutte de sang »という一節は、歴史叙述の文体から哲学的弾劾の文体へと転換する瞬間を画する。プルーストはこの段落の *étourdissement*（茫然自失）という語がディドロの憤慨を凝縮していると論じており、INDIGNATION項目のレトリックとの類比を示す。
 
-### 明示的典拠（引用が明確）
-- Voltaire「ouvrages」
-- Fleury, abbé「discours sur l'histoire ecclésiastique」
-  - Claude Fleury (1640-1723)『Histoire ecclésiastique』全20巻、1691年パリ初版
-  - Proustによれば、ディドロは第IV、V、VI巻を本項目の典拠として使用
-  - ヴォルテール評：「これまで書かれた中で最良の教会史」（『ルイ14世の世紀』）
-  - ローカル所在:
-    - 第1巻: `F:\Dropbox\ArticlesPDF\_Rec\Fleury_Histoire_ecclesiastique_par_M_Fleury_Tom1_ocr.pdf`
-    - 第IV、V、VI巻: Google Booksからダウンロード済み（Gallica版は圧縮されておりOCR不可）
-  - Gallica参照リンク:
-    - [Tome I](https://gallica.bnf.fr/ark:/12148/bpt6k9737193h) | [Tome IV](https://gallica.bnf.fr/ark:/12148/bpt6k9737526g) | [Tome VI](https://gallica.bnf.fr/ark:/12148/bpt6k97372696)
+本項目は聖地回復（¶2-27）・北方異教徒根絶（¶28）・アルビジョワ異端根絶（¶29）という三部構成によって、十字軍の暴力の類型的・地理的拡大を俯瞰する。アルビジョワ十字軍の帰結が「ヨーロッパにおける異端審問制度の創設」と明示されることで、宗教的不寛容の制度化が批判の射程に収まる。数量的論証——約200万人の死者、2億900万フランの総費用（¶35-36）——は啓蒙主義的合理性の言語で哲学的判決を下し、神学的弁解の入り込む余地を封じる。
 
-### 暗黙的典拠（引用が不明確または暗示的）
--
+本項目は百科全書の不寛容批判ネットワークの歴史的基盤として機能する（Proust, pp. 296-298）⁶。[[COTEREAUX_CATHARIS_COURRIERS_ROUTIERS|COTEREAUX]] は教皇アレクサンデル3世による異端者虐殺を「福音の精神にまったく反する行為」として糾弾し、[[INTOLÉRANCE]] は不寛容の理論的批判を展開する。[[RÉFUGIÉS]] はプロテスタント亡命者の経済的損失を論じることで、宗教的迫害の物質的帰結を人口・財政の二軸から明示し、CROISADESの数量的論証と相補的な対をなす。
+
+¹ 百科全書のアスタリスク記号はディドロ執筆を示す。本項目はAT（Assézat-Tourneux版）第XIV巻243-252頁に収録される。
+
+² Proust, J. *Diderot et l'Encyclopédie*, Paris: Albin Michel, 1995 [1962], pp. 296-297: « Deux articles au moins, dans le tome III du dictionnaire, donnent des exemples historiques d'intolérance meurtrière. »
+
+³ Barker, J. E. *Diderot's Treatment of the Christian Religion in the Encyclopédie*, New York: King's Crown Press, 1941, p. 100, n. 96. → [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]]
+
+⁴ Proust, op. cit., p. 297; AT第XIV巻244頁（注(9)）: « Il ne manque pas d'ailleurs de retenir les indications que lui fournit l'*Histoire ecclésiastique* sur certaines causes sordides des croisades, comme « l'intérêt des papes et de plusieurs souverains de l'Europe ». »
+
+⁵ Barker, op. cit., p. 100; Proust, op. cit., p. 298（注(8)）: « Ce paragraphe est une digression de Diderot, selon Barker, p. 100. »
+
+⁶ Proust, op. cit., pp. 296-298. 殺戮的不寛容（*intolérance meurtrière*）概念の展開とCOTEREAUX・CROISADES双対論については同書pp. 296-297参照。
+
+### 関連ノート
+
+- [[COTEREAUX_CATHARIS_COURRIERS_ROUTIERS|COTEREAUX]] — Proustの「殺戮的不寛容」論における双対項目。教皇アレクサンデル3世の異端者虐殺を「福音の精神」に反するものとして糾弾
+- [[INTOLÉRANCE]] — ディドロ執筆の不寛容批判。CROISADESとの項目間連動
+- [[RÉFUGIÉS]] — 宗教的迫害の経済的損失論。CROISADESの数量的論証と相補的
+- [[PERSÉCUTION]] — 迫害批判ネットワークの理論的核心
+- [[Barker_Diderot_Treatment_Christian_Religion_Encyclopedie]] — 執筆帰属・フルーリ典拠使用・ディドロ余談特定の根拠文献
 
 ## 書誌
 
@@ -235,3 +236,12 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
     - 【和訳】「キリスト教の歴史は数多くの不寛容の行為によって特徴づけられてきた。観念の領域における不寛容から、正しく考えない者を物理的に抹殺しようとする意図的な意志へと至るには一歩しかなく、キリスト教徒はその一歩を何度も踏み越えてきた（…）。『百科全書』の歴史は、ディドロが、とりわけプラード事件以後、より辛辣に、より精確になったことを十分に説明している。辞典第3巻の少なくとも二つの項目が、殺戮的不寛容の歴史的事例を提供している。*コトロー*項目(7)において、ディドロは、たとえば聖アウグスティヌスを鼓舞した「福音の精神」に反して、これらの異端者の虐殺を命じ奨励した教皇アレクサンデル3世を糾弾している。*十字軍*項目において、彼は「茫然自失」に憤慨している…」
 
 - 項目カード: [[CROISADES]]
+
+## 研究ログ
+
+### 260319 作業記録
+- **注釈セクション完成確認（Phase 4 検証）**
+  - 前セッションで生成・コミット済みの注釈セクション（行180-211）を検証
+  - 構造: `## 注釈` / `## 書誌` 各1回、脚注¹-⁶、関連ノート5件 — すべて正常
+  - 注釈テキスト2882字（散文5段落＋脚注6件＋関連ノートセクション）
+  - git履歴で複数コミット確認（引用符号統一・典拠特定を含む）

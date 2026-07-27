@@ -7,8 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "copy-drafts": "node scripts/copy-drafts.mjs",
-    "prebuild": "node scripts/copy-drafts.mjs"
+    "copy-drafts": "node scripts/copy-drafts.mjs"
   },
   "dependencies": {
     "astro": "^5.3.0"

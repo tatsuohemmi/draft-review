@@ -7,7 +7,7 @@ source: "[[CIGUE]]"
 enccre_url: "https://enccre.academie-sciences.fr/encyclopedie/article/v3-656-0/"
 reel6_step: annotation
 status: 典拠調査完了・原稿構造見直し継続
-last-updated: 2026-02-14
+last-updated: 2026-03-16
 tags:
   - project/reel6
   - draft
@@ -17,7 +17,7 @@ related:
   - "[[20260213_18世紀におけるPersiusの受容]]"
 slug: "2026-02-tr-cigue"
 sourceFolder: "2026-02_tr_CIGUE"
-lastCopied: "2026-03-11T14:24:39.952Z"
+lastCopied: "2026-03-15T08:28:20.316Z"
 ---
 
 ## 原文
@@ -584,40 +584,33 @@ Quoique d'après certains anciens auteurs la qualité vénéneuse de la ciguë, 
 
 ## 注釈
 
-### 典拠資料比較状況
+CIGUE項目は、標題分類に « s. f. cicuta, (Hist. nat. Bot.) »（女性名詞・博物学・植物学）を掲げる。トゥルヌフォールの植物学体系に基づく属の定義から始まるこの項目は、一見すると本草学上の技術的記述にすぎない。しかしジョクールはその冒頭の定義を一行で片付けた直後に、突如として次のように書く——« La mort de Socrate a seule suffi pour en immortaliser les effets »（ソクラテスの死だけが、この植物の効果を不朽のものにするのに十分であった）。この一文によって項目のテクストは、植物学の記述空間から哲学的・政治的省察の領域へと一挙に転位する。読者はプラトン『パイドン』におけるソクラテスの最期を想起させられ、「そのような尊敬すべき人物の悲劇的な最期に関するすべてが、その生涯を終焉させた植物に至るまで、興味深いものになる」という一節を通じて、薬用植物の記事がなぜ感動的な語りを纏わなければならないのかという問いへと誘導される¹。
 
-- **Geoffroy『医学材料論』**: 翻訳完了（458-503行）
-- **James『医学辞典』**: 部分翻訳（566-596行）、亜種セクション未訳
-- **Furetière/Trévoux**: 画像引用のみ、本文翻訳なし
+この転換の手法を解明するには、ジョクールの典拠操作を精査する必要がある。項目の医学的・植物学的記述の骨格は、エティエンヌ＝フランソワ・ジョフロワ（Geoffroy）の Traité de la matière médicale（1743年、第6巻）から組織的に引用されている。ジョフロワの原文は、ドクニンジンの形態・化学分析・毒性・外用法を淡々と記述する薬物誌であり、ソクラテスへの言及は最小限にとどまる。ジョクールはこの記述を忠実に借用しつつも、二つの決定的な改変を加えている。第一に、ジョフロワが留保付きで述べた内服使用の可能性に対して、「この医師は硬結を治癒したことはなく」と批判的注釈を追加し、より強く否定する方向に修正した。第二に、ジョフロワには一切存在しない古典文献の引用を大量に挿入し、医学的記述の合間にペルシウス、ホラティウス、プリニウスという三人のローマの著作家を並列させた²。
 
-### 研究的意義
+この古典三者の並列は、確認できるすべての中間文献——Trévoux辞典（1740・1743・1752年の全版）、フュルティエール辞典、ジョフロワ、ジェイムズ『医学辞典』——のいずれにも存在しない。ジョクール独自の構成である。ペルシウス『風刺詩』第5歌146行（« bilis Intumuit, quam non extinxerit urna cicutae »、胆汁が腫れ上がったが、ドクニンジンの壺はそれを消し去ることができなかった）の典拠はデプレ（Desprez）のペルシウス Ad usum Delphini 版（1684年）であり、その注釈がドクニンジンを frigidus（冷性の薬）として解釈し、プリニウス『博物誌』第14巻・第25巻を相互参照させていた。ホラティウス『書簡詩』第2巻第2歌53行の典拠はダシエ（Dacier）訳注（1709年）であり、ドクニンジンの薬用を擁護する注釈を付していた。ジョクールはこの二つの注釈伝統を統合し、「アテネ＝致死毒／ローマ＝治療薬」という地理的相対主義の論証を構築したのである³。
 
-- Jaucourtの引用戦略の典型例（複数典拠の並置による真理構成）
-- 18世紀のソクラテス像形成における役割
-- 「多数性」論文への統合ポイント
-```
+この地理的相対主義には、もう一つ注目すべき典拠が潜んでいる。ジョクールは « Lescale rapporte quelque part, que voyageant en Lombardie, on lui servit de la salade où il y avoit de la ciguë »（レスカルはどこかで、ロンバルディアを旅行中にドクニンジンの入ったサラダを供されたと報告している）と書く。この「レスカル」の典拠は、ユリウス＝カエサル・スカリゲル（Julius Caesar Scaliger、父）の Exercitationes exotericae de subtilitate（1557年）、第152練習問題「ドクニンジンについて」（De Cicuta）である。スカリゲルの原文は « in Liguribus Taurinis […] eius radices pro deliciis habent […] Ego quoque saepe esitavi »（リグリアのタウリーニ族の地方では根を美味として珍重している。私もしばしば食べた）と述べている。ジョクールはこの一人称体験を三人称化し（« Ego quoque » → « on lui servit »）、地名をピエモンテからロンバルディアに一般化し、食べ方を「根」から「サラダ」に変換した。« quelque part »（どこかで）という曖昧な出典指示は、ジョクール自身が原典を記憶に基づいて引用していたことを示唆していよう。なお、以上の典拠同定は従来の諸研究文献に先例がない⁴。
 
+Trévoux辞典との比較を通じて、ジョクールの言説戦略はより鮮明に浮かび上がる。Trévoux（1740年版）もソクラテスとフォキオンの処刑の逸話を記載しているが、同辞典はその前に「ラテン語 cicuta が葦笛を意味する」という語源学的余談を挿入し、ウェルギリウス『牧歌』を引用していた。ジョクールはこの語源学的記述を思い切って排除し、代わりに冒頭にプラトン『パイドン』への賛辞を配置している。さらに、Trévoux辞典が処刑人の貪欲さの逸話をプティ氏（M. Petit）の『雑録』から簡潔に引いていたのに対し、ジョクールはプルタルコス『フォキオン伝』のダシエ版（第6巻、409頁）に遡及してこれを大幅に拡充し、12ドラクマの換算額（« aujourd’hui, 1752, environ neuf livres dix sous de notre monnoie »）まで添えた⁵。Trévoux辞典では単なる奇聞であった処刑人の逸話が、ジョクールの手によって項目全体を締めくくる警句——« puisque, dit-il, dans Athenes il faut tout acheter, jusqu’à sa mort »（なぜなら、アテネでは死に至るまで、すべてを購入しなければならないからだ）――へと再配置されたのである。
 
-```dataviewjs
-dv.header(3, "関連ノート");
-var maxLoop = Math.min(dv.current().file.tags.length, 3);
-for(let i=0;i<maxLoop;i++){
-dv.span(dv.current().file.tags[i]);
-dv.list(dv.pages(dv.current().file.tags[i]).sort(f=>f.file.mtime.ts,"desc").limit(15).file.link);
-}
-
-for (let outgo of dv.pages('outgoing([[' + dv.current().file.name + ']])')) {
-    dv.header(4, outgo.file.name);
-    dv.list(outgo.file.inlinks.sort());
-}
-``` ^p0223
-
-ref:
-Primary source ^p0224
+ジョクールの項目構成を、オリヴィエ・フェレ（Ferret）が「借用empruntの哲学」（philosophie de l’emprunt）と名づけた引用戦略の文脈に位置づけるならば、本C項目は典型的な事例を提供する。マドレーヌ・モリス（Morris）の言う「コラージュ」——教育的意図をもって注意深く組み立てられた資料の選択と配置——が、ここでは本草学テクスト（ジョフロワ）、古典注釈伝統（デプレ、ダシエ）、ルネサンスの博物学的逸話（スカリゲル）、そして百科全書以前の辞典（Trévoux）という四つの層から素材を採取し、それらを「ローマ＝薬／アテネ＝毒」という概念軸の周囲に再配置する操作として遂行されている⁶。バルー＝ペパン（Barroux et Pépin）の表現を借りれば、「着想源の屈折と再分配」によって、ジョクールは一見すると植物学的な項目の内部に、理性の殉教者としてのソクラテス像を記念碑的に構築し、それを不正な権力への暗黙の告発として機能させることに成功している。
 
 
 
-# Secondary source
+¹ « La mort de Socrate » は百科全書においてジョクールが展開するソクラテス受容の中核的テーマをなす。ジョクールは百科全書全体で68項目にわたってソクラテスに言及している（ENCCREによる）。18世紀における「理性の殉教者」としてのソクラテス像の緊張を孕んだ形成については、当時のソクラテス論の対立——衆愚政治の犠牲者と見なす反共和主義的解釈（ビーヴァル＝ソーニークロフ (Beval and Thorneycroft)『勝利するソクラテス』(Socrates Triumphant)、1716年）対ソクラテス断罪を正当とみなす民主主義的解釈（フレレ(Fréret）『観察』(Observations)、1736年；ドライジヒ(Dreisig)『ソクラテス断罪の正当性に関する書簡』(Epistle on the justice of Socrates’ condemnation)、1738年）——を参照。Cf. Trapp, 2007.
+
+² ジョフロワ Traité de la matière médicale（1743年、第6巻、pp. 68-74）との詳細な典拠比較。ジェイムズ（James）『医学辞典』（Dictionnaire universel de médecine, 1746-1748）からの部分的借用も確認されている。
+
+³ ペルシウス・ホラティウス・プリニウスの三者並列構成の典拠経路について。ペルシウス注釈の典拠はデプレ Ad usum Delphini 版（1684年）——同注釈はドクニンジンを frigidus（冷性の薬）として解釈し、プリニウス『博物誌』第14巻・第25巻を相互参照していた——、ホラティウス注釈の典拠はダシエ訳注（1709年）。Trévoux辞典全版（1740・1743・1752）、Furetière、Geoffroy、Jamesのいずれにもこの三者並列は存在しないことが網羅的に検証されている。
+
+⁴ Scaliger, Julius Caesar. Exercitationes exotericae de subtilitate. 1557. Ex. CLII “De Cicuta.” 同じ『顕教的演習』にはポンポナッツィの師トラポリーノがドクニンジンの葉をパセリと間違えて中毒死した逸話も含まれており、スカリゲル自身の体験との対比が毒性の地理的変異を論証する構造を形成している。
+
+⁵ Trévoux辞典（1740年版）がプティ（Petit）の『雑録』（Observations miscellanées）を典拠としていたのに対し、ジョクールがプルタルコス原典（ダシエ訳）に直接遡及した点も重要な改変である。問題の箇所はプルタルコス『フォキオン伝』ダシエ版(Plutarchus)に見られる。なおジョクールはダシエ版の原文を微妙に改変しており、« douze drachmes » の換算はジョクール自身の付加である。
+
+⁶ Ferret, Olivier. « La philosophie de l’emprunt : Jaucourt et l’histoire de l’Espagne dans l’Encyclopédie ». Recueil d’études sur l’Encyclopédie et les Lumières, n. 2, 2013. Morris, Madeleine F. Le chevalier de Jaucourt. Un ami de la terre (1704-1780). Genève: Droz, 1979. Barroux, Gilles et Pépin, François. « Présentation. Encyclopédisme, éclectisme, critique : les figures philosophiques de Jaucourt », dans id. (dir.), Le Chevalier de Jaucourt. L’homme aux dix-sept mille articles. Paris : Société Diderot, 2015, p. 15.
+
+<!-- assertion-preserve: ^p0223 ^p0224 [[260213_CIGUE項目の典拠構造分析]] [[260213_CIGUE項目の典拠構造分析#ジョクールの引用戦略]] [[20260213_18世紀におけるPersiusの受容]] [[20260214_ln_Scaliger_Exercitationes_Ex_CLII_De_Cicuta]] [[260213_CIGUE項目の典拠構造分析#フォキオンの逸話の詳細化]] [[' + dv.current().file.name + ']] -->
 
 ### Source研究
 
@@ -845,6 +838,28 @@ Les alexipharmaques, les cordiaux, le mouvement, & les autres ressources contre 
 
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v3-656-0/
 
+
+- ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v3-656-0/
+
+### 一次資料
+
+- Dacier, Anne. Œuvres d’Horace, traduites en français, avec des remarques critiques et historiques. Paris: Rigaud, 1709.
+- Desprez, Nicolas-Michel. In Persium commentarius, dans A. Persii Flacci satirarum liber, cum commentariis et interpretationibus. Paris: Sébastien Mabre-Cramoisy, 1684. (Ad usum Delphini)
+- Geoffroy, Étienne-François. Traité de la matière médicale. Antoine Bergier (trad.). Paris: J. Desaint et C. Saillant, 1743. T. VI, pp. 68-74.
+- James, Robert. Dictionnaire universel de médecine, de chirurgie, de chymie, de botanique, d’anatomie, de pharmacie, d’histoire naturelle, &c. Paris: Briasson, David l’aîné, Durand, 1746-1748.
+- Jaucourt, Louis de. “CIGUE.” Encyclopédie, vol. 3, p. 449-451.
+- Plutarchus. Vies des hommes illustres grecs et romains. Trad. André Dacier. Paris: Vve Barbin, 1721. T. VI (Vie de Phocion, p. 409).
+- Ray, John. “Part of a Letter from Mr. John Ray, F.R.S. to Dr. Sloane, dated June 30, 1697, Containing Two Observations.” Philosophical Transactions 19 (1695-1697): 227-228.
+- Scaliger, Julius Caesar. Exercitationes exotericae de subtilitate. 1557. Ex. CLII “De Cicuta.”
+- Dictionnaire universel françois et latin, vulgairement appelé Dictionnaire de Trévoux. Paris: Compagnie des libraires associés, 1740, 1743, 1752. Art. “Ciguë.”
+
+### 二次資料
+
+- Barroux, Gilles et Pépin, François (dir.). Le Chevalier de Jaucourt. L’homme aux dix-sept mille articles. Paris: Société Diderot, 2015.
+- Ferret, Olivier. “La philosophie de l’emprunt : Jaucourt et l’histoire de l’Espagne dans l’Encyclopédie.” Recueil d’études sur l’Encyclopédie et les Lumières, n. 2, 2013.
+- Morris, Madeleine F. Le chevalier de Jaucourt. Un ami de la terre (1704-1780). Genève: Droz, 1979.
+- Trapp, Michael B. (éd.). Socrates from Antiquity to the Enlightenment. Aldershot: Ashgate, 2007.
+
 ### Jaucourtについて
 
 - Proust Jacques, « Le protestantisme dans l’Encyclopédie », DHS Dimens., vol. 17, 1985, p. 53-65. (F:\Dropbox\_temporary\Proust1985_Le_protestantisme_dans_Encyclopedie_ocr_translated.md)
@@ -875,3 +890,38 @@ Haechler_Encyclopedie_de_Diderot_et_de_Jaucourt_trd2.md
 Ehrard,Lumieres et esclavages
 
 - 項目カード: [[CIGUE]]
+
+## 研究ログ
+
+### 260316 作業記録
+- **注釈セクション全面改稿**
+  - 典拠比較メモ形式から、Web公開向け散文注釈へ全面書き換え
+  - ジョクールの言説的実践を6つの脚注付きで構造的に分析
+- **論述構成**
+  - 導入: 標題分類（Hist. nat. Bot.）からソクラテスへの転位の分析
+  - ジョフロワ典拠の改変操作（内服批判の強化、古典文献の挿入）
+  - ペルシウス・ホラティウス・プリニウス三者並列のジョクール独自性
+  - スカリジェ典拠の人称・地名・食法の三重変換
+  - Trévoux辞典との差異化（語源学排除、フォキオン逸話の拡充）
+  - Ferret/Morris/Barroux-Pépin の先行研究への位置づけ
+- **新知見**
+  - スカリジェ典拠同定が現代研究文献に先例なしとの判断を注釈本文に明記
+
+### 260327 作業記録
+- **¶14〜¶22 削除（原文・翻訳）**
+  - 水生ドクニンジン（Cigue aquatique）・中毒治療法部分を原文・翻訳・書誌（Wepfer）から削除
+- **注釈大幅拡張**（pub 版向け）
+  - 原仏語引用追加：« La mort de Socrate a seule suffi pour en immortaliser les effets »
+  - 「哲学的・政治的省察」への転位を明記
+  - Morris「コラージュ」概念・Barroux-Pépin「着想源の屈折と再分配」追加
+  - 脚注¹：18世紀ソクラテス論争史（反共和主義的解釈 vs 民主主義的解釈）
+  - 脚注³：Desprez の *frigidus*（冷性の薬）解釈を補足
+  - 脚注⁵：Trévoux典拠（M. Petit『雑録』）との差異を明記
+  - 脚注⁶：Barroux-Pépin「Présentation」（共著）の正確な書誌と頁番号（p. 15）追加
+- **書誌拡張**（一次資料6件追加）
+  - Dacier（ホラティウス訳注 1709）、Desprez（Persius *Ad usum Delphini* 1684）
+  - James（医学辞典 1746-48）、Plutarque-Dacier（フォキオン伝）
+  - Ray/*Philosophical Transactions*（1697）、Trévoux辞典各版
+  - 二次資料：Trapp（2007）追加
+- **表記統一**：スカリジェ → スカリゲル（全箇所）
+- **docx 出力**：REEL06/2026-02-tr-cigue-pub.docx

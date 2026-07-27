@@ -53,15 +53,19 @@ lastCopied: "2026-03-11T14:24:39.952Z"
 
 ## 注釈
 
-Jaucourtによる百科全書項目。衡平（équité）を「各人に正当に属するものを、個々の状況に応じて返す徳」と定義し、正義（justice）との区別を論じる。イングランド大法官裁判所（cour de chancellerie）を衡平の制度的実現として高く評価し、法の一般性と個別事情の乖離を補正する主権者の義務を説く。衡平の究極的根拠を自然法に求め、Montesquieu『ペルシア人の手紙』第81書簡を引用して締めくくる。 ^p0017
+ジョクール騎士による百科全書項目。「道徳、政治法（Morale, Droit politiq.）」の標題分類の下に、イングランド大法官裁判所という具体的制度を称賛するという構成は、この項目の特徴的な編集戦略を端的に示す。ジョクールはモンテスキューの『法の精神』（De l’Esprit des lois）を理論的基軸として、英国法制度の参照、アリストテレス以来の衡平概念の系譜、そして自然法的根拠づけという複数の知的操作を単一の論証構造に統合している。
 
-- 衡平（équité）と正義（justice）の区別：正義は確立された法・規則に従い賞罰を行うのに対し、衡平は行為の可変的状況を考慮する
-- イングランド大法官裁判所（cour de chancellerie）：法の文言の厳格さを緩和し、衡平と良心の規則のみに基づいて判断する制度
-- 立法の一般性と個別事情の乖離：法の一般的表現や人間精神の限界により、立法者が全ての場合を予見できないことへの対処
-- 自然法（loi naturelle）としての衡平：衡平の権威は自然法に由来し、人為的・恣意的な取り決めに依拠しない
-- Montesquieu『ペルシア人の手紙』引用：書簡81（Usbek à Rhédi）における衡平の内面的実践への賛美
+まず項目の出発点を定める二つの操作がある。第一は、Trévoux辞典（1752年版）との対比的な脱神話化である。Trévoux はÉQUITÉ項目でギリシア語ἐπιείκεια を明記し衡平を「テミスの娘」として神話的に人格化していたが、ジョクールはこれらを全面的に排除し、衡平概念を超自然的根拠から切り離して自然法と制度理性の領域に移送する。第二は、英国法律辞典からの選択的転用である。¶2のイングランド大法官裁判所の記述——法の文言の厳格さを緩和し「衡平と良心の規則のみに基づいて」事案を審理する——は、Chambers Cyclopaedia (1741) およびJacob, New Law-Dictionary (1729) の “CHANCERY”項目に共通する定型表現の仏訳であるが、ジョクールはそれを法制度の実証的報告としてではなく、理念としての衡平を体現する実例として機能させている。²
 
-- ^p0018
+こうした操作の理論的基盤はモンテスキューの『法の精神』(EL)に求められる。第一の軸はEL, I, 1の命題——「衡平の諸関係は実定法に先行する（il faut avouer des rapports d’équité antérieurs à la loi positive qui les établit）」——であり、これ自体がアリストテレス『ニコマコス倫理学』V, 10（1137b11–27）のἐπιείκεια——「法の一般性ゆえに生じる欠落を、立法者自身がその場にいたならば定めたであろう仕方で補正すること」——の近代的再定式化にあたる。¹ ジョクールの¶4–5——法の一般性が予見しえなかった状況を君主の「思慮に導かれた意志（« volonté du prince, disposée par les règles de la prudence »）」によって補正するという論理——は、このアリストテレス＝モンテスキュー的衡平概念を百科全書的・制度論的語彙へと展開したものである。第二の軸はEL, XXVII, 1であり、モンテスキューはそこでローマのpraetorが厳格な古法を「衡平、節度、礼節の理由（raisons d’équité, de modération et de bienséance）」によって修正したと述べている。ジョクールが¶2でイングランド大法官裁判所を称賛する際、Chambers/Jacobの辞典的記述の背後には、このpraetorの実例が理論的奥行きを与えていたと考えられる。³
+
+EL I, 1の命題はさらに、項目全体を統合する自然法的根拠づけとして機能する。¶6「好意的な判断がそのすべての権威を引き出すのは自然法からである」はこの命題を百科全書の語彙に移植したものであり、英国大法官裁判所（¶2）、アリストテレスの衡平論（¶4–5）、そして自然法（¶6–7）という複数の参照先を「自然法に根ざす衡平」という単一の原理のもとに統合する。Plucknettが跡づけるように、イギリス衡平法の歴史的展開においては16世紀以降カノン法由来のconscience概念が支配的となった。ジョクールはChambers/Jacobの定式を¶2で忠実に引き継ぎ「衡平と良心の規則（la regle de l’équité & de la conscience）」と記述するが、¶6で衡平の理論的根拠を付与する段になるとconscience には言及せず、もっぱらモンテスキューの自然法命題に依拠する。これは制度的記述と哲学的根拠づけを切り離す操作であり、Chambers/Jacobが担わなかった理論的補填をモンテスキューで行うという構造になっている。その帰結として、¶8でモンテスキューの権威をELではなく『ペルシア人の手紙』第81書簡（Usbek à Rhédi）の引用によって喚起するのは修辞的に決定的である。制度論として展開してきた衡平を内面的徳の実践として結語するこの転換は、読者を法制度の観察者としてではなく衡平を生きる道徳的主体として呼びかける百科全書的戦略の完結をなす。⁴
+
+ジョクールの¶8末尾のクロスリファレンス「Voyez Droit, Justice, Économie politique, Bien, Mal」は、衡平概念が百科全書内の問題群ネットワークにいかに結節しているかを指示する。最も直接的な接続点はディドロが執筆した *DROIT NATUREL* である。同項目第11節第八命題——「衡平は正義に対して原因がその結果に対するのと同じ関係にある（l’équité est à la justice comme la cause est à son effet）」——は、ジョクールが「衡平の根拠は自然法にある（¶6）」と述べる命題を生成論的に展開し、衡平が正義を産出する原因として定式化する。すなわち ÉQUITÉ 項目が衡平の機能と自然法的根拠を確立し、DROIT NATUREL 項目がその制度的帰結としての正義を担当するという役割分担が見える。さらにもう一つの、今度は明示されない接続が *DROIT NATUREL 第10節と *INDIGNATION 項目（ともにディドロ執筆）を介して現れる。ディドロは一般意志の「保管所」の一つとして「indignation & ressentiment」——「社会法と公的報復の欠如を補うために自然が動物に至るまで置いた情念」——を挙げる。アリストテレス『弁論術』第II巻第9章において、義憤（νέμεσις）は「衡平な人（ἐπιεικής）」の固有の情動として定義されており、ディドロのINDIGNATIONとジョクールのÉQUITÉは同一のアリストテレス的概念対の両側に位置することになる。百科全書のアルファベット順配列の表面下には、ÉQUITÉ—*DROIT NATUREL—*INDIGNATION を結ぶ三角形的な概念連動が潜在しており、衡平な人とは正義の担い手であるとともに義憤の感受者でもあるという古典的規定が、明示的な相互参照なしに項目間で構造的に再現されている。⁵
+
+¹ Aristote, Éthique à Nicomaque, V, 10, 1137b11–27。衡平の古典的定義については、この箇所が本項目¶4–5の論理的基礎をなしていることを参照。 ² Chambers, Ephraim, Cyclopaedia, vol. 1 (1741), “CHANCERY”; Jacob, Giles, A New Law-Dictionary, “CHANCERY” (1729)。定型表現の文言対応については制度論段落（¶2）を参照。 ³ Montesquieu, De l’Esprit des lois, Livre I, ch. 1: « il faut avouer des rapports d’équité antérieurs à la loi positive qui les établit »; Livre XXVII, ch. 1: « les préteurs ne furent plus touchés que des raisons d’équité, de modération et de bienséance ». ⁴ Plucknett, T. F. T., A Concise History of the Common Law, 5th ed., London, 1956, pp. 685–701; Montesquieu, Lettres persanes, LXXXI (Usbek à Rhédi). ⁵ Diderot, *DROIT NATUREL, ¶10: « l’indignation & le ressentiment, ces deux passions que la nature semble avoir placées jusque dans les animaux pour suppléer au défaut des lois sociales & de la vengeance publique »; ¶11-8°: « l’équité est à la justice comme la cause est à son effet ». νέμεσις / ἐπιεικής 概念対置については Aristote, Rhétorique*, II, 9 (1386b9–1387b25) を参照。
+
+<!-- assertion-preserve: ^p0017 ^p0018 [[260210_ÉQUITÉ_INDIGNATION_Trévoux_Encyclopédie比較]] [[260206_ÉQUITÉ_同時代典拠比較カード]] [[碧海純一_法と社会_衡平と万民法の発展]] [[260222_Diderot_Textes_Primaires_Conspiratio_VG]] [[260207_Aristote_Rhetorique_II9_Nemesis_Epieikes]] -->
 
 ### 明示的典拠（引用が明確）
 
@@ -77,6 +81,25 @@ Jaucourtによる百科全書項目。衡平（équité）を「各人に正当�
 ## 書誌
 
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v5-1789-0/
+
+
+- ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v5-1789-0/
+- 執筆者: Jaucourt
+- 分類: Morale, Droit politiq.
+
+### 一次資料
+
+- Aristote, Éthique à Nicomaque, V, 10 (1137b11–27)
+- Aristote, Rhétorique, II, 9 (1386b9–1387b25)
+- Chambers, Ephraim, Cyclopaedia, vol. 1 (1741), “CHANCERY”
+- Cicéron, De Officiis — équité/justiceの区別、共通善（bien commun）概念の源流
+- Jacob, Giles, A New Law-Dictionary, “CHANCERY” (1729)
+- Montesquieu, De l’Esprit des lois, Livre I, ch. 1; Livre XXVII
+- Montesquieu, Lettres persanes, LXXXI（Usbek à Rhédi）
+
+### 二次資料
+
+- Plucknett, T. F. T., A Concise History of the Common Law, 5th ed., London, 1956
 
 ### Trévoux比較
 - [[260210_ÉQUITÉ_INDIGNATION_Trévoux_Encyclopédie比較]] — Trévoux辞典（1743/1752）との三者比較。νέμεσις / ἐπιεικής 架橋分析
@@ -116,7 +139,7 @@ Jaucourtによる百科全書項目。衡平（équité）を「各人に正当�
 - [岩田靖夫『アリストテレスの政治思想』](obsidian://open?vault=Obs_Recmd&file=02_Antiquity%2FGreek%2FAristote%2Fi%E5%B2%A9%E7%94%B0_%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3_orgtxt) — L425: 法に勝る正義としてのエピエイケイア（NE V, 10解説）/ L1021: 優れた人(epieikés)と農民デモクラシー / L2563: 独裁者によるepieikeis攻撃（善い人々は不正を受け入れない） / L3521: 善美の人(epieikés)とムーシケー教育
 
 ### Conspiratio系譜との接点
-- [[260201_DN_Conspiratio_concordance]] — DROIT NATUREL §IX「équité est à justice comme cause à effet」対照行
+- [[260201_DN_Conspiratio_concordance]] — DROIT NATUREL §IX« équité est à justice comme cause à effet » 対照行
 - [[260222_Diderot_Textes_Primaires_Conspiratio_VG]] — DN §IX 一次テクスト
 
 - 項目カード: [[ÉQUITÉ]]

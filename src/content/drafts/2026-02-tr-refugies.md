@@ -34,23 +34,25 @@ _Source URL: [ENCCRE](https://enccre.academie-sciences.fr/encyclopedie/article/v
 
 ## 注釈
 
-本項目の解釈的鍵は、Vandeul写本の証言にある。Leca-Tsiomis（*Écrire l'Encyclopédie*, 1999, p. 490）が示すように、ディドロは\*RÉFUGIÉSを「近代史・政治」の辞典項目としてではなく、「定義補遺（Définitions 1re Partie Supplément）」の一つとして分類しており、同一リストに\*INTOLÉRANCE（不寛容）が並置されている¹。この事実は、本項目がディドロにとって歴史的記録ではなく道徳哲学的命題だったことを示す。\*INTOLÉRANCEが不寛容の原理的論駁——教父引用の連鎖によって不寛容者を彼ら自身の伝統から論駁するという構造的逆説——を展開するとすれば、\*RÉFUGIÉSはその歴史的帰結を「100万人近い勤勉な人々」（près d'un million d'hommes industrieux）の流出という経済的損失として実証的に告発する補完的テクストである。両項目を統合すれば、不寛容は理論的に誤り、道徳的に悪く、歴史的に破壊的であるという三段の論証が完成する。
+本項目の解釈的鍵は、Vandeul写本の証言にある。Leca-Tsiomis（Écrire l’Encyclopédie, 1999, p. 490）が示すように、ディドロは*RÉFUGIÉSを「近代史・政治」の辞典項目としてではなく、「定義補遺（Définitions 1re Partie Supplément）」の一つとして分類しており、同一リストに*INTOLÉRANCE（不寛容）が並置されている¹。この事実は、本項目がディドロにとって歴史的記録ではなく道徳哲学的命題だったことを示す。*INTOLÉRANCEが不寛容の原理的論駁——教父引用の連鎖によって不寛容者を彼ら自身の伝統から論駁するという構造的逆説——を展開するとすれば、*RÉFUGIÉSはその歴史的帰結を「100万人近い勤勉な人々」（près d’un million d’hommes industrieux）の流出という経済的損失として実証的に告発する補完的テクストである。両項目を統合すれば、不寛容は理論的に誤り、道徳的に悪く、歴史的に破壊的であるという三段の論証が完成する。
 
 「盲目的な熱狂」（zèle aveugle）という語は、同時代の概念史的文脈に置くとき、鋭い批判的射程を帯びる。シャフツベリが『熱狂についての書簡』で峻別したenthusiasmとzealの区別——前者が理性的批判に開かれた情念であるのに対し、後者は自説を嘲笑（ridicule）の検証に服させることを拒否する閉じた主体性を意味する——は、ディドロの« zèle aveugle »がたんなる感情的非難ではなく、理性的言説空間からの自己排除という哲学的診断であることを示す²。
 
-項目の論証構造そのものが、辞典間の思想戦争に参画する戦略的身振りとして読まれなければならない。Dufloの分析が明らかにしたように、« réfugié（亡命者） »という語の定義は、フュルティエール（1690）の中立的記述から、トレヴー辞典（1721）の「誤謬に戻った者」という反プロテスタント的評価に至る系譜を持つ³。百科全書はこの系譜のなかに明確に位置を取り、プロテスタント側の立場を公然と引き受ける。項目末尾の参照指示« Voyez Persécution & Tolérance »は、DRAGONADE、\*MASSACRE、\*PACIFICATION、\*PERSÉCUTERとともに形成されるより広い「迫害批判項目群」ネットワーク（Duflo, 2025）の結節点として機能し、ルイ14世のプロテスタント迫害政策に対する体系的な言説的批判を構成する⁴。
+項目の論証構造そのものが、辞典間の思想戦争に参画する戦略的身振りとして読まれなければならない。Dufloの分析が明らかにしたように、« réfugié（亡命者） »という語の定義は、フュルティエール（1690）の中立的記述から、トレヴー辞典（1721）の「誤謬に戻った者」という反プロテスタント的評価に至る系譜を持つ³。百科全書はこの系譜のなかに明確に位置を取り、プロテスタント側の立場を公然と引き受ける。項目末尾の参照指示« Voyez Persécution & Tolérance »は、DRAGONADE、*MASSACRE、*PACIFICATION、*PERSÉCUTERとともに形成されるより広い「迫害批判項目群」ネットワーク（Duflo, 2025）の結節点として機能し、ルイ14世のプロテスタント迫害政策に対する体系的な言説的批判を構成する⁴。
 
-本項目の修辞的頂点は「悪しき市民」（mauvais citoyens）という語に凝縮される。この語は特定個人の同定ではなく、三重の特徴づけ——利己的・野心的動機（vûes intéressées & ambitieuses）、思考の自由への敵対（ennemis de toute liberté de penser）、無知による支配（régner qu'à l'ombre de l'ignorance）——によって構成される道徳哲学的類型の提示として機能する。注目すべきは、この批判が宗教論争の語彙ではなく国家理性の語りで構成されている点である。「有用な臣民」（sujets utiles）、「技芸、才能、資源」（des arts, des talens, & des ressources）という経済学的損失の計量が、迫害を宗教的過ちとしてではなく国益の毀損として告発する。この語りの転換は、不寛容の問題を神学的論争から政治経済学の地平へと移行させるディドロの戦略であり、宗教的議論では説得されない読者をも射程に収める修辞的選択である⁵。
+本項目の修辞的頂点は「悪しき市民」（mauvais citoyens）という語に凝縮される。この語は特定個人の同定ではなく、三重の特徴づけ——利己的・野心的動機（vûes intéressées & ambitieuses）、思考の自由への敵対（ennemis de toute liberté de penser）、無知による支配（régner qu’à l’ombre de l’ignorance）——によって構成される道徳哲学的類型の提示として機能する。注目すべきは、この批判が宗教論争の語彙ではなく国家理性の語りで構成されている点である。「有用な臣民」（sujets utiles）、「技芸、才能、資源」（des arts, des talens, & des ressources）という経済学的損失の計量が、迫害を宗教的過ちとしてではなく国益の毀損として告発する。この語りの転換は、不寛容の問題を神学的論争から政治経済学の地平へと移行させるディドロの戦略であり、宗教的議論では説得されない読者をも射程に収める修辞的選択である⁵。
 
-¹ Vandeul写本（ms. BNF n.a.fr. 13 742）の*Synonymes français* 第64葉« Définitions 1re Partie Supplément »リストには、\*RÉFUGIÉSと\*INTOLÉRANCEが同一カテゴリーに並置されている。Leca-Tsiomis によれば、ディドロはこれらを「コレクションにまとめる意図を持っていた」（p. 490）。
+¹ Vandeul写本（ms. BNF n.a.fr. 13 742）のSynonymes français 第64葉« Définitions 1re Partie Supplément »リストには、*RÉFUGIÉSと*INTOLÉRANCEが同一カテゴリーに並置されている。Leca-Tsiomis によれば、ディドロはこれらを「コレクションにまとめる意図を持っていた」（p. 490）。
 
-² Shaftesbury, Anthony Ashley Cooper, *A Letter concerning Enthusiasm*, London, 1708（仏訳: Claire Crignon-De Oliveira訳注, Le Livre de Poche, 2002）. シャフツベリはzeal（熱狂）をraillery（嘲笑・批判的試験）に耐えられない閉じた信念態度として批判的に分析した。
+² Shaftesbury, Anthony Ashley Cooper, A Letter concerning Enthusiasm, London, 1708（仏訳: Claire Crignon-De Oliveira訳注, Le Livre de Poche, 2002）. シャフツベリはzeal（熱狂）をraillery（嘲笑・批判的試験）に耐えられない閉じた信念態度として批判的に分析した。
 
-³ Duflo, Colas, « L’article RÉFUGIÉS de l'Encyclopédie, préparation du dossier », *Les Mots de Diderot*, ENCCRE, 2025. Leca-Tsiomis, Marie, Écrire l'Encyclopédie, Paris, Champion, 1999, p. 490 も参照（バナージュ・ド・ボーヴァルによる「フュルティエールのカルヴァン派化」の分析）。
+³ Duflo, Colas, « L’article RÉFUGIÉS de l’Encyclopédie, préparation du dossier », Les Mots de Diderot, ENCCRE, 2025. Leca-Tsiomis, Marie, Écrire l’Encyclopédie, Paris, Champion, 1999, p. 490 も参照（バナージュ・ド・ボーヴァルによる「フュルティエールのカルヴァン派化」の分析）。
 
-⁴ Duflo, ibid. 本項目がDRAGONADE、\*JOURNÉE DE LA SAINT-BARTHÉLEMY、\*MASSACRE、\*PACIFICATION、\*PERSÉCUTERとともにルイ14世迫害批判の項目群を構成し、さらに\*INTOLÉRANCE、TOLÉRANCE、ZÉLE de religion を含む宗教的寛容擁護の広い項目ネットワークに属することを論じる。とりわけ本項目が暗黙の標的とする「盲目的あるいは厚顔無恥な人々」が、1758年の『ルイ14世弁護論』（Apologie de Louis XIV）を著したJean Novi de Caveiracを念頭に置いている可能性については、Proust, Jacques, *Diderot et l'Encyclopédie*, Paris, Armand Colin, 1962, pp. 299-300 を参照。
+⁴ Duflo, ibid. 本項目がDRAGONADE、*JOURNÉE DE LA SAINT-BARTHÉLEMY、*MASSACRE、*PACIFICATION、*PERSÉCUTERとともにルイ14世迫害批判の項目群を構成し、さらに*INTOLÉRANCE、TOLÉRANCE、ZÉLE de religion を含む宗教的寛容擁護の広い項目ネットワークに属することを論じる。とりわけ本項目が暗黙の標的とする「盲目的あるいは厚顔無恥な人々」が、1758年の『ルイ14世弁護論』（Apologie de Louis XIV）を著したJean Novi de Caveiracを念頭に置いている可能性については、Proust, Jacques, Diderot et l’Encyclopédie, Paris, Armand Colin, 1962, pp. 299-300 を参照。
 
 ⁵ Vandeul写本での「道徳哲学的分類」と整合的なこの論証戦略は、宗教的議論のみならず経済学的・政治学的論拠によって迫害批判の射程を最大化する啓蒙思想的修辞の典型である。
+
+
 
 ### 「le conseil d'un souverain」の制度史的意味
 
@@ -204,6 +206,23 @@ Adamsによれば、ディドロは *Apologie* を読んだ怒りからEncyclop�
 ## 書誌
 
 - ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v14-188-0/
+
+
+- ENCCRE: https://enccre.academie-sciences.fr/encyclopedie/article/v14-188-0/
+
+### 一次資料
+
+- Shaftesbury, Anthony Ashley Cooper, A Letter concerning Enthusiasm, London, 1708（仏訳: Claire Crignon-De Oliveira訳注, Le Livre de Poche, 2002）.
+
+### 二次資料
+
+- Adams, Geoffrey, The Huguenots and French Opinion, 1685-1787, Waterloo, Wilfrid Laurier University Press, 1991.
+- Barroux, Gilles et Pépin, François (éds.), Le chevalier de Jaucourt: l’homme aux dix-sept mille articles, Paris, Société Diderot, 2015.
+- Duflo, Colas, « L’article RÉFUGIÉS de l’Encyclopédie, préparation du dossier », Les Mots de Diderot, ENCCRE, 2025.
+- Leca-Tsiomis, Marie, Écrire l’Encyclopédie, Paris, Champion, 1999.
+- Morris, Thelma, Le chevalier de Jaucourt: Un ami de la Terre, Genève, Droz, 1979.
+- Proust, Jacques, Diderot et l’Encyclopédie, Paris, Armand Colin, 1962.
+- Schwab, Richard N., « Un Encyclopédiste huguenot: Le Chevalier de Jaucourt (Un Lien direct entre les érudits de la Dispersion et l’Encyclopédie) », PMLA, 77 (4), 1962, pp. 323-332.
 
 ### 百科全書項目
 - [[INTOLÉRANCE]] - 不寛容（ディドロ執筆）：寛容論の理論的基盤

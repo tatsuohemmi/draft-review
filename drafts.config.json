@@ -15,6 +15,6 @@
     "2026-02_tr_PERSÉCUTER",
     "2026-02_tr_RÉFUGIÉS"
   ],
-  "vaultDraftsRoot": "..",
+  "vaultDraftsRoot": "../01_Projects",
   "outputDir": "src/content/drafts"
 }
